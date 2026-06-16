@@ -2,41 +2,58 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabulary Challenge</title>
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>TOEFL Vocabulary Trainer</title>
 
     <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
 
     <div class="container">
 
-        <h1>Vocabulary Challenge</h1>
+        <h1>TOEFL Vocabulary Trainer</h1>
 
         <!-- 例句 -->
-        <div id="sentence" class="sentence">
+        <div
+            id="sentence"
+            class="sentence">
+
             Loading vocabulary...
+
         </div>
 
-        <!-- 输入区域 -->
-        <div class="input-area">
+        <!-- 单词补全区域 -->
+        <div
+            id="wordArea"
+            class="word-area">
 
-            <input
-                type="text"
-                id="answerInput"
-                placeholder="Type the missing letters..."
-                autocomplete="off">
+        </div>
+
+        <!-- 提交按钮 -->
+        <div class="controls">
 
             <button onclick="checkAnswer()">
+
                 Submit
+
             </button>
 
         </div>
 
-        <!-- 结果 -->
-        <div id="result" class="result"></div>
+        <!-- 结果区域 -->
+        <div
+            id="result"
+            class="result">
+
+        </div>
 
     </div>
 
