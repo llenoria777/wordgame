@@ -259,51 +259,23 @@ function makeQuestion() {
 
 
 
-        input.addEventListener(
-            "keydown",
-            function (e) {
+input.addEventListener("input", function () {
 
-                if (
-                    e.key ===
-                    "Backspace"
-                ) {
+    this.value =
+        this.value
+            .replace(/[^a-zA-Z]/g, "")
+            .slice(0, 1);
 
-                    if (
-                        !this.value &&
-                        this.previousElementSibling &&
-                        this.previousElementSibling.classList.contains(
-                            "letter-box"
-                        )
-                    ) {
-
-                        this.previousElementSibling
-                            .focus();
-                    }
-
-                }
-
-                if (
-                    e.key ===
-                    "Enter"
-                ) {
-
-                    if (
-                        waitingNext
-                    ) {
-
-                        waitingNext =
-                            false;
-
-                        makeQuestion();
-                    }
-                    else {
-
-                        checkAnswer();
-                    }
-                }
-
-            }
-        );
+    if (
+        this.value &&
+        this.nextElementSibling &&
+        this.nextElementSibling.classList.contains(
+            "letter-box"
+        )
+    ) {
+        this.nextElementSibling.focus();
+    }
+});
 
 
 
