@@ -1,819 +1,185 @@
-brief|n. v. 摘要, 简介; adj. 短暂的; 【词根】brev 短 【拓展】briefly 短暂地, 简略地;|The study helps researchers better understand brief.
-planet|n. ⾏星; 【词源】同 place 地点|The study helps researchers better understand planet.
+brief|n. v. 摘要, 简介; adj. 短暂的; 【词根】brev 短 【拓展】briefly 短暂地, 简略地;|The lawyer gave a brief summary of the case.
+planet|n. 行星; 【词源】同 place 地点|Earth is the third planet from the sun.
 BEAT|《托福必考 2000 词》 List 01 请加助教微信|The study helps researchers better understand BEAT.
-predator|n. 掠夺者; ⻝⾁动物; 【词源】同 plunder 掠夺 【拓展】Predatory 掠夺的; ⻝⾁的;|The study helps researchers better understand predator.
-sound|adj. 健康的; n. 声⾳; v. 听起来 【词源】同 sonic 声⾳的 【拓展】consonant 辅⾳|The study helps researchers better understand sound.
-community|n. 社区; 社团; ⽣物群落; 【词根】com 共同+muni 服务, 公共|The study helps researchers better understand community.
-minor|n. 辅修; adj. 较⼩的; 【词根】min ⼩ 【拓展】minority 少数, 少数⺠族;|The study helps researchers better understand minor.
-rate|n. ⽐率; 速度; v. 估价; 定级; 【词根】rat- 计算 【形近】rat ⼤⽼⿏, ⽥⿏|The study helps researchers better understand rate.
-factor|n. 因素; 代理⼈; 【词根】fac 做→促使→因素动⼒|The study helps researchers better understand factor.
-ancient|adj. 古代的; 过时的; n. 古代⼈ 【词根】anci 古⽼|The study helps researchers better understand ancient.
-organism|n. ⽣物, 有机体; 【词根】organ 器官, ⼯具|The study helps researchers better understand organism.
-flow|n. 流动; 流程; 【词源】同 flood 洪⽔; float 漂浮; 【拓展】 outflowing 流出的; inflowing 流⼊的; fleet ⻜逝, 舰队|The study helps researchers better understand flow.
-yawn|v. 打呵⽋; 拟声词：打哈⽋的声⾳和嘴型|The study helps researchers better understand yawn.
-highlight|n. v. 显著强调; 【词根】high ⾼+light 光→强光显著|The study helps researchers better understand highlight.
-termite|n. ⽩蚁; 【词根】term 结束停⽌+ite ⼈或物 【词源】来⾃拉丁⽂ termes ⽩蚁|The study helps researchers better understand termite.
-infant|n. 婴幼⼉; 【词根】in 不+fan 说话→说不利落 【拓展】toddler 学步阶段的幼⼉|The study helps researchers better understand infant.
-source|n. 来源, 源头; 【词根】sur, sour 向上追溯 【辨析】origin 侧重起源出⾝|The study helps researchers better understand source.
-crop|n. 农作物, 庄稼; v. 种植收获; 【辨析】 corn ⾕物 crop 农作物 grain ⾕类颗粒|The study helps researchers better understand crop.
-create|v. 创造发明; 【词根】cre 增⻓+ate 做→创造 【拓展】 creator 创造者, 创作者 creative 创造性的 creature ⽣物, ⼈|The study helps researchers better understand create.
-extinction|n. 灭绝; 【词源】同 extinguish 熄灭, 破灭 【词根】ex 出+sting 刺, ⽕焰→灭⽕ 【拓展】extinct 灭绝的|The study helps researchers better understand extinction.
-resource|n. 资源; 财⼒物⼒; 【词根】re 再次+source 获得资源|The study helps researchers better understand resource.
-groundwater|n. 地下⽔; 【词根】ground 地⾥+water ⽔ 【拓展】aquifer 地下蓄⽔层|The study helps researchers better understand groundwater.
-layer|n. 层; v. 分层; 【词根】lay 放置 【类⽐】stratum 地层, 社会阶层|The study helps researchers better understand layer.
-event|n. 事件活动; 【词根】e 向外+vent 来→发⽣事件 【拓展】uneventful 平凡的|The study helps researchers better understand event.
-affect|vt. 影响, 感动; n. 感情; 【词根】af+fect 做→影响 【拓展】affection 钟爱, 感情|The study helps researchers better understand affect.
-sediment|n. 沉淀(物); 【词根】sed, sit 坐下落下→沉积 【拓展】sedimentation 沉积(现象)|The study helps researchers better understand sediment.
-involve|v. 包含, 牵涉, 介⼊; 【词根】in 进⼊+volv 转→转进去 【拓展】involvement 牵连, 参与|The study helps researchers better understand involve.
-determine|v. 确定, 下决⼼; 【词根】de 加强+termin 界限 【拓展】predetermine 预先确定|The study helps researchers better understand determine.
-deposit|n. v. 沉淀(物); 存款; 【词根】de 下+posit 放→沉淀存住 【拓展】sediment 沉淀物|The study helps researchers better understand deposit.
-mean|v. 表示; 打算; n. 平均数; adj. 刻薄的; 【词根】mean=middle 中间→平均|The study helps researchers better understand mean.
-cycle|n. 周期, 循环; 【词根】cycl 圆环→周期|The study helps researchers better understand cycle.
-pottery|n. 陶器; 【词根】pot 壶 【拓展】potter 陶⼯|The study helps researchers better understand pottery.
-pacific|adj. 和平的; 平静的; (Pacific 太平洋) 【词根】pac 和平+ific 产⽣|The study helps researchers better understand pacific.
-glacier|n. 冰川; 【词根】glaci=ice 冰 【拓展】glacial 冰川的|The study helps researchers better understand glacier.
-individual|n.个⼈; adj. 单独个体的; 【词根】in 不+divide 分开→单独的 【拓展】individualism 个⼈主义;|The study helps researchers better understand individual.
-rub|v. 摩擦; 【拓展】rubber 橡胶|The study helps researchers better understand rub.
-gas|n. ⽓体; 汽油; ⽡斯; 缩写⾃ gasoline 汽油 【拓展】gaseous ⽓态的|The study helps researchers better understand gas.
-signal|n. 信号; 【词根】sign 记号, 信号 【辨析】sign 公认的记号征兆|The study helps researchers better understand signal.
-site|n. 地点, 遗址; v. 坐落安置于; 【词根】sit 坐→位于 【辨析】 situation 侧重环境特征 site 泛指专⻔⽤途的地点|The study helps researchers better understand site.
-behavior|n. 举⽌, ⾏为; 来⾃ behave 表现举⽌ 【词根】be 动词+have 具有→⾏为|The study helps researchers better understand behavior.
-aquifer|n. 蓄⽔层; 【词根】aqui ⽔+fer 带来→蓄⽔层 【辨析】water table 地下⽔位|The study helps researchers better understand aquifer.
-beg|v. 乞讨; 恳求(原谅); 【词源】来⾃ bid 投标争取→恳求 【拓展】beggar 乞丐|The study helps researchers better understand beg.
-charge|n. v. 费⽤; 掌管; 电荷; 装满; 充电; 【词根】charge 装载→电荷, 费⽤ 【拓展】recharge 充电, 补充精⼒|The study helps researchers better understand charge.
-hypothesis|n. 假设; 【词根】hypo 下+thesis 论⽂ 【拓展】 hypothetical 假设的 hypothesize 假设假定|The study helps researchers better understand hypothesis.
-impact|n. v. 碰撞, 影响; 【词根】im 进+pact 包裹紧密|The study helps researchers better understand impact.
-primary|adj. 主要, 初步的; n. 第⼀; 【词根】prim 第⼀, 主要, 初级的|The study helps researchers better understand primary.
-economy|n. 经济; 【词根】eco ⽣态, 经济 【拓展】economic 经济的|The study helps researchers better understand economy.
-vary|v. 改变; 【词根】vary 变化 【拓展】alter 微改部分改变|The study helps researchers better understand vary.
-view|n. 观点; ⻛景; v. 看待; 【拓展】viewpoint 观点, 视⻆|The study helps researchers better understand view.
-cover|n. v. 掩盖; 【拓展】coverage 覆盖 uncover 揭露, 发现|The study helps researchers better understand cover.
-survive|v. 幸存, ⽣还; 【词根】sur 超过+viv ⽣命 【拓展】survival 幸存(者) survivor ⽣还者, 残存物|The study helps researchers better understand survive.
-physical|adj. ⾝体的, 物质的; 【词根】physi ⾃然物理|The study helps researchers better understand physical.
-researcher|n. 研究员; 来⾃ research 研究|The study helps researchers better understand researcher.
-sometime|adj. adv. 过去或将来的 某个时间; 【拓展】sometimes 时⽽, 间或|The study helps researchers better understand sometime.
-tend|vi. 趋向; 【形近】trend 倾向, 趋势|The study helps researchers better understand tend.
-thus|adv. 因此; 【拓展】therefore 因此 thereby 因此|The study helps researchers better understand thus.
-terrestrial|adj. 陆地的; 地球的; 【词根】terr ⼟地→地球上的 66 mediterranean  adj. 地中海的; 【词根】medi 中+terr ⼟地|The study helps researchers better understand terrestrial.
-mineral|n. 矿物; 【词根】mine 矿 【拓展】mineralize 使矿物化|The study helps researchers better understand mineral.
-exchange|n. vt. 交换, 交流; 交易, 兑换; 【词根】ex 出+change 改变→交换|The study helps researchers better understand exchange.
-complex|adj. 复杂的; n. 建筑群; 【词根】com 全部+plex 重叠→复杂|The study helps researchers better understand complex.
-volcano|n. ⽕⼭; 【拓展】 volcanic ⽕⼭的 volcanism ⽕⼭作⽤ 单词 ⾳标 释义 助记 feature  n. 特征; v. 使有特⾊; 【词根】feat 做→做事状态→特征 channel  n. 海峡; 频道; 途径; v. 引导; 【词根】chann=can 管道路线 statement  n. 声明, 陈述; 来⾃ state 陈述 presence  n. 出现, 到场; 存在; 【词根】pre 前+sen 实质→出席 buck  n. 雄⿅; <美语> 元 古英语 = male deer 公⿅ influence  n. v. 影响; 【词根】in 进⼊+flu 流动 location  n. 位置, 场所; 来⾃ locate 位于, 定居 【词根】loc=place 地点 【拓展】dislocate 脱⾅; 扰乱 settlement  n. 沉淀; 定居; 解决; 结算 来⾃ settle 解决, 定居, 下沉 【词根】set 安置好→定居, 解决 statue  n. 雕像; 【词根】stat 站,⽴→站着的雕像 【拓展】sculpture 雕塑, 雕刻 Statue&e ⼩雕像|The study helps researchers better understand volcano.
-product|n. 产品; 作品; 乘积; 来⾃ produce ⽣产 【词根】pro 向前+duce 引导|The study helps researchers better understand product.
-still|n. 平静; adj. 静⽌的; adv. 仍然; 【词根】still=small drop ⽔滴|The study helps researchers better understand still.
+predator|n. 掠夺者; 食肉动物; 【词源】同 plunder 掠夺 【拓展】Predatory 掠夺的; 食肉的;|Lions are powerful predators in the African savanna.
+sound|adj. 健康的; n. 声音; v. 听起来 【词源】同 sonic 声音的 【拓展】consonant 辅音|She has a sound mind and a strong body.
+community|n. 社区; 社团; 生物群落; 【词根】com 共同+muni 服务, 公共|The local community gathered for the annual festival.
+minor|n. 辅修; adj. 较小的; 【词根】min 小 【拓展】minority 少数, 少数民族;|He chose biology as his minor in college.
+rate|n. 比率; 速度; v. 估价; 定级; 【词根】rat- 计算 【形近】rat 大老鼠, 田鼠|The birth rate has declined in recent years.
+factor|n. 因素; 代理人; 【词根】fac 做→促使→因素动力|Weather is a key factor in crop growth.
+ancient|adj. 古代的; 过时的; n. 古代人 【词根】anci 古老|The ancient ruins attract many tourists.
+organism|n. 生物, 有机体; 【词根】organ 器官, 工具|A single-cell organism can survive in extreme conditions.
+flow|n. 流动; 流程; 【词源】同 flood 洪水; float 漂浮; 【拓展】 outflowing 流出的; inflowing 流入的; fleet 飞逝, 舰队|The river flows gently through the valley.
+yawn|v. 打呵欠; 拟声词：打哈欠的声音和嘴型|He tried to hide his yawn during the boring lecture.
+highlight|n. v. 显著强调; 【词根】high 高+light 光→强光显著|The report highlights the importance of education.
+termite|n. 白蚁; 【词根】term 结束停止+ite 人或物 【词源】来自拉丁文 termes 白蚁|Termites can cause serious damage to wooden houses.
+infant|n. 婴幼儿; 【词根】in 不+fan 说话→说不利落 【拓展】toddler 学步阶段的幼儿|The infant slept peacefully in her crib.
+source|n. 来源, 源头; 【词根】sur, sour 向上追溯 【辨析】origin 侧重起源出身|The river's source is high in the mountains.
+crop|n. 农作物, 庄稼; v. 种植收获; 【辨析】 corn 谷物 crop 农作物 grain 谷类颗粒|Farmers are busy harvesting the wheat crop.
+create|v. 创造发明; 【词根】cre 增长+ate 做→创造 【拓展】 creator 创造者, 创作者 creative 创造性的 creature 生物, 人|The artist creates beautiful sculptures from marble.
+extinction|n. 灭绝; 【词源】同 extinguish 熄灭, 破灭 【词根】ex 出+sting 刺, 火焰→灭火 【拓展】extinct 灭绝的|Many species are at risk of extinction.
+resource|n. 资源; 财力物力; 【词根】re 再次+source 获得资源|Water is a precious natural resource.
+groundwater|n. 地下水; 【词根】ground 地里+water 水 【拓展】aquifer 地下蓄水层|Farmers rely on groundwater for irrigation.
+layer|n. 层; v. 分层; 【词根】lay 放置 【类比】stratum 地层, 社会阶层|The cake has three layers of cream.
+event|n. 事件活动; 【词根】e 向外+vent 来→发生事件 【拓展】uneventful 平凡的|The concert was a major cultural event.
+affect|vt. 影响, 感动; n. 感情; 【词根】af+fect 做→影响 【拓展】affection 钟爱, 感情|The new policy will affect all employees.
+sediment|n. 沉淀(物); 【词根】sed, sit 坐下落下→沉积 【拓展】sedimentation 沉积(现象)|Sediment settled at the bottom of the river.
+involve|v. 包含, 牵涉, 介入; 【词根】in 进入+volv 转→转进去 【拓展】involvement 牵连, 参与|The project involves many different tasks.
+determine|v. 确定, 下决心; 【词根】de 加强+termin 界限 【拓展】predetermine 预先确定|We need to determine the exact cause of the problem.
+deposit|n. v. 沉淀(物); 存款; 【词根】de 下+posit 放→沉淀存住 【拓展】sediment 沉淀物|She deposited her savings in the bank.
+mean|v. 表示; 打算; n. 平均数; adj. 刻薄的; 【词根】mean=middle 中间→平均|What does this word mean in English?
+cycle|n. 周期, 循环; 【词根】cycl 圆环→周期|The water cycle is essential for life on Earth.
+pottery|n. 陶器; 【词根】pot 壶 【拓展】potter 陶工|She took a pottery class to learn how to make vases.
+pacific|adj. 和平的; 平静的; (Pacific 太平洋) 【词根】pac 和平+ific 产生|The Pacific Ocean is the largest ocean on Earth.
+glacier|n. 冰川; 【词根】glaci=ice 冰 【拓展】glacial 冰川的|The glacier slowly moves down the mountain.
+individual|n.个人; adj. 单独个体的; 【词根】in 不+divide 分开→单独的 【拓展】individualism 个人主义;|Each individual has unique talents and abilities.
+rub|v. 摩擦; 【拓展】rubber 橡胶|Please rub the stain with a soft cloth.
+gas|n. 气体; 汽油; 瓦斯; 缩写自 gasoline 汽油 【拓展】gaseous 气态的|The car runs on natural gas.
+signal|n. 信号; 【词根】sign 记号, 信号 【辨析】sign 公认的记号征兆|The traffic signal turned red.
+site|n. 地点, 遗址; v. 坐落安置于; 【词根】sit 坐→位于 【辨析】 situation 侧重环境特征 site 泛指专门用途的地点|They chose a beautiful site for their new house.
+behavior|n. 举止, 行为; 来自 behave 表现举止 【词根】be 动词+have 具有→行为|Good behavior is expected in the classroom.
+aquifer|n. 蓄水层; 【词根】aqui 水+fer 带来→蓄水层 【辨析】water table 地下水位|The aquifer provides clean water for the city.
+beg|v. 乞讨; 恳求(原谅); 【词源】来自 bid 投标争取→恳求 【拓展】beggar 乞丐|He had to beg for food on the street.
+charge|n. v. 费用; 掌管; 电荷; 装满; 充电; 【词根】charge 装载→电荷, 费用 【拓展】recharge 充电, 补充精力|The hotel charges $100 per night.
+hypothesis|n. 假设; 【词根】hypo 下+thesis 论文 【拓展】 hypothetical 假设的 hypothesize 假设假定|Scientists test their hypothesis through experiments.
+impact|n. v. 碰撞, 影响; 【词根】im 进+pact 包裹紧密|The new technology has a huge impact on our daily lives.
+primary|adj. 主要, 初步的; n. 第一; 【词根】prim 第一, 主要, 初级的|The primary reason for his success is hard work.
+economy|n. 经济; 【词根】eco 生态, 经济 【拓展】economic 经济的|The country's economy is growing steadily.
+vary|v. 改变; 【词根】vary 变化 【拓展】alter 微改部分改变|The prices vary depending on the season.
+view|n. 观点; 风景; v. 看待; 【拓展】viewpoint 观点, 视角|From the top, you have a beautiful view of the city.
+cover|n. v. 掩盖; 【拓展】coverage 覆盖 uncover 揭露, 发现|The snow covers the ground in winter.
+survive|v. 幸存, 生还; 【词根】sur 超过+viv 生命 【拓展】survival 幸存(者) survivor 生还者, 残存物|Only a few people survived the plane crash.
+physical|adj. 身体的, 物质的; 【词根】physi 自然物理|Regular exercise improves physical health.
+researcher|n. 研究员; 来自 research 研究|The researcher published her findings in a journal.
+sometime|adj. adv. 过去或将来的 某个时间; 【拓展】sometimes 时而, 间或|Let's meet sometime next week.
+tend|vi. 趋向; 【形近】trend 倾向, 趋势|People tend to eat more in cold weather.
+thus|adv. 因此; 【拓展】therefore 因此 thereby 因此|He worked hard and thus succeeded.
+terrestrial|adj. 陆地的; 地球的; 【词根】terr 土地→地球上的 66 mediterranean  adj. 地中海的; 【词根】medi 中+terr 土地|Terrestrial animals live on land.
+mineral|n. 矿物; 【词根】mine 矿 【拓展】mineralize 使矿物化|The soil is rich in minerals.
+exchange|n. vt. 交换, 交流; 交易, 兑换; 【词根】ex 出+change 改变→交换|They exchanged gifts at the party.
+complex|adj. 复杂的; n. 建筑群; 【词根】com 全部+plex 重叠→复杂|This math problem is too complex for beginners.
+volcano|n. 火山; 【拓展】 volcanic 火山的 volcanism 火山作用 单词 音标 释义 助记 feature  n. 特征; v. 使有特色; 【词根】feat 做→做事状态→特征 channel  n. 海峡; 频道; 途径; v. 引导; 【词根】chann=can 管道路线 statement  n. 声明, 陈述; 来自 state 陈述 presence  n. 出现, 到场; 存在; 【词根】pre 前+sen 实质→出席 buck  n. 雄鹿; <美语> 元 古英语 = male deer 公鹿 influence  n. v. 影响; 【词根】in 进入+flu 流动 location  n. 位置, 场所; 来自 locate 位于, 定居 【词根】loc=place 地点 【拓展】dislocate 脱臼; 扰乱 settlement  n. 沉淀; 定居; 解决; 结算 来自 settle 解决, 定居, 下沉 【词根】set 安置好→定居, 解决 statue  n. 雕像; 【词根】stat 站,立→站着的雕像 【拓展】sculpture 雕塑, 雕刻 Statue&e 小雕像|The volcano erupted after years of being dormant.
+product|n. 产品; 作品; 乘积; 来自 produce 生产 【词根】pro 向前+duce 引导|The company launched a new product this month.
+still|n. 平静; adj. 静止的; adv. 仍然; 【词根】still=small drop 水滴|The lake was perfectly still in the morning.
 BEAT|《托福必考 2000 词》 List 02 请加助教微信|The study helps researchers better understand BEAT.
-ecosystem|n. ⽣态系统; 【词根】eco ⽣态+system 系统|The study helps researchers better understand ecosystem.
-evolve|v. 发展, 进化; 【词根】e 出+volv 转→进展 【拓展】evolution 进化发展|The study helps researchers better understand evolve.
-across|adv. 穿过, 越过; 【词根】a 在+cross 交叉|The study helps researchers better understand across.
-grain|n. ⾕物; 颗粒; 【词源】同 seed 种⼦→⻓成⾕物|The study helps researchers better understand grain.
-stimulus|n. 刺激物; 【词源】同 sting 刺|The study helps researchers better understand stimulus.
-stream|n. v. ⼩河; 流; 【拓展】streambed 河床 【拓展】brook ⼭间⼩河|The study helps researchers better understand stream.
-reservoir|n. ⽔库, 蓄⽔池; 来⾃ reserve 保留 【词根】re 再+serv 保留→储蓄|The study helps researchers better understand reservoir.
-local|adj. 地⽅的, 当地的; 拉丁语 loc=place 地⽅ 【拓展】localize (使)地⽅化|The study helps researchers better understand local.
-phrase|n. 短语; 措辞; 拉丁语 phrase=tell 措辞 【形近】phase 阶段⽅⾯|The study helps researchers better understand phrase.
-turtle|n. 乌⻳; 海⻳; 来⾃法语 tortoise 形变|The study helps researchers better understand turtle.
-available|adj. 可⾏的, 有空的; 可获得的; 来⾃ avail 效⽤利益 【词根】a 趋向+vail 价值|The study helps researchers better understand available.
-route|n. 路线, 渠道; 【词源】同 road 道路|The study helps researchers better understand route.
-significant|adj. 重要的; 显著的; 【词根】sign 记号标志→加强重要 【拓展】insignificant ⽆关紧要的|The study helps researchers better understand significant.
-establish|vt. 建⽴, 设置; 来⾃ stable 稳定的 【词根】sta 站⽴稳固→建⽴ 【拓展】establishment 建⽴|The study helps researchers better understand establish.
-identify|v. 鉴别, 确定; 【词根】ident 相同,识别→鉴别 【拓展】identity ⾝份特性|The study helps researchers better understand identify.
-jaw|n. 下颚, 下巴; 【词源】同 chew→咀嚼动下巴 【辨析】cheek 脸颊|The study helps researchers better understand jaw.
-observe|v. 观察, 观测; 遵守; 【词根】ob 加强+serv 保持→遵守 【拓展】observer 观察者, 遵守者|The study helps researchers better understand observe.
-composition|n. 组成; 作品; 作⽂; 来⾃ compose 组成, 创作 【词根】com ⼀起+pose 放 【拓展】composer 作曲家|The study helps researchers better understand composition.
-engine|n. 发动机; 机⻋; 【词源】同 ingenuity 新颖创造 【拓展】machinery 机器总称|The study helps researchers better understand engine.
-origin|n. 起源; 出⾝; 【词根】orig 升起, 开始→起源|The study helps researchers better understand origin.
-stability|n. 稳定性; 来⾃ stable 稳定的 【词根】st 站⽴→能站住→稳定的 【拓展】instability 不稳定, 不坚决|The study helps researchers better understand stability.
-range|n. ⼭脉; 范围; 【词根】range 排列→ 连续, ⼭脉|The study helps researchers better understand range.
-solar|adj. 太阳, ⽇光的; 【词根】sol 太阳, 独⼀⽆⼆|The study helps researchers better understand solar.
-coast|n. 海岸; 【词源】同 costa 边缘肋条|The study helps researchers better understand coast.
-melt|v. (使)融化, 熔化; 【词源】mild 软化, 温柔的|The study helps researchers better understand melt.
-decline|v.下降; 衰落; 婉拒; 【词根】de 向下+clin 倾斜→下倾|The study helps researchers better understand decline.
-claim|n. 主张, 断⾔; 【词根】claim=呼喊 【拓展】acclaim 欢呼喝彩|The study helps researchers better understand claim.
-attic|n. 阁楼; 形变来⾃雅典 Athens→雅典建筑|The study helps researchers better understand attic.
-marine|adj. 海洋的; n. 海军陆战队⼠兵; 【词根】mari 海的→海⽣的 【拓展】mariner ⽔⼿|The study helps researchers better understand marine.
-unite|v. 联合, 团结; 【词根】unit 个体→联合团结|The study helps researchers better understand unite.
-religious|adj. 宗教的; 虔诚的; 【词根】re+lig 捆绑→受信念约束 【拓展】religion 宗教|The study helps researchers better understand religious.
-urban|adj. 城市的; 【词根】urb 城市+an 地⽅|The study helps researchers better understand urban.
-irrigate|v. 灌溉; 【词根】ir 进⼊+rig ⽔→进⽔灌溉 【拓展】 irrigation 灌溉 overirrigation 过渡灌溉|The study helps researchers better understand irrigate.
-benefit|n. v. 利益; 受益; 有益于; 【词根】bene 善 ,好+fit 做→利益|The study helps researchers better understand benefit.
-matter|n. 事件; 物质; 重要性; v. 有重要性; 【词源】同 mother ⺟→本质, 重要 性|The study helps researchers better understand matter.
-periodic|adj. 周期, 定期的; 来⾃ period 时期, ⼀段时间 【词根】peri 周围+od ⾛路 48 characteristic  adj. 特点, 品质, 特有的; 【词根】charact 特性品质→特征 【拓展】characteristics 特征性质|The study helps researchers better understand periodic.
-atmosphere|n. ⼤⽓层; ⽓氛; 【词根】atmos 蒸汽+sphere 球|The study helps researchers better understand atmosphere.
-crater|n. ⽕⼭⼝, 陨⽯坑; 弹坑; 【词源】同 cradle 篮⼦→原义为碗 状造型→坑⼝|The study helps researchers better understand crater.
-visual|adj. 视觉的, 可⻅的; 【词根】vis 看, 查→看得⻅的 【拓展】 visionary 有远⻅的 visible 明显可⻅的 vision 视觉视⼒, 想象⼒ visualize 使形象化, 想象 nonvisual ⾮可视的|The study helps researchers better understand visual.
-migration|n. 迁徙, 移居; 来⾃ migrate 迁徙 【词根】migr 迁移|The study helps researchers better understand migration.
-emphasize|vt. 强调突出; 【词根】em 进⼊+phas 状态 【拓展】emphasis 强调|The study helps researchers better understand emphasize.
-maintain|vt. 维持, 保养; 坚持; 【词根】main ⼿+tain 拿→坚持 【拓展】maintenance 维修保持|The study helps researchers better understand maintain.
-replace|vt. 代替; 【词根】re 重新+place 放→代替 【拓展】replacement 替换,替补|The study helps researchers better understand replace.
-illustrate|vt. 举例说明, 图解 【词根】il 进⼊+lustr 光→说明 【拓展】illustration 说明, 图解|The study helps researchers better understand illustrate.
-internal|adj. 内部的, 国内的; 【词根】inter 在之间→内在国内|The study helps researchers better understand internal.
-mound|n. ⼟墩; ⼀堆; 【词源】同 mountain ⼭丘 【词根】mount 登上, 安装|The study helps researchers better understand mound.
-meter|n. ⽶; v. 计量, 测量; 【词源】同 measure 测量|The study helps researchers better understand meter.
-climax|n. ⾼潮, 顶点; 【形近】climb 上升, 攀登|The study helps researchers better understand climax.
-property|n. 财产, 特性; 【词根】proper 拥有→财产, 地产|The study helps researchers better understand property.
-contribute|v. 贡献, 捐助; 【词根】con 全部+tribut 给予→捐 【拓展】 contributory 促成的, 有作⽤的; contributor 贡献者, 捐助者;|The study helps researchers better understand contribute.
-decrease|n. v. 减少; 【词根】de 向下+crease 增⻓|The study helps researchers better understand decrease.
-glacial|adj. 冰川的; 【词根】glaci=ice 冰 【拓展】glacier 冰川|The study helps researchers better understand glacial.
-Dutch|n. adj. 荷兰 (⼈, 语, 的) 【拓展】Netherlands 荷兰|The study helps researchers better understand Dutch.
-ant|n. 蚂蚁;|The study helps researchers better understand ant.
-oxygen|n. 氧⽓; 元素氧; 【拓展】 hydrogen 氢  oxygen 氧  helium 氦  nitrogen 氮  ammonia 氨  chlorine 氯 |The study helps researchers better understand oxygen.
-pressure|n. v. 压⼒; 施压; 【词根】press 挤压|The study helps researchers better understand pressure.
-reflection|n. 反射, 反省, 反映; 来⾃ reflect 反射, 反思 【词根】re 反+flect 弯曲→反射|The study helps researchers better understand reflection.
-geothermal|adj. 地热的; 【词根】geo 地+therm 热 【拓展】geothermy 地热 单词 ⾳标 释义 助记 ceramic  n. adj. 陶器(的); 来⾃希腊语=pottery contrast  n. 对⽐, 对照; 【词根】contra 相对+st 站 nest  n. 巢, 窝; 【词源】同 sit 坐 blood  n. ⾎; ⾎统 【拓展】bleed 流⾎ continent  n. ⼤陆, 陆地; 【词根】con ⼀起+tin 拿→⼀块⼟地 reveal  vt. 揭示; 展现, 【词根】re 反+veal, veil 盖→揭露 Cretaceous  n. adj. ⽩垩纪(的); 拉丁⽂ creta=chalk ⽩垩粉(粉笔灰); 得名于⻄欧地层中的⽩垩沉积。 represent  v. 象征; 代表; 【词根】re 再+present 出席→象征 throughout  prep. adv. 贯穿; 【词根】through 通过+out 向外|The study helps researchers better understand geothermal.
-clay|n. 粘⼟; 【词源】同 cling 附着; glue 胶合;|The study helps researchers better understand clay.
-cellar|n. 地下室, 酒窖; 【词根】cell ⼩房⼦+ar 物→地窑|The study helps researchers better understand cellar.
-enable|vt. 使能够; 【词根】en 使+able 能⼒的→能够|The study helps researchers better understand enable.
-locate|v. 定位, 位于; 【词根】loc=place 地点 【拓展】relocate 迁移, 重新安置|The study helps researchers better understand locate.
-extend|v. 延伸, 扩展; 【词根】ex 出+tend 伸展→扩张 【拓展】extension 延⻓, 扩充|The study helps researchers better understand extend.
+ecosystem|n. 生态系统; 【词根】eco 生态+system 系统|The forest ecosystem supports many species.
+evolve|v. 发展, 进化; 【词根】e 出+volv 转→进展 【拓展】evolution 进化发展|Species evolve over millions of years.
+across|adv. 穿过, 越过; 【词根】a 在+cross 交叉|She walked across the bridge.
+grain|n. 谷物; 颗粒; 【词源】同 seed 种子→长成谷物|Bread is made from grain.
+stimulus|n. 刺激物; 【词源】同 sting 刺|Light is a stimulus for plant growth.
+stream|n. v. 小河; 流; 【拓展】streambed 河床 【拓展】brook 山间小河|A small stream runs through the forest.
+reservoir|n. 水库, 蓄水池; 来自 reserve 保留 【词根】re 再+serv 保留→储蓄|The reservoir supplies water to the whole region.
+local|adj. 地方的, 当地的; 拉丁语 loc=place 地方 【拓展】localize (使)地方化|We bought fresh vegetables from the local market.
+phrase|n. 短语; 措辞; 拉丁语 phrase=tell 措辞 【形近】phase 阶段方面|She couldn't remember the exact phrase.
+turtle|n. 乌龟; 海龟; 来自法语 tortoise 形变|The turtle slowly crawled across the sand.
+available|adj. 可行的, 有空的; 可获得的; 来自 avail 效用利益 【词根】a 趋向+vail 价值|The doctor is available for an appointment tomorrow.
+route|n. 路线, 渠道; 【词源】同 road 道路|Which route should we take to reach the city?
+significant|adj. 重要的; 显著的; 【词根】sign 记号标志→加强重要 【拓展】insignificant 无关紧要的|There was a significant increase in sales.
+establish|vt. 建立, 设置; 来自 stable 稳定的 【词根】sta 站立稳固→建立 【拓展】establishment 建立|They established a new school in the village.
+identify|v. 鉴别, 确定; 【词根】ident 相同,识别→鉴别 【拓展】identity 身份特性|Can you identify the suspect in this photo?
+jaw|n. 下颚, 下巴; 【词源】同 chew→咀嚼动下巴 【辨析】cheek 脸颊|He broke his jaw in the accident.
+observe|v. 观察, 观测; 遵守; 【词根】ob 加强+serv 保持→遵守 【拓展】observer 观察者, 遵守者|Astronomers observe the stars through telescopes.
+composition|n. 组成; 作品; 作文; 来自 compose 组成, 创作 【词根】com 一起+pose 放 【拓展】composer 作曲家|She wrote a beautiful musical composition.
+engine|n. 发动机; 机车; 【词源】同 ingenuity 新颖创造 【拓展】machinery 机器总称|The car's engine started with a loud noise.
+origin|n. 起源; 出身; 【词根】orig 升起, 开始→起源|The origin of this tradition is unknown.
+stability|n. 稳定性; 来自 stable 稳定的 【词根】st 站立→能站住→稳定的 【拓展】instability 不稳定, 不坚决|Political stability is important for economic growth.
+range|n. 山脉; 范围; 【词根】range 排列→ 连续, 山脉|A mountain range runs along the border.
+solar|adj. 太阳, 日光的; 【词根】sol 太阳, 独一无二|Solar energy is a clean and renewable resource.
+coast|n. 海岸; 【词源】同 costa 边缘肋条|They live on the east coast of the United States.
+melt|v. (使)融化, 熔化; 【词源】mild 软化, 温柔的|The snow began to melt in the spring sun.
+decline|v.下降; 衰落; 婉拒; 【词根】de 向下+clin 倾斜→下倾|The population of this species is declining rapidly.
+claim|n. 主张, 断言; 【词根】claim=呼喊 【拓展】acclaim 欢呼喝彩|The scientist claimed to have made a breakthrough.
+attic|n. 阁楼; 形变来自雅典 Athens→雅典建筑|They stored old furniture in the attic.
+marine|adj. 海洋的; n. 海军陆战队士兵; 【词根】mari 海的→海生的 【拓展】mariner 水手|Marine life is diverse and fascinating.
+unite|v. 联合, 团结; 【词根】unit 个体→联合团结|The two countries united to form a stronger alliance.
+religious|adj. 宗教的; 虔诚的; 【词根】re+lig 捆绑→受信念约束 【拓展】religion 宗教|She is deeply religious and prays daily.
+urban|adj. 城市的; 【词根】urb 城市+an 地方|Urban areas are often crowded and noisy.
+irrigate|v. 灌溉; 【词根】ir 进入+rig 水→进水灌溉 【拓展】 irrigation 灌溉 overirrigation 过渡灌溉|Farmers irrigate their fields during dry seasons.
+benefit|n. v. 利益; 受益; 有益于; 【词根】bene 善 ,好+fit 做→利益|Regular exercise benefits both body and mind.
+matter|n. 事件; 物质; 重要性; v. 有重要性; 【词源】同 mother 母→本质, 重要 性|It doesn't matter what others think.
+periodic|adj. 周期, 定期的; 来自 period 时期, 一段时间 【词根】peri 周围+od 走路 48 characteristic  adj. 特点, 品质, 特有的; 【词根】charact 特性品质→特征 【拓展】characteristics 特征性质|The machine requires periodic maintenance.
+atmosphere|n. 大气层; 气氛; 【词根】atmos 蒸汽+sphere 球|The Earth's atmosphere protects us from harmful rays.
+crater|n. 火山口, 陨石坑; 弹坑; 【词源】同 cradle 篮子→原义为碗 状造型→坑口|The meteorite left a huge crater in the ground.
+visual|adj. 视觉的, 可见的; 【词根】vis 看, 查→看得见的 【拓展】 visionary 有远见的 visible 明显可见的 vision 视觉视力, 想象力 visualize 使形象化, 想象 nonvisual 非可视的|The teacher uses visual aids to help students learn.
+migration|n. 迁徙, 移居; 来自 migrate 迁徙 【词根】migr 迁移|Birds travel long distances during migration.
+emphasize|vt. 强调突出; 【词根】em 进入+phas 状态 【拓展】emphasis 强调|The teacher emphasized the importance of practice.
+maintain|vt. 维持, 保养; 坚持; 【词根】main 手+tain 拿→坚持 【拓展】maintenance 维修保持|It is important to maintain a healthy lifestyle.
+replace|vt. 代替; 【词根】re 重新+place 放→代替 【拓展】replacement 替换,替补|We need to replace the broken window.
+illustrate|vt. 举例说明, 图解 【词根】il 进入+lustr 光→说明 【拓展】illustration 说明, 图解|The professor illustrated the concept with a simple example.
+internal|adj. 内部的, 国内的; 【词根】inter 在之间→内在国内|The company is facing internal conflicts.
+mound|n. 土墩; 一堆; 【词源】同 mountain 山丘 【词根】mount 登上, 安装|The ants built a small mound of dirt.
+meter|n. 米; v. 计量, 测量; 【词源】同 measure 测量|The parking meter requires coins.
+climax|n. 高潮, 顶点; 【形近】climb 上升, 攀登|The movie reached its climax in the final scene.
+property|n. 财产, 特性; 【词根】proper 拥有→财产, 地产|This property is worth a lot of money.
+contribute|v. 贡献, 捐助; 【词根】con 全部+tribut 给予→捐 【拓展】 contributory 促成的, 有作用的; contributor 贡献者, 捐助者;|Everyone should contribute to protecting the environment.
+decrease|n. v. 减少; 【词根】de 向下+crease 增长|The number of students decreased this year.
+glacial|adj. 冰川的; 【词根】glaci=ice 冰 【拓展】glacier 冰川|Glacial ice covers much of Antarctica.
+Dutch|n. adj. 荷兰 (人, 语, 的) 【拓展】Netherlands 荷兰|He is learning to speak Dutch.
+ant|n. 蚂蚁;|Ants work together to build their colonies.
+oxygen|n. 氧气; 元素氧; 【拓展】 hydrogen 氢  oxygen 氧  helium 氦  nitrogen 氮  ammonia 氨  chlorine 氯 |Humans need oxygen to breathe.
+pressure|n. v. 压力; 施压; 【词根】press 挤压|The pressure of the water burst the pipe.
+reflection|n. 反射, 反省, 反映; 来自 reflect 反射, 反思 【词根】re 反+flect 弯曲→反射|He saw his reflection in the mirror.
+geothermal|adj. 地热的; 【词根】geo 地+therm 热 【拓展】geothermy 地热 单词 音标 释义 助记 ceramic  n. adj. 陶器(的); 来自希腊语=pottery contrast  n. 对比, 对照; 【词根】contra 相对+st 站 nest  n. 巢, 窝; 【词源】同 sit 坐 blood  n. 血; 血统 【拓展】bleed 流血 continent  n. 大陆, 陆地; 【词根】con 一起+tin 拿→一块土地 reveal  vt. 揭示; 展现, 【词根】re 反+veal, veil 盖→揭露 Cretaceous  n. adj. 白垩纪(的); 拉丁文 creta=chalk 白垩粉(粉笔灰); 得名于西欧地层中的白垩沉积。 represent  v. 象征; 代表; 【词根】re 再+present 出席→象征 throughout  prep. adv. 贯穿; 【词根】through 通过+out 向外|Geothermal energy is harnessed from the Earth's heat.
+clay|n. 粘土; 【词源】同 cling 附着; glue 胶合;|The artist shaped the clay into a beautiful pot.
+cellar|n. 地下室, 酒窖; 【词根】cell 小房子+ar 物→地窑|They store wine in the cellar.
+enable|vt. 使能够; 【词根】en 使+able 能力的→能够|The new software enables faster data processing.
+locate|v. 定位, 位于; 【词根】loc=place 地点 【拓展】relocate 迁移, 重新安置|The rescue team located the missing hikers.
+extend|v. 延伸, 扩展; 【词根】ex 出+tend 伸展→扩张 【拓展】extension 延长, 扩充|The road extends for another 50 miles.
 BEAT|《托福必考 2000 词》 List 03 请加助教微信|The study helps researchers better understand BEAT.
-density|n. 密度; 【词根】dens 变厚+ity 性质→密度 【拓展】dense 浓厚的, 密集的|The study helps researchers better understand density.
-stratum|n. 地层; 阶层; 【词根】strat 扩散→地层, 社会阶层|The study helps researchers better understand stratum.
-sequence|n. 顺序, 序列; 【词根】sequ 跟随, 追→连续|The study helps researchers better understand sequence.
-Egyptian|adj. 埃及 (⼈, 的); 来⾃ Egypt 埃及|The study helps researchers better understand Egyptian.
-current|n. ⽔流, 电流; 趋势; adj. 当前的; 【词根】curr 跑, 发⽣→流动|The study helps researchers better understand current.
-shell|n. 外壳; 炮弹; 【词源】同 scale 刮除, 脱落 【拓展】 seashell ⻉壳 shellfish ⻉类动物|The study helps researchers better understand shell.
-nutrient|n. adj. 营养 (的); 【词根】nutri 营养 【拓展】nutrition 营养|The study helps researchers better understand nutrient.
-canal|n. 运河, 沟渠; 【词根】can 容器,管道→运河, 槽沟 【形近】channel 频道, 渠道, 海峡|The study helps researchers better understand canal.
-style|n. ⻛格, 类型, 样式; 来⾃中古英语: 笔, 书写⼯具→⻛格|The study helps researchers better understand style.
-meteorite|n. 流星; 陨⽯; 来⾃ meteor 流星 【拓展】meteoritic 陨⽯的|The study helps researchers better understand meteorite.
-expand|v. 扩⼤, 扩展; 【词根】ex 出+pand 扩散→扩张 【拓展】expanse ⼴阔的区域|The study helps researchers better understand expand.
-host|n. 主⼈; v. 主持; 【词根】host 客→愿意待客的⼈|The study helps researchers better understand host.
-particle|n. 微粒; 颗粒; 粒⼦; 【词根】part 分开+icle ⼩东⻄→⼩|The study helps researchers better understand particle.
-Martian|n. ⽕星⼈; 来⾃ Mars ⽕星|The study helps researchers better understand Martian.
-relative|adj. 相关的; n. 亲戚 来⾃ relate 联系→相对, 相关的|The study helps researchers better understand relative.
-mill|n. v. 磨坊, ⼯⼚; 研磨; 来⾃希腊语 mola ⾅⻮|The study helps researchers better understand mill.
-against|prep. 反对; 倚靠; 来⾃ again 再次|The study helps researchers better understand against.
-specific|adj. 具体特定的; 【词根】speci 外观, 种类, 特别 【拓展】 specify 指定, 详细说明 specifics 详情, 细节, 特性|The study helps researchers better understand specific.
-import|n. v. 进⼝, 输⼊; 【词根】im 进⼊+port 港⼝→进⼝|The study helps researchers better understand import.
-consist|vi. 由...组成 (of) 【词根】con 共同+sist 站→站⼀起 →组成|The study helps researchers better understand consist.
-advantage|n. 优势, 利益; 【词根】vant=van 前卫→优点有利 【拓展】advantageous 有利的|The study helps researchers better understand advantage.
-algae|n. 藻类； 【词源】来⾃ alga 藻类 (复数 algae)|The study helps researchers better understand algae.
-geology|n. 地质(学); 【词根】geo 地+logy 学说 【拓展】 geologic 地质的 geologist 地质学家 Geological 地质学的|The study helps researchers better understand geology.
-vase|n. 花瓶; 来⾃ vessel 容器|The study helps researchers better understand vase.
-military|adj. 军事的, 军⽤的; 【词根】milit 兵+ary 形容词词尾|The study helps researchers better understand military.
-shift|n. v. 移动; 更替; 轮班; 换挡; 【词源】同 shed 脱落, 蜕⽪, 分⽔岭|The study helps researchers better understand shift.
-vessel|n. 船; 容器; ⾎管; 拉丁语 vas 容器 【词源】同 vase 花瓶; 【拓展】vascular ⾎管的;|The study helps researchers better understand vessel.
-diversity|n. 多样性, 差异; 【词根】di 分开+vers 转→不同 【拓展】diverse 多样的|The study helps researchers better understand diversity.
-adapt|v. 适应, 改编; 【词根】ad ⼀再+apt 能⼒→适应 【拓展】 adaptation 适应 adaptive 适应的|The study helps researchers better understand adapt.
-original|adj. 最初原始的; n. 原件; 原⽂; 来⾃ origin 起源 【拓展】orig 升起,开始→起源|The study helps researchers better understand original.
-preserve|vt. 保护, 保存; 【词根】pre 预先+serv 保留→保存 【拓展】preservation 保存|The study helps researchers better understand preserve.
-characterize|v. 描述特性, 塑造⼈物; 【词根】charact 特性 【拓展】 character 性格, ⻆⾊ characteristic 特⾊ characteristics 特征性质 characterization 特性描述刻画|The study helps researchers better understand characterize.
-mechanical|adj. 机械的; 来⾃ mechanic 技⼯ 【词源】同 machine 【词根】mach 机器|The study helps researchers better understand mechanical.
-Jovian|adj. ⽊星的 来⾃ Jupiter ⽊星|The study helps researchers better understand Jovian.
-obtain|vt. 拿到, 获得; 【词根】ob 加强+tain 拿→拿到 【拓展】unobtainable 得不到的;|The study helps researchers better understand obtain.
-global|adj. 全球的; 球形的; 来⾃ globe 球, 球状物=shpere|The study helps researchers better understand global.
-associate|v. 联系, 联合; 联想; n. 同事伙伴; 【词根】as 加强+soci 社团→联合|The study helps researchers better understand associate.
-extensive|adj. ⼴阔的; ⼤量的; 【词根】ex 出+ten 伸展→⼴⼤ 【拓展】 extension 延⻓, 扩充 extent 程度, ⻓度|The study helps researchers better understand extensive.
-dinosaur|n. 恐⻰; 【词根】dino 恐怖+saur 蜥蜴→恐⻰|The study helps researchers better understand dinosaur.
-draw|v. 绘画; 拖; 引起注意; 【词根】draw=pull→拉→绘画, 吸引|The study helps researchers better understand draw.
-carbon|n. 碳; 【词根】carb 碳 【词源】同 coal 煤; charcoal ⽊炭; 【拓展】carbonization 碳化|The study helps researchers better understand carbon.
-architecture|n. 建筑, 建筑学; 来⾃ architect 建筑师 【词根】archi, archy 统治+tect 构建|The study helps researchers better understand architecture.
-sign|n. 标记; 签名; ⼿语; 【词根】sign=mark 标记 【拓展】symbol 象征, 代表; 标志|The study helps researchers better understand sign.
-potential|adj. 潜在, 可能的; n. 潜⼒; 电势; 来⾃ potent 有⼒的, 有效的 【拓展】latent 潜藏的；隐伏的|The study helps researchers better understand potential.
-craft|n. ⼿⼯艺; v. ⼿⼯制作; 古英语 craft=strength, skill 技能 【拓展】 craftspeople ⼯匠, ⼿艺⼈ craftsman ⼯匠, ⼿艺⼈|The study helps researchers better understand craft.
-timberline|n. 树带界线; 林线; 来⾃ timber ⽊材, ⽊料|The study helps researchers better understand timberline.
-pore|n. 空隙; ⽑孔; 【词源】pore=passage 穿过 【拓展】 porous 多孔能渗透的 porosity 多孔性|The study helps researchers better understand pore.
-hare|n. 野兔; v. ⻜跑; hare=rabbit 兔⼦|The study helps researchers better understand hare.
-occupy|vt. 占领; 从事; 【词根】oc 再+cup 抓→占领 【拓展】 occupation 职业, 占领 occupant 占有者|The study helps researchers better understand occupy.
-civilization|n. ⽂明, ⽂化; 【词根】civil 公⺠的→⽂明⽂化 【拓展】 civil 全⺠的, 市⺠的 civilian 平⺠, ⺠间的|The study helps researchers better understand civilization.
-nestling|n. 雏⻦, 幼⻦; 【词根】nest ⻦巢 【拓展】 ground-nesting 地上筑巢的 tree- nesters 在树上筑巢的⻦|The study helps researchers better understand nestling.
-autobiography|【词根】auto ⾃⼰+biography 传记 【拓展】 biography 传记 biographer 传记作者|The study helps researchers better understand autobiography.
-inhabitant|n. 居⺠, 住户; 来⾃ inhabit 居住栖息于 【词根】in 进⼊+habit 居住, 习惯|The study helps researchers better understand inhabitant.
-account|n. 帐⽬; 账户; v. 解释; 认为是; 【词根】ac 加强+count 计算→账⽬|The study helps researchers better understand account.
-generate|vt. 产⽣; 发电; 【词根】gener ⽣殖+ate 动词词尾|The study helps researchers better understand generate.
-volume|n. 体积, 容量; ⾳量; 【词根】volu 转卷→卷, 容积 单词 ⾳标 释义 助记 herd  n. 兽群, 牧群; v. 放牧 【类⽐】 herd 动物群(尤指家畜, 也指⼈) flock ⻦群 swarm 蜂群等昆⾍群 drift  n. 漂流; 漂泊; 【词根】drif 驾驶偏移→冲洗, 漂流 【词源】同 drive 驾驶 association  n. 协会, 社团; 联合; 联 想; 来⾃ associate 联系, 联合, 联想 【词根】as 加强+soci 社团+→联 合 Rome  n. 罗⻢ (意⼤利⾸都); habitat  n. 栖息地, 住处; 【词根】habit 居住→住的惯地⽅ commercial  adj. 商业的, 贸易的; n. ⼴告; 来⾃ commerce 商业 【词根】com 共同+merc 交易 fort  n. 堡垒; v. 设置要塞保卫; 【词源】=strong 强壮→要塞堡垒 male  adj. 男性的, 雄性的; n. 男性; 雄性动物; ⾃拉丁语 masculus 男的, 雄性的 estimate  n. v. 评估判断, 预测; 【词源】同 esteem 敬重, 评价 【拓展】underestimate 低估 extinct  adj. 灭绝的; 【词根】ex 出+stinct ⽕焰→灭绝 tissue  n. 动、植物的组织; 薄 纸; ⾯⼱纸; 【词根】tissu 编织|The study helps researchers better understand volume.
-BEAT|《托福必考 2000 词》 List 04 请加助教微信 emerge  vi. 出现浮现; 暴露; 【词根】e 出+merge, merg 沉没 challenge  n. v. 挑战; 质疑; 驳斥; 拉丁语=accuse 指责指控 marsh  n. 湿地, 沼泽; 【词源】同 marine 海的 Nile  n. 尼罗河 (⾮洲东北 部); 【拓展】 Tigris 底格⾥斯河 Euphrates 幼发拉底河 right-handed  adj. adv. ⽤右⼿ (的, 地); 【词根】right 右+handed ⼿的 archaeologist  n. 考古学家; 来⾃ archaeology 考古学 【词根】archae 起始古⽼→考古 学 cue  n. 暗示, 提示; 线索; vt. 给…暗示; 【形近】clue 线索, 提示 prey  n. 被捕⻝者; 受害者; 【拓展】predator 捕⻝者 advance  v. 前进; 预⽀付; n. 进展; 预付款; adj. 预先的; 【词根】ad 向+van 先锋→前进 ecologist  n. ⽣态学家; 来⾃ ecology ⽣态学 【词根】eco ⽣态, 经济 atomic  adj. 原⼦的; 原⼦能的; 来⾃ atom 原⼦ 【词根】a 否定+tom 切割→ 原⼦曾被认为不能再被分割 mammal  n. 哺乳动物; 来⾃拉丁语=breast ⼈类语⾔学研究，最初⼈类的发⾳ ⼝腔近似，⽐如妈妈 mamma boundary  n. 分界线; 范围; 【词根】bound 分界+ary 场所 residence  n. 住处; 居住; 【词根】reside 居住驻扎→住处 evaporation  n. 蒸发; 来⾃ evaporate 蒸发, 挥发 【词根】e 出+vapor 蒸⽓→蒸发 succession  n. 连续; 继承; ⽣物演替; 【词根】suc 随后+cess ⾛→继续 【拓展】successive 连续的继承 的; observation  n. 观察, 观测; 来⾃ observe 观察, 遵守 【词根】ob 加强+serv 保持→遵守 imply  vt. 暗示, 意味; 【词根】im 进⼊+ply 重叠→不直 说, city-state  n. 城邦; 【词根】city 城市+state 国家, 州 pastoralism  n. ⽥园主义; 来⾃ pastoral 畜牧⽥园的 【词根】pastor 牧⼈→⽥园的 【拓展】shepherd 牧⽺⼈, 指导者 elite  n. 上层精英; 【词根】el=elect+ite ⼈→选⼈精 英 principle  n. 原则, 原理; 【词根】prin 主要+cip 拿→原则 visible  adj. 看得⻅, 明显的; 【词根】vis 看+ible 能→明显的 petroleum  n. ⽯油 【词根】petr ⽯头+oleum 矿物 combine  v. (使)联合, 结合 【词根】com 共同+-bine ⼀起 share  n. 股份; 市场占有率; v. 共享; 【拓展】stock 股票 external  adj. 外部的; 【词根】extern=exter 出,外→外部 drop  v. 落下; 降低; 退出; n. 滴落; 少量; 【词源】同 drip 滴落, ⽔滴 dominant  adj. 占优势,⽀配地位的 来⾃ dominate ⽀配, 统治, 控制 【词根】domin=dom 统治→占优 的 【拓展】predominant 占优势的 phenomenon  n. 现象; 【词根】pheno 显示→现象 opportunity  n. 机会, 时机 【词根】opportune 凑巧的 insect  n. 昆⾍; 卑鄙⼩⼈ 【词根】sect 切割→昆⾍切割分段 Netherlands  n. 荷兰 【拓展】Dutch 荷兰⼈的 transition  n. 过渡, 转变, 变迁 来⾃ transit 通过, 中转, 输送 【词根】trans 变换+it ⾛→中转输 送 sophisticated  adj. 复杂精致的; 富有经验的; 来⾃ sophist 诡辩家, 博学者 【词根】soph 智慧+ist ⼈→博学者 avoid  vt. 避开, 预防 【词根】a+void 空→空出来→回避 capacity  n.容量; 性能; 才能; 【词根】cap 拿握 crystal  n. 晶体; ⽔晶; adj. 透明清楚的; 【词根】cryst 冷+al 形容词→结晶 case  n. 实例; 情况; 案件; 容器盒⼦； 【词根】cas 偶然发⽣ rhythm  n. 节奏, 韵律 【词源】同 rhyme 押韵, 韵⽂ skeleton  n. ⻣骼, 梗概 【拓展】skeletal ⻣骼的 ritual  n. 典礼, (宗教)仪式 【词根】rite 仪式+-al 状态 assume  vt. 假定, 认为; 承担 【词根】as 加强+sume 拿→承担 【拓展】assumption 假设;承担采 取 innovation  n. 改⾰, 创新 来⾃ innovate ⾰新, 变⾰, 创始 【词根】in 内部+nov 新→⾰新 accumulate  v. 堆积，积累 【词根】ac=ad 去+cumulate 堆 landscape  n. ⻛景, 地形 【词根】land 地+-scape 形→⻛景 reliable  adj. 可靠的, 可信赖的 来⾃ rely 依赖, 信赖 【词根】re 再次+ly, li 捆绑→信赖 【拓展】reliability 可靠, 可信赖 invention  n. 发明, 创造 来⾃ invent 发明, 创造 【词根】in 进+vent ⾛→⾛进 发明 【拓展】inventor 发明家 millennium  n. ⼀千年 【词根】mill 千+enn 年+ium 表名 词 desertificatio n  n. 沙漠化 来⾃ desert 沙漠 【词根】de 离开+sert 加⼊→抛弃 asteroid  n. ⼩⾏星 【词根】aster 星星+oid 像→像星 星 【词源】同 star 星星 situation  n. 情况; 形势; 位置 来⾃ situate 使处于 【词根】sit 坐→使其坐于→使处于 define  v. 定义; 规定 【词根】de 加强+fine 限制→定义 fantasy  n. v. 幻想; 想像 【拓展】fancy 想象, 幻想 drought  n. ⼲旱 来⾃ dry ⼲的 【词根】dry 过去分词形式 solution  n. 解决; 溶解; 溶液 【词根】solu 溶解, 解决+tion 名词 decade  n. ⼗年 【词源】同 decimal ⼗进制的; propose  v. 提议; 计划; 求婚 【词根】pro 向前+pose 放→提议 fracture  n. v. 破裂; ⻣折, 折断; 【词根】fract 打碎 单词 ⾳标 释义 助记 liquid  n. 液体 adj. 液体的 【词根】liqu 液体 【拓展】liquefy (使)液化; arise  v. 产⽣; 出现; 起⽴; 起源于; 【词根】a+rise 上升增加→产⽣ substance  n. 物质; 实质 【词根】sub 下⾯+stan 站 porosity  n. 多孔性 来⾃ pore ⽑孔 【词根】por=passage 通过→孔 carve  v. 雕刻, 切开 【词源】同 cut 切 abundance  n. 丰富, 充裕 【词根】ab 加强+und 波动 →像波浪⼀样多→丰富 aspect  n. ⽅⾯; ⾯貌; 【词根】a 加强+spect 看→外表 raw  adj. ⽣的, 未加⼯的; 【词源】同 crude 天然, 简陋的 considerable  adj. 相当⼤或多的 来⾃ consider 认为, 把…看作 【词根】con 全部+sid 坐⼀起 cereal  n.⾕物; ⾕类(⻝品) 【词根】cere ⾕+al 物 obsidian  n. ⿊曜⽯ 【词源】名叫 Obsius 的⼈发现得名 efficient  adj. 有效率的 【词根】ef 出+fici 做→有效率的 【拓展】inefficient 低效率的|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 05 请加助教微信 fee  n. 费⽤; 【拓展】fare 旅⾏的⻋, 船费 consequence  n. 结果, 成果; 结论 【词根】con 全部+seq 连续→结果 crisis  n. 危机 【词根】cris 判断→需要判断危机 scholar  n. 学者; 【词根】schol 学+ar ⼈→学者 dioxide  n. ⼆氧化物 【词根】di 双+oxide 氧化物 toxic  adj. 有毒, 中毒的; 【词根】tox 毒+ic…的→毒的 coastal  adj. 沿海的;海岸的; 来⾃ coast 海岸=sea side 【词源】 costa=rib 肋, flank 侧, side 边 lie  v. 躺; 坐落于; 说谎; n. 谎⾔ 【推展】situate 使位于 access  n. ⼊⼝; 查阅权限 vt. 访问存取信息; 【词根】ac 接近+cess ⾛→⾛近 expose  vt. 揭露揭发; 使曝光 【词根】ex 出+pose 放→暴露 indeed  adv. 的确; 实际上; 【词根】in 使+deed 做→实际 favorable  adj. 赞同称赞的; 有利的; 来⾃ favor ⽀持, 促成, 宠爱 【词根】favor 好感 →赞成有利的 pot  n. 锅; 罐⼦; 茶壶; 陶盆; 古法语: 壶, 罐 migrate  v. 移居; 迁徙; 【词根】migr 迁移+ate 做→迁移 secondary  adj. 第⼆的; 次要辅助的; 中等中学的; 【词根】second 第⼆ →次要 retain  vt. 保持保留; 记住; 【词根】re 回来+tain 拿→保留 capable  adj. 有能⼒的; 胜任的 【词根】cap 拿抓+able 能→能⼲的 【拓展】 capability 能⼒ capacity 容量; 才能; genius 天才天赋 competence 能⼒才敢 gift 个⼈天赋 aptitude 天资才能 annual  adj. 每年; ⼀年的; n. 年刊; ⼀年⽣植物; 【词根】ann 年+ual…的 tectonic  adj. 构造的; 【词源】同 texture 结构质地, freshwater  adj. 淡⽔的; n. 淡⽔(河湖); 【词根】fresh 纯的, 淡的 numerous  adj. 许多的; 数不清的; 【词根】numer=number 数⽬ 【拓展】innumerable ⽆数的 explosion  n. 爆炸; 爆发; 来⾃ explode 爆炸爆发 【词根】ex 出+plod ⼤声→爆炸 navigate  v. 导航; 成功应对困难; 【词根】nav 船+ig ⾛→航海 【拓展】 navigational 航⾏的, 航海的; navigable 适于航⾏的; rarely  adv. 少有罕⻅地; 来⾃ rare 稀有的 responsible  adj. 尽责的; 有责任的; 来⾃ respond 回答, 响应 【词根】re 回+spond 承诺→回答 【拓展】responsibility 责任, 职责 spice  n. ⾹料调味品; 【词源】拉丁语 sort 分类协调好 geometric  adj. ⼏何学的; 来⾃ geometry ⼏何 【词根】geo 地+metr 测量 →⼏何 originate  v. 引起; 创作; 创始起源于; 来⾃ origin 起源 【词根】orig=rise/begin 开始 variation  n. 变化; 变量; 来⾃ vary=change 变化 【词根】vari 变化+ation 名词 erosion  n. 腐蚀侵蚀; 磨损; 来⾃ erode 腐蚀, 侵蚀 【词根】e 出+rod 咬→咬掉→侵蚀 bison  n. 美洲野⽜ 【词源】同 virus 病毒, 指野⽜腥味 rural  adj. 乡村的; 【词根】rur 农村→乡下⽥园的 favor  n. 赞同; vt. 偏袒; 更喜爱; in favor of = in support of ⽀持赞同 breed  v. 繁殖; n. 品种; 【词源】同 bear ⽣孩⼦结果; 【拓展】brood 孵蛋, ⼀窝 conduct  n. ⾏为举⽌; v. 执⾏; 指挥; 【词根】con 共同+duct 引导→指挥 cessation  n. (暂时)停止, 休止; 来⾃ cease 停⽌ drain  v. 排⽔; 耗尽; n. 排⽔(系统); 【词根】dry ⼲+ain 名词→流⼲ project  v. 项⽬; 放映投射; 伸出突出; 【词根】pro 向前+ject 扔→投射 【拓展】projector 投影仪 scrape  vt. 刮去; n. 擦刮; 刮痕; 【词源】同 scribe 抄写→纸⾯刮擦 【拓展】scratch 刮擦 league  n. 联盟; 联赛; v. 使结盟; 【词根】leag 捆绑→联合同盟 archaeological  adj. 考古学的 来⾃ archaeology 考古学 【词根】archae 起始→古⽼ female  adj. ⼥性的,雌性的; n. 雌性动植物; 【词根】fem ⼥→⼥性的 permanent  adj. 永久的; 耐久的; 【词根】per 贯穿+man 拿→永恒 dominate  v. ⽀配; 占优势 【词根】domin=dom 统治→⽀配 【拓展】predominantly 主导显著地 mine  n. 矿; 矿井; v. 开采; 【拓展】 miner 矿⼯; ore 矿⽯; availability  n. 有效性; 可⽤性; 来⾃ available 可获得的, 有空的 【词根】avail 效⽤,利益→可利⽤的 apparent  adj. 明显的; 貌似的; 【词源】同 appear 出现, 似乎 【词根】ap ⼀再+par 看⻅→显⻅ extent  n. 程度; ⻓度; ⼴⼤地域; 【词根】ex 出+tent 伸展→⼴度 isolate  v. 使隔离孤⽴; 绝缘; 【词根】sol 单独+ate 表动词→孤⽴ trap  v. 诱骗; 困住; n. 圈套陷阱; 【词源】同 trip 绊倒, 旅游 physiological  adj. ⽣理的,⽣理学的; 来⾃ physiology ⽣理学, ⽣理机能 【词根】physi ⾃然物理 →⽣理 competitor  n. 竞争者 来⾃ compete ⽐赛, 竞争 【词根】com 共同+pet 追→⽐赛 regional  adj. 地区的;区域的; 来⾃ region 地区 【词根】reg 统治规定→地区 arch  n. 拱⻔, 拱形; v. 拱起; 【词根】arch ⼸→变成⼸形 stigma  n. 花朵柱头; 污名耻辱 【词根】stigma=mark 标志斑点 encode  vt. 加密; 编码; 【词根】en 进⼊+code 编码→译码 approximately  adv. ⼤约近似 来⾃ approximate 接近 【词根】ap 不断+proxim 接近 stem  n. 植物的茎秆; v. (from) 起源于; 【拓展】 root 根 stem 茎秆 leaf 叶 trunk 树⼲ branch ⼤树枝 twig ⼩树枝 单词 ⾳标 释义 助记 detect  vt. 查明发现; 侦察 【词根】de 去掉+tect 盖 【拓展】detection 察觉, 发觉; cylinder  n. 圆筒, 圆柱; 汽缸 【词源】同 cycle 圈, 转动 【拓展】cylindrical 圆柱形的 parasite  n. 寄⽣物, 寄⽣⾍ 【词根】para 旁边+sit 坐 →寄⽣ 【拓展】host 宿主 parasitic 寄⽣的 parasitism 寄⽣状态 permeability  n. 渗透性 来⾃ permeate 渗⼊,渗透 【词根】per 贯穿+me ⾛ →渗过 【拓展】permeable 可渗透的 concentration  n. 集中; 专⼼; 关注; 浓度 来⾃ concentrate 集中浓缩 【词根】con 共同+centr 中⼼ amnesia  n. 健忘症 【词根】a 否定+mne 记忆→失忆 【拓展】insomnia glaciation  n. 冻成冰, 冰河作⽤ 来⾃ glacier 冰的, 冰川的 【词根】glace=ice 冰 【拓展】deglaciation 冰川消失; demonstrate  v. 示范, 证明, 论证 【词根】de 强调+monster 展示 【拓展】demonstration 演示 inhabit  vt. 居住于, 栖息 【词根】in 进⼊+habit 居住 【辨析】reside 合法永久居住|The study helps researchers better understand BEAT.
-elevation|n. ⾼度, 海拔 来⾃ elevate 举起, 提拔, 振奋 【词根】e 出+lev 举起→升⾼|The study helps researchers better understand elevation.
-flipper|n. 脚蹼; 鳍⾜ 【词源】来⾃ flip 翻转,动物脚蹼|The study helps researchers better understand flipper.
-BEAT|《托福必考 2000 词》 List 06 请加助教微信|The study helps researchers better understand BEAT.
-frequency|n. 频率; 发⽣次数 来⾃ frequence 频率, 频繁 【拓展】frequent 时常频繁的|The study helps researchers better understand frequency.
-rabbit|n. 兔, 野兔 【辨析】rabbit 家中饲养的家兔|The study helps researchers better understand rabbit.
-course|n. 课程; 航线; 河道; ⼀道菜 【词根】cour 跑→跑动起来 【拓展】curriculum 全部课程|The study helps researchers better understand course.
-fault|n. 缺点; 故障; 地壳断层 【词根】fault=fall 犯错 【拓展】faulty 有过失, 错误的|The study helps researchers better understand fault.
-invest|n. 投资; 投⼊; 【词根】in 进+vest ⾐服→掏钱 【拓展】investment 投资; 投⼊;|The study helps researchers better understand invest.
-pebble|n. 卵⽯; 【辨析】 gravel ⼩⽯⼦沙砾, 可⽤于铺路 pebble 河边或沙中的圆形⼩卵⽯|The study helps researchers better understand pebble.
-gravity|n. 引⼒, 重⼒ 【词根】grav 重+ity 名词→重⼒ 【拓展】gravitational 重⼒的|The study helps researchers better understand gravity.
-pastoralist|n. 牧⺠, ⽥园派作家 来⾃ pastoral ⽥园的, 宁静的 【词根】pastor 牧⼈→⽥园的|The study helps researchers better understand pastoralist.
-overcome|v. 战胜, 克服 【词根】over 之上+come 来 【辨析】conquer 战胜控制|The study helps researchers better understand overcome.
-colonize|v. 建⽴殖⺠地; ⼤批繁殖 【词根】colon 耕种殖⺠ 【拓展】colony 殖⺠聚居地|The study helps researchers better understand colonize.
-empire|n. 帝国; 企业集团; 【词根】emper=imper 统治 【拓展】 emperor 皇帝 imperial 帝国的|The study helps researchers better understand empire.
-porcelain|n. 瓷, 瓷器; adj. 瓷制的; 精美的; 【辨析】 ceramics 陶瓷器(泛指) pottery 陶器, 多指业余制作 earthenware 陶器易碎⽤于花盆 stoneware 粗陶, 防⽔可⽤于盘碗 porcelain ⾼档瓷器, 晶莹半透明|The study helps researchers better understand porcelain.
-nebula|n. 星云 【词源】拉丁⽂=mist 薄雾|The study helps researchers better understand nebula.
-contemporary|adj. 当代的; 同代的 n. 同代⼈; 【词根】con 共同+tempor 时间|The study helps researchers better understand contemporary.
-plankton|n. 浮游⽣物 【形近】plant 植物|The study helps researchers better understand plankton.
-feed|v.喂⻝; 供应; 满⾜; n. 饲料; 【词根】来⾃ food 的动词形式 【拓展】graze ⽤草喂牲畜|The study helps researchers better understand feed.
-proportion|n. ⽐率; ⽐例; 相称; 【词根】pro 多+port 部分 【拓展】proportionately 成⽐例|The study helps researchers better understand proportion.
-perception|n. 知觉; 觉察; 观念; 【词根】per 全部+cept 抓→理解 【拓展】perceptive 感知的|The study helps researchers better understand perception.
-organic|adj. 有机的; ⽣物的; ⾃然的; 器官的; 【词根】organ 器官→组织饿 31 countercurrent  n. 逆流; adv. 相反地; 【词根】counter 反+current 流|The study helps researchers better understand organic.
-analysis|n. 分析 来⾃ analyze 分析 【词根】ana 完全地→分析分解 【拓展】analytical 分析的|The study helps researchers better understand analysis.
-existence|n. 存在; 逆境中⽣活 来⾃ exist 存在|The study helps researchers better understand existence.
-spot|n. 地点; 斑点; 污点; 职务; v. 弄上污渍; 污辱; 【辨析】 place 各种⼤⼩的地⽅或场所; spot 较⼩的特定所在地; location 有⽅向感的地点;|The study helps researchers better understand spot.
-collision|n. 碰撞, 冲突 来⾃ collide 碰撞, 冲突 【词根】col 强调+lid 碰撞|The study helps researchers better understand collision.
-parlor|n. 客厅; 起居室; 休息室; 【词根】parl=speak 说话→客厅|The study helps researchers better understand parlor.
-infantile|adj. 婴⼉的; 婴⼉期的; 来⾃ infant 婴⼉ 【词根】in 不+-fan 说→不会说话|The study helps researchers better understand infantile.
-long-term|adj. ⻓期的 【词根】long ⻓+term 期限 【拓展】 long-run ⻓期的; short-term 短期的;|The study helps researchers better understand long-term.
-appropriate|adj. 适当的, 恰当的 【词根】ap 加强+propri 恰当|The study helps researchers better understand appropriate.
-whereas|conj. 然⽽ 【拓展】 while 表示对⽐, 可与 whereas 换 ⽤但程度稍弱|The study helps researchers better understand whereas.
-transform|v. 转换; 改变; 改造 【词根】trans 变换+form 形状|The study helps researchers better understand transform.
-era|n. 纪元, 年代 【拓展】 era 可与 epoch, age 互换|The study helps researchers better understand era.
-artisan|n. ⼯匠, 技⼯ 【词根】arti, art 技巧+san ⼈|The study helps researchers better understand artisan.
-adopt|vt. 采取, 采纳; 收养; 【词源】ad ⼀再+opt 选择→采 ⽤ 【拓展】adoption 采⽤, 收养|The study helps researchers better understand adopt.
-verbal|adj. ⾔语的; ⼝头的; 动词的; 【词根】verb=word 词语 【拓展】oral ⽤嘴表达或交流|The study helps researchers better understand verbal.
-fluctuation|n. 波动, 涨落; 来⾃ fluctuate 流动 【词根】flu 流+ate 表动词→流动|The study helps researchers better understand fluctuation.
-concern|vt. 影响涉及; 关⼼; n. 担⼼; 【词根】con 共同+cern 搞清 【拓展】worry 对未知的忧虑|The study helps researchers better understand concern.
-recall|n. vt. 召回; 回想; 【词根】re 回+call 喊,想→回想|The study helps researchers better understand recall.
-peninsula|n. 半岛; 【词根】pen 近似+insula 岛|The study helps researchers better understand peninsula.
-output|n. v. 产量; 输出 【词根】out 出去+put 放→产量|The study helps researchers better understand output.
-sculpture|n. v. 雕刻; 塑像 【词根】sculpt 雕刻→雕像|The study helps researchers better understand sculpture.
-celebrity|n. 名⼈; 名⽓ 【词根】celebr 很多⼈提及赞美|The study helps researchers better understand celebrity.
-seafloor|n. 海底 【词根】sea 海+floor 楼层|The study helps researchers better understand seafloor.
-mislead|vt. 误导; 引⼊歧途; 【词根】mis 错误+lead 引导 55 transformation  n. 变化; 转换; 来⾃ transform 改变, 变换 【词根】trans 变换+form 形状|The study helps researchers better understand mislead.
-reject|v. 拒绝; 排斥; 【词根】re 回+ject 扔回来→拒绝|The study helps researchers better understand reject.
-core|n. 核⼼; 果核; 【词根】cor=heart "⼼脏,⼀致"|The study helps researchers better understand core.
-sample|n. 样品; 取样; v. 抽样调查; 体验; 【拓展】specimen 抽样, 标本|The study helps researchers better understand sample.
-average|adj. 平均⼀般的; n. 平均值; v. 算平均值; 拉平; 【拓展】median 中位数; 中间的|The study helps researchers better understand average.
-variability|n. 变化性, 易变; 来⾃ vary 改变, 使多样化 【拓展】variable 易变的; 变量的|The study helps researchers better understand variability.
-appeal|n. 上诉; 恳求; 打动; v. 有吸引⼒; 呼吁; 【词根】ap ⼀再+peal 驱动|The study helps researchers better understand appeal.
-inclusion|n. 包含, 内含物 来⾃ include 包括 【词根】in 进⼊+clud 关闭|The study helps researchers better understand inclusion.
-tension|n. 紧张; 分歧; 拉⼒张⼒; v. 拉紧; 【词根】tens 拉伸|The study helps researchers better understand tension.
-corridor|n. ⾛廊, 通道; 【词根】corr=cour ⾛→⾛廊|The study helps researchers better understand corridor.
-distribution|n. 分配; 分布; 分销; 来⾃ distribute 分发, 分配 【词根】dis 分开+tribut 给予|The study helps researchers better understand distribution.
-enormous|adj. 巨⼤庞⼤的; 【词根】e 出+norm 规则→巨⼤|The study helps researchers better understand enormous.
-distinguish|v. 区别, 辨别 【词根】dis 分开+sting 刺|The study helps researchers better understand distinguish.
-acquire|vt. 获得取得; 学到; 【词根】ac 加强+quir 寻求|The study helps researchers better understand acquire.
-lung|n. 肺; 【拓展】 liver  肝 spleen  脾 kidney  肾 stomach  胃 intestine  肠 gall  胆 pancreas 胰腺 heart  ⼼|The study helps researchers better understand lung.
-guild|n. 同业公会; ⾏会; 【词源】同 yield, ⼊会缴费 单词 ⾳标 释义 助记 episode  n. 插曲; ⽚段; ⼀集; 【词根】epi 在…周围+od 路 furthermore  adv. 此外; ⽽且; 【词根】further 更远+more seal  n. 密封; 印章; 海豹; v. 密封; 盖章; 古法语 seel=sign 封印, 图章 depict  vt. 描绘, 描述; 【词根】de 加强+pict 描画 【拓展】portray 描绘 engraving  n. 版画; 雕刻; v. 雕刻; 来⾃ engrave 雕刻 【词根】en 进⼊+grave 雕刻 productivity  n. ⽣产率, ⽣产⼒; 来⾃ produce ⽣产 【拓展】product 产品, 乘积 enhance  vt. 提⾼, 加强; 【词根】en 加强+han, high ⾼ similarity  n. 类似; 相似物; 来⾃ similar 相似类似的 【词根】simil 类似→相似的 character  n. 性格; 特点; 字⺟; ⻆⾊; 【拓展】 feature 引⼈注⽬的特征 property 事物共有的特性 characteristic 天⽣的特征 peculiarity 独具的特点 trait ⼈的天性特征 attribute 事物的属性 character ⼀类⼈或物的特征|The study helps researchers better understand guild.
-reflective|adj. 反射的, 反映的; 反省的; 反光的; 来⾃ reflect 回想, 反射 【词根】re 回+flect 弯曲|The study helps researchers better understand reflective.
-BEAT|《托福必考 2000 词》 List 07 请加助教微信|The study helps researchers better understand BEAT.
-massive|adj. 巨⼤; ⼤⽽重的; 来⾃ mass ⼤量|The study helps researchers better understand massive.
-colonization|来⾃ colony 殖⺠地 【词根】colon 耕种殖⺠|The study helps researchers better understand colonization.
-concept|n. 概念; 观点; 【词根】con 共同+cept 抓→ 概念|The study helps researchers better understand concept.
-dramatic|adj. 戏剧的, 戏剧性的; 引⼈注⽬的; 来⾃ drama 戏剧|The study helps researchers better understand dramatic.
-stencil|n. 图案模板; vt. ⽤模板印刷; 【拓展】template 样板模板|The study helps researchers better understand stencil.
-virtually|adv. 实际上, 事实上 来⾃ virtual 实质上的 【词根】virt 勇⽓⼒量→实⼒|The study helps researchers better understand virtually.
-conclude|vi. 得结论; 结束终⽌ 【词根】con 全部+clud 关闭|The study helps researchers better understand conclude.
-productive|adj. 有成效多产的; 来⾃ product 产品, 产物|The study helps researchers better understand productive.
-approach|v. 接近; 处理; n. 途径; 接近; 【词根】ap ⼀再+proach 接近|The study helps researchers better understand approach.
-instrumental|adj. 乐器的; 仪器的; 来⾃ instrument 仪器, 器械 【词根】in 内+stru 建⽴|The study helps researchers better understand instrumental.
-polar|adj. 极地的, 两极的; 来⾃ pole 地级两级 【拓展】 axis 轴; pivot 枢轴, 中枢|The study helps researchers better understand polar.
-consumer|n. 消费者, 客户; 来⾃ consume 消耗 【词根】con 共同+sume 拿取|The study helps researchers better understand consumer.
-round|adj. 圆弧的; 整数的; n. 圆形; 回合; v. 绕⾏; 【词根】=wheel, rotate 转|The study helps researchers better understand round.
-response|n. 反应; 回答; 来⾃ respond 回答, 响应 【词根】re 回+spond 承诺|The study helps researchers better understand response.
-cell|n. 细胞; 牢房; 电池; v. 囚禁; 【拓展】cellar 地窑, 地下室|The study helps researchers better understand cell.
-retreat|n. 撤退 【词根】re 回+treat→后退|The study helps researchers better understand retreat.
-projection|n. 预测; 规划; 投射; 突起物; 来⾃ project 投射出 【词根】pro 向前+ject 扔|The study helps researchers better understand projection.
-electron|n. 电⼦ 来⾃ electric 电的, 导电的 【拓展】 molecule 分⼦ neutron 中⼦ electron 电⼦ proton 质⼦|The study helps researchers better understand electron.
-dependent|adj. 依靠的; 有瘾的; 取决于 来⾃ depend 取决于, 依靠 【词根】de 下+pend 挂 【拓展】dependable 可靠的|The study helps researchers better understand dependent.
-edge|n. 边线; 优势; v. 给什么什么加边; 【辨析】 edge 较窄的边沿 border 在界线上较宽的边缘 rim 圆形或曲线物体的边缘|The study helps researchers better understand edge.
-adjust|v. 适应, 调整, 校正; 【词根】ad 去+just 刚好|The study helps researchers better understand adjust.
-ice-free|adj. 不冰冻的; 【词根】ice 冰+free 免去|The study helps researchers better understand ice-free.
-diverse|adj. 多种多样的; 【词根】di 分开+vers 转|The study helps researchers better understand diverse.
-muscle|n. 肌⾁; ⼒量; 权威; 【词源】拉丁语=mouse-like 有些⿎起的肌⾁外观像⼩⽼⿏|The study helps researchers better understand muscle.
-dissolve|v. 溶解; 解除 【词根】dis 分开+solv 解决|The study helps researchers better understand dissolve.
-eliminate|vt. 消除; 淘汰; 【词根】e 出+-limin 界限|The study helps researchers better understand eliminate.
-undergo|vt. 经历; 承受; 【词根】under 在下+ go ⾛→|The study helps researchers better understand undergo.
-bear|n. 熊; v. 忍受; 承担; ⽀撑; ⽣育; 【辨析】 stand 经受得起 endure ⻓时间忍受 tolerate ⾃我克制宽容|The study helps researchers better understand bear.
-sandstone|n. 砂岩; 砂⽯; 【词根】sand 沙+stone ⽯头 【拓展】limestone ⽯灰岩|The study helps researchers better understand sandstone.
-interior|n. 内部内地; adj. 内部的; 国内的; 【拓展】inside 靠近内部|The study helps researchers better understand interior.
-distinctive|adj. 独特的; 有有特⾊; 来⾃ distinct 清楚明显的 【词根】dis 分开+stinct 刺|The study helps researchers better understand distinctive.
-achieve|v. 取得; 实现; 【词根】chieve=chief 头 【拓展】achievable 有成就的|The study helps researchers better understand achieve.
-belief|n. 信任; 信念; 看法; 来⾃ believe 相信 【词根】be 强调+lieve 信|The study helps researchers better understand belief.
-diameter|n. 直径; 【词根】dia 对⾯+meter 测量|The study helps researchers better understand diameter.
-temperate|adj. 适度的, 温和的 【词根】temper 情绪→好脾⽓|The study helps researchers better understand temperate.
-surplus|adj. 过剩多余的; n. 余额; 盈余; 【词根】sur 超过+plus 多|The study helps researchers better understand surplus.
-birth|n. 出⽣分娩; 出⾝; 【拓展】cradle 摇篮|The study helps researchers better understand birth.
-absence|n. 缺席; 缺乏; 【词根】ab 脱离+-senc 存在 【拓展】scarcity 缺乏|The study helps researchers better understand absence.
-sufficient|adj. 充⾜, 充分的; 【词根】suf 在下⾯+fici 做 【拓展】 self-sufficient ⾃给⾃⾜的 Insufficient 不⾜的, 缺乏的|The study helps researchers better understand sufficient.
-comparison|n. ⽐较, 对照; 来⾃ compare ⽐较 【词根】com 共同+par 平等|The study helps researchers better understand comparison.
-despite|prep. 尽管; 虽然; 【词根】de 去掉+spite 看→|The study helps researchers better understand despite.
-dynasty|n. 朝代, 王朝 【词根】dyn ⼒量+ast ⼈|The study helps researchers better understand dynasty.
-shale|n. ⻚岩 【拓展】 sandstone 砂岩; limestone ⽯灰岩|The study helps researchers better understand shale.
-silt|n. 淤泥; 泥沙 【词源】古英语=salt 海盐 【拓展】 deposit 沉积物; sediment 沉积物;|The study helps researchers better understand silt.
-tendency|n. 倾向趋势; 癖好; 来⾃ tend 趋向 【词根】tend=stretch 伸展|The study helps researchers better understand tendency.
-derive|v. 起源于, 来⾃; 获得 【词根】de 离开+rive 流动 【拓展】derivative 衍⽣物|The study helps researchers better understand derive.
-abandon|vt. 放弃; 丢弃; 中⽌; 【词根】a 不+ban 禁⽌→放弃|The study helps researchers better understand abandon.
-cultivate|vt. 耕作种植; 培养栽培; 【词根】cult 耕种培养→耕作|The study helps researchers better understand cultivate.
-category|n. 种类; 类别 【拓展】categorize 归类|The study helps researchers better understand category.
-aboriginal|n. 澳⼤利亚⼟著 【词根】ab 加强+origin 起源 【拓展】aborigine ⼟著居⺠|The study helps researchers better understand aboriginal.
-argument|n. 争论; 辩论; 论据理由; 来⾃ argue 争论 【词根】argu 争论|The study helps researchers better understand argument.
-extract|n.  vt. 提取; 选取; 提炼 n. 摘录; 引⽂; 【词根】ex 出+tract 拉→拉出|The study helps researchers better understand extract.
-profit|n. 利润; 好处; v. 得益于; 获益; 【词根】pro 多+fit 做→做很多|The study helps researchers better understand profit.
-series|n. 系列, 连续; 串联; 【词根】ser=join/insert 加⼊|The study helps researchers better understand series.
-audience|n. 观众, 听众, 读者; 【词根】audi 听+ence 表名词 【拓展】audio ⾳频声⾳的|The study helps researchers better understand audience.
-dense|adj. 密集的; 浓的; 【词根】=make thick 变浓|The study helps researchers better understand dense.
-hunter-|gatherer  n. 靠采猎⽣活的⼈; 【词根】 hunter 猎⼈+gather 收集者|The study helps researchers better understand hunter-.
-arid|adj. ⼲旱的; 贫瘠的; 枯燥的; 【词根】ar ⼲的+id 形容词 【拓展】aridity ⼲旱, 荒芜,|The study helps researchers better understand arid.
-orient|v. 标定⽅向; 以…为参照; n. 东⽅; 亚洲; 【词根】ori=rise/begin 升起, 开始|The study helps researchers better understand orient.
-seemingly|adv. 看来似乎; 表⾯上貌似; 来⾃ seeming 表⾯上的 单词 ⾳标 释义 助记 countryside  n. 乡村; 来⾃ county 县, 郡 finch  n. 雀类⼩⻦; 拟声词, 模仿⼩⻦叫声 fin  n. ⻥鳍; 鳍状物; 【词源】同 feather ⽻⽑; 或 wing 翅膀→⻥鳍形状 mosaic  n. ⻢赛克; v. 镶嵌图案; 【词源】古希腊语：work of Muses 缪斯⼥神→华丽图案 intensity  n. 强烈; 强度; 来⾃ intense 强烈的热烈的 【词根】in 加强+tens 伸展 equilibrium  n. 平衡; 均衡; 平静; 【词根】equi 相等+libr ⾃由 communication  n. 通讯; 交流; 来⾃ communicate 交流通讯 【拓展】correspond 通信符合 comparative  adj. 相对⽐的; ⽐较的; n.⽐较级 来⾃ compare ⽐较(to, with), 把...⽐作(to) 【词根】com ⼀起+pari 平等 livestock  n. 家畜, 牲畜; 【词根】live 活的+stock 家畜|The study helps researchers better understand seemingly.
-symbiotic|adj. 共⽣的 来⾃ symbiosis 共⽣ 【拓展】sym 共同+bio ⽣命|The study helps researchers better understand symbiotic.
-severe|adj. 严峻的; 严厉的; 艰难的; 【词根】sever=earnest 诚恳 【拓展】severity 严肃, 严格|The study helps researchers better understand severe.
-eruption|n. 爆发; 来⾃ erupt ⽕⼭爆发, 喷出; 【词根】e 出+rupt 断裂→喷出|The study helps researchers better understand eruption.
-BEAT|《托福必考 2000 词》 List 08 请加助教微信|The study helps researchers better understand BEAT.
-fern|n. 蕨类植物; 【形近】farm 农场|The study helps researchers better understand fern.
-Greece|n. 希腊 【拓展】 Greek 希腊⼈; 希腊的;|The study helps researchers better understand Greece.
-trail|v. 追踪; n. ⾜迹; ⼩径; ⼀缕; 【辨析】 path ⽥间的⼩路 trail 荒野踩出的⼩道|The study helps researchers better understand trail.
-ratio|n. ⽐率; ⽐例; 【词根】rat 计算考虑→⽐率 【拓展】rational 理性合理的|The study helps researchers better understand ratio.
-alternative|adj. 替代的, 备选的; n. 可选择的事物 来⾃ alternate 交替轮流 【词根】altern=other 其他的 【拓展】alternatively ⼆选⼀|The study helps researchers better understand alternative.
-quartz|n. ⽯英 来⾃德语 Quarz ⽯头结晶体|The study helps researchers better understand quartz.
-myth|n. 神话; 奇⼈奇事; 【拓展】fairy tale 童话|The study helps researchers better understand myth.
-document|n. ⽂档; ⽂件; vt. 记录; 【词根】doc 教 →⽂字档案|The study helps researchers better understand document.
-frontier|n. 边界; 前沿, 新领域; 【词根】front 前⾯→尖端|The study helps researchers better understand frontier.
-efficiency|n. 效率; 效能; 【词根】ef 出+fici 做→做出来|The study helps researchers better understand efficiency.
-remarkable|adj. 异常的; 卓越的; 显著的; 【词根】re 再+mark 记号 【拓展】remark 评论, 备注;|The study helps researchers better understand remarkable.
-isotope|n. 同位素 【词根】iso 等同+tope 放 【拓展】isotopic 同位素的;|The study helps researchers better understand isotope.
-perceive|v. 意识到; 发觉; 理解; 【词根】per 全部+ceive 抓|The study helps researchers better understand perceive.
-possess|vt. 拥有; 具备; 控制; 【词根】pos 放+sess 安置|The study helps researchers better understand possess.
-engage|v. 参与; 吸引; 雇佣; 引起注意; 【词根】en 进⼊+gage 挑战|The study helps researchers better understand engage.
-medieval|adj. 中世纪的, 中古的; 【词根】medi 中间+ev 年龄|The study helps researchers better understand medieval.
-runoff|n. 径流; 流⼊河的⾬⽔溢出 【词根】run 奔跑 + off 离开|The study helps researchers better understand runoff.
-copper|n. 铜; 铜币; adj. 铜⾊的， 红棕⾊的; 【拓展】 brass ⻩铜; bronze ⻘铜 (实际是合⾦);|The study helps researchers better understand copper.
-stimulate|v. 刺激; 激励; 【词根】stimul 刺, 刺激 【拓展】stimulation 刺激|The study helps researchers better understand stimulate.
-disappear|vi. 消失; 消亡; 【词根】dis 不+appear 出现|The study helps researchers better understand disappear.
-offspring|n. ⼦孙后代; 【词根】off 离开+spring 出⽣|The study helps researchers better understand offspring.
-strait|n. 海峡; 【拓展】 channel ⻓⽽宽的海峡 strait 短⽽窄的海峡|The study helps researchers better understand strait.
-enclosure|n. 围场; 圈地; 来⾃ enclose 包围, 围绕 【词根】en 进⼊+clos 关闭|The study helps researchers better understand enclosure.
-shallow|adj. 浅的; 肤浅的; 微弱的; 【拓展】 superficial 思想⾔论的肤浅|The study helps researchers better understand shallow.
-rite|n. 仪式典礼; 【词源】同 religion 宗教|The study helps researchers better understand rite.
-yield|v. 产⽣; 让步; 放弃; n. 产量; 收益; 【拓展】 submit 服从顺从 yield 让步屈服 surrender 战败投降|The study helps researchers better understand yield.
-prior|adj. 优先的; 在…之前; 【词根】first / chief 第⼀⾸要|The study helps researchers better understand prior.
-cease|v. 停⽌; 终⽌; 【词根】ceas, cess 退让 【拓展】cessation 中断暂时|The study helps researchers better understand cease.
-lichen|n. 地⾐; 【词源】同 lick 舔→舔⽯头 【拓展】moss 苔藓|The study helps researchers better understand lichen.
-independent|adj. 独⽴地; ⾃⽴地; ⽆关地; 【词根】in 不+dependent 靠|The study helps researchers better understand independent.
-reduction|n. 减少; 降低; 来⾃ reduce 减少, 简化还原 【词根】re 回+duce 引导|The study helps researchers better understand reduction.
-lowland|n. 低地; adj. 低地的; 【词根】low 低+land ⼟地 【拓展】upland 丘陵地, ⾼地|The study helps researchers better understand lowland.
-debate|n. 辩论; 争论; vt. 讨论; 考虑; 【词根】de 加强+bat 打 【拓展】debatable 可争论的|The study helps researchers better understand debate.
-accumulation|n. 积累; 堆积物; 来⾃ accumulate 【词根】a 来+cumul 堆积|The study helps researchers better understand accumulation.
-multiple|adj. 多重的; 多个的; n. 倍数; 并联; 【词根】multi 很多 【拓展】multiply 乘, 繁殖|The study helps researchers better understand multiple.
-highland|adj. ⾼地的; n. ⾼地; 【词根】high ⾼+land 地|The study helps researchers better understand highland.
-bacteria|n. 细菌 bacterium 细菌（单数） 【拓展】bacterial 细菌的|The study helps researchers better understand bacteria.
-injury|n. 伤害, 损害; 【词根】in 不+jur 正确→损害 【拓展】injure 损害, 伤害;|The study helps researchers better understand injury.
-mantle|n. 地幔; 覆盖物; ⽃篷; 【拓展】earth mantle 地幔|The study helps researchers better understand mantle.
-storage|n. 储藏; 存储; 来⾃ store 贮藏, 存储 【词根】stor 贮藏|The study helps researchers better understand storage.
-constant|adj. 持续不断的; 永恒的; n. 常量; 【词根】con 全+stant 站|The study helps researchers better understand constant.
-assign|vt. 分派; 布置; 赋予; 【词根】as 加强+sign 签署 【拓展】assignment 指派|The study helps researchers better understand assign.
-unique|adj. 唯⼀独特的; 【拓展】sole 单独仅有的|The study helps researchers better understand unique.
-dramatically|adv. 戏剧地; 显著地; 来⾃ drama 戏剧 【拓展】dramatic 戏剧性的|The study helps researchers better understand dramatically.
-status|n. 地位; 状态; ⾝份; 【词根】stat 站⽴→地位⾝份|The study helps researchers better understand status.
-widespread|adj. 分布⼴的; 普遍的; 【词根】 wide ⼴泛 + spread 铺开|The study helps researchers better understand widespread.
-forehead|n. 前额, 前部 【词根】fore 前⾯+head 头→ 前部|The study helps researchers better understand forehead.
-overall|adj. 全部的; adv. 全体地; n. 外套⼯作服; 【词根】over 超过+all 全部|The study helps researchers better understand overall.
-interpret|v. 解释; 诠释; ⼝译; 【词根】inter 之间+pret 价值 【拓展】misinterpret 曲解|The study helps researchers better understand interpret.
-decorative|adj. 装饰性的; 来⾃ decorate 装饰 【词根】decor 装饰|The study helps researchers better understand decorative.
-niche|n. ⽣态位; 壁龛; 【词源】同 nest 巢, 引申壁龛|The study helps researchers better understand niche.
-consistent|adj. ⼀致连贯的 来⾃ consist 【词根】con 共同+sist 站|The study helps researchers better understand consistent.
-portray|vt. 描绘; 扮演 【词根】por(pro)前 + tray 拉 【拓展】portrait 肖像; 描绘;|The study helps researchers better understand portray.
-modify|v. 修改; 限定; 【词根】=mode, manner ⽅式 【拓展】modification 修改|The study helps researchers better understand modify.
-gravel|n. 沙砾; 碎⽯; 【词根】grav=heavy 重, 悲伤 【拓展】grave 坟墓|The study helps researchers better understand gravel.
-stoneware|n. 粗陶器; 【词根】stone ⽯+ware 器具|The study helps researchers better understand stoneware.
-resistance|n. 抵抗; 阻⼒; 电阻; 来⾃ resist 反抗, 抵抗 【词根】re 反+sist 站→反抗|The study helps researchers better understand resistance.
-gap|n. 缺⼝; 间隔; 差距; 【词源】同 yawn 打哈⽋ 单词 ⾳标 释义 助记 punctuate  vt. 加标点; 不时打断; 加强; 【词根】punct 点→标点 【词源】同 point 点 stress  n. vt. 精神压⼒; 强调; 加压; 【词根】stress=tighten 拉紧 aim  v. 瞄准; 致⼒于; n. ⽬标; 意图; 【辨析】 aim 具体的⽬标, 常指短期⽬标 target 被批评或潮笑的⽬标 fine  adj. adv. 很好精美; 健康的; 晴朗的; n. 罚款; vt. 罚款; 【词根】fine=limit 范围界限 altitude  n. 海拔⾼度; 【词根】alt ⾼+itude 名词 convince  vt. 使相信; 说服; 【词根】con 全部+vinc 征服 reproduce  v. 复制; 重现; 繁殖; 【词根】re ⼀再\+produce ⽣产 evaporate  v. 蒸发; 消失; 【词根】e 出+vapor 蒸⽓→蒸发 【拓展】evaporation 蒸发 【辨析】fade 侧重逐渐消失 velocity  n. 速率; 速度; 【词源】同 volatile 挥发易变 flutter  n. v. 摆动, 颤动; 飘⻜; 【词源】同 fleet 疾驰, ⻜逝; cluster  n. 团; 丛; 群; v. 聚集; 【词源】同 clod ⼟块; clot 凝结 substratum  n. 下层⼟壤 【词根】sub-在下+-strat 地层 metamorphosis  n. 变形 【词根】meta 改变+morph 形 【拓展】morphology 形态学 specialize  v. 专⻔从事; 详细说明; 来⾃ special 特殊专⻔的 【词根】speci 外观→特殊|The study helps researchers better understand gap.
-BEAT|《托福必考 2000 词》 List 09 请加助教微信 accompany  v. 陪伴; 伴奏; 【词根】ac 加+com 共同 【辨析】escort 陪伴的礼节护送 earthenware  n. 陶器 adj. 陶制的 【词根】earth 泥⼟ shortage  n. 不⾜; 缺少; 【词根】short 短+age 状态 complicate  v. 使复杂化 【词根】com 全+plic 叠→复杂 proxy  n. 代理⼈; 替代物; 【拓展】 agent 代理 representative 代表⼈ hinder  v. 阻碍; 【词根】hind=rear 后部 【拓展】hind 后⾯的 engrave  vt. 雕刻; 铭记; 【词根】en 向内+grav-挖刻 【拓展】grave 坟墓 combination  n. 结合; 联合体; 来⾃ combine 结合联合 【词根】com ⼀起+bin 捆绑 superior  adj. 更⾼级; 优良的; n. 上级; 来⾃ super 超过 neonate  n. 新⽣⼉; 【词根】neo 新+nat 出⽣本⼟ 【拓展】innate ⽣来的, 天赋的 handle  n. 把⼿; v. 处理应付; 驾驭; 【词根】来⾃ hand ⼿, 柄 territory  n. 领⼟; 地盘, 范围; 【词根】terr ⼟地 domestic  adj. 家庭的; 国内的; 驯养的; 【词根】dom 家 →家⾥驯养的 context  n. 背景; 上下⽂; 【词根】con 共同+text 编织 apart  adv. 相距; 分离; 除外; 【词根】part 部分, 分开 moreover  adv. 此外; 【词根】more 更加+over 在上 fluctuate  v. 波动; 涨落; 【词根】flu=flow 流→波动 【拓展】fluctuation 波动不定 endure  v. 忍耐; 持续; 【词根】en 进⼊+dur 持久 【拓展】endurance 忍耐 regulate  vt. 调节; 控制; 管理; 【词根】regul 统治+ate 表动词 fungus  n. 真菌; 霉菌; 【复数】fungi 真菌; 霉; 【拓展】fungal 真菌的; invertebrate  n. ⽆脊椎动物; 【词根】in ⽆+vertebrate 脊椎 【拓展】vertical 垂直的 flourish  v. 茂盛; 繁荣; 挥动; n. 挥舞; 【词根】flour 花→繁荣茂盛 dome  n. 圆屋顶; 穹顶; 【词根】dom=house 屋, 家 【拓展】domelike 穹顶状的 authority  n. 权威; 权限; 当权者; 来⾃ author 创造者 expedition  n. 远征; 探险队; 来⾃ expedite 加速完成 【词根】ex 出+ped 脚→加快 ecology  n. ⽣态学; 【词根】eco ⽣态, 经济 nestle  v. 安居安置; 紧贴; 【词根】来⾃ nest ⻦巢 【拓展】hatch 孵化 artificial  adj. ⼈造的; ⼈为的; 【词根】art=skill 技巧, 关节, 【拓展】artisan ⼯匠,技 ⼯ distribute  vt. 分配; 分销; 撒播; 【词根】dis 分开+tribut 给予 【拓展】distribution 分发分配; calcium  n. 钙 【词根】calc ⽯头 【拓展】 magnesium  镁 manganese  锰 phosphorus  磷 potassium  钾 screen  n. 屏幕; 屏⻛; v. 放映; 遮挡; 筛查; 【辨析】 conceal 有⽬的地进⾏隐藏 credit  n. 信⽤; 贷款; 赞扬; 学分; vt. 信任; 归功于; 【词根】cred 信任 【拓展】credible 可靠可信的 predictable  adj. 可预⻅的; 来⾃ predict 预⾔, 预报 【词根】pre 预先+dict 说 【拓展】predictably 可预⾔地 release  n. vt. 释放; 发布; 发⾏; 【词根】re 重新+lease, lax 松 mud  n. 烂泥; 污物; 【拓展】 earth 地表泥⼟ clay 黏⼟陶⼟ dirt 灰尘泥⼟ dust 灰尘沙尘 soil ⼟壤 mud 烂泥 eject  v. 喷出, 驱逐; 【词根】e 出+ject 掷→掷出 【拓展】ejecta 抛出喷出物 hence  adv. 因此; 【拓展】 accordingly 因此 consequently 因此结果 hence 因此之后 therefore 因此所以 thus 多可与 therefore 换⽤ reclamation  n. 开垦开拓; 改造; 来⾃ claim 要求 【词根】claim 呼喊→要求 【拓展】reclaim 开垦, 回收; molecule  n. 分⼦; 微⼩颗粒; 【拓展】molecular 分⼦的; linguistic  adj. 语⾔的, 语⾔学的; 【词根】lingu 语⾔, ⾆ 【拓展】linguist 语⾔学家 conventional  adj. 传统的; 通常的; 来⾃ convention 惯例, ⼤会 【拓展】customary 惯有的 bronze  n. ⻘铜; ⻘铜⾊; 铜牌; adj.⻘铜⾊的; ⻘铜是最早的合⾦，在纯铜（紫 铜）中加⼊锡铅合⾦，强度⾼。 migratory  adj. 迁移的; 来⾃ migrate 迁移,移居 【词根】migr 迁移+ate 做 redistribution  n. 重新分配; 来⾃ distribution 分发,分配 faithful  adj. 忠诚的; 如实的; 来⾃ faith 信任, 信念 【拓展】 faithful 忠诚的 loyal 忠⼼的 loyalty 忠诚 vast  adj. ⼴阔巨⼤的; ⼤量的; 巨额的; 【拓展】 colossal 尺寸规模无比巨大 survival  n. ⽣存; 幸存; 来⾃ survive 幸免于, 幸存; 【词根】sur 超+viv ⽣命→幸免 【拓展】survivorship ⽣存 carnivore  n. ⻝⾁动物 【拓展】 herbivore ⻝草动物 (herb 植物) omnivore 杂⻝动物 (omni 全) advertiser  n. ⼴告客户 来⾃ advertise 公布, 做⼴告 【词根】ad 加强+vert 转 issue  n. 问题争论; 发⾏; v. 发布; 流出; 【词根】is ⾏⾛+sue 主题 wealthy  adj. 充分富有的; 来⾃ wealth 财富, ⼤量 【词根】weal=will 愿望福利 herder  n. 牧⺠ 来⾃ herd 放牧, 牧群 【拓展】 flock ⻦群 herd ⼤动物群 swarm ⾍群 fluid  n. 液体, 流体; adj. 流动的; 流畅的; 【词根】flu=flow 流 【词源】同 fluent 流畅流利的 coordinate  v. 协调; 调和; n. 坐标; 【词根】co 共同+ordin 顺序 【拓展】coordination 调和 initiate  v. 开始; 发起; 创始; 【词根】in 进+it ⾏⾛→开始 【拓展】initiative 倡议, 进取⼼ seepage  n. 渗漏; 渗液; 来⾃ seep 渗透 单词 ⾳标 释义 助记 motif  n. 主题; 动机; 装饰图案; 【拓展】motive 动机, 主旨 psychology  n. ⼼理学; 来⾃ psycho 精神 division  n. 分开, 分隔; 部⻔; 除法; 来⾃ divide 分开 【拓展】 fraction 分数, 些微, ⽚段 rat  n. ⼤⽼⿏; 【词根】rat=rod 咬 【词源】同 rodent 啮⻮动物 grind  v. 磨碎; 折磨; n. 碾压; 碾压; 【拓展】molar 磨⽛, ⾅⻮ professional  adj. 专业职业的; n. 专业⼈⼠; 来⾃ profession 职业, 专业 【词根】pro 前+fess 说 exaggerate  v. 夸张; 夸⼤; ex 出+ag 强+ger 表达 【拓展】exaggeration 夸张 ridge  n. ⼭脉; ⼭脊; 【词源】同 ring 环绕 occupation  n. 职业; ⼯作; 占领; 占⽤; 来⾃ occupy 占领, 使⽤ 【词根】oc 再次+cup 抓 cultivation  n. 栽培; 耕种; 培养; 来⾃ cultivate 耕作, 栽培 【词根】cult 耕种培养 plentiful  adj. 丰富的; ⼤量的; 【词根】来⾃ plenty 丰富 【词根】plen 满+ty 表名词 previous  adj. 先前的; 以前的; 【词根】per 贯穿+vi 道路 【拓展】previously 事先|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 10 请加助教微信 resist  v. 抵抗; 反对; 克制; 【词根】re 反+sist 站→反抗 【拓展】resistant  抵抗的 household  n. 家庭; 全家⼈; 【词根】house 房 ⼦ anthropologist  n. ⼈类学家 来⾃ anthropology ⼈类学 【词根】anthrop ⼈+ology 学 occurrence  n. 发⽣, 出现; 遭遇, 事件; 来⾃ occur 发⽣, 出现; 【词根】oc 向前+cur 跑 【拓展】occurrent 正发⽣的 aware  adj. 意识到的; 知道的; 来⾃ ware ⼩⼼注意 【拓展】awareness 知晓 resistant  adj. 有抵抗⼒的; 顽固的; 来⾃ resist 反抗, 抵抗 【词根】re 反+sist 站→反抗 inspire  vt. ⿎舞; 激励; 启发; 【词根】in 进+spir 呼吸精神 enlarge  v. 扩⼤, 放⼤; 【词根】en 使强+large ⼤ timber  n. ⽊材, ⽊料; 【拓展】 lumber 未经削磨的⽊材 timber 经步加⼯的⽊材 log 原⽊或圆⽊ ancestor  n. 祖先; 【词根】an 前+cest, cess ⾛ 【拓展】ancestry 祖先, 家世 threat  n. 威胁; 恐吓; 【拓展】 hazard 冒险危险 menace 威胁恐吓 peril 危险危及 threat 威胁恐吓 consumption  n. 消费; 消耗; 来⾃ consume 消耗, 吃喝 【词根】con 共同+sume 拿 format  n. 版式; 形式; v. 格式化; 设计版⾯; 【词根】来⾃ form 模式 【拓展】formation 形成构成; fertility  n. ⼟地肥沃; 富饶; 繁殖; 【拓展】 fertile 肥沃的, 能繁殖的 fertilizer 肥料 fertilize 使受精; 施肥于 switch  n. 开关; 转换; v. 改变; 调换; 【词源】同 swing 旋转, 摇摆 crustal  adj. 地壳的； 来⾃ crust 外壳 【拓展】earth mantle 地幔 norm  n. 标准; 规范; 准则; norm=rule 规则, 规范 【拓展】 normal 正常普通的; anomaly 异常不规则 trace  v. 追踪; 追溯; n. 踪迹; 微量; 【拓展】 chase 追逐追赶 trace 根据线索跟踪, track 沿着印迹追踪 trail 跟踪追击 motivation  n. 动⼒; 动机; 来⾃ motive 发动的, 运动的 【词根】mot 运动→动机⽬的 【拓展】motivate 促动, 激励; emergence  n. 出现; 兴起; 来⾃ emerge 浮现 【词根】e 出+merg 投⼊淹没 turnpike  n. 公路; 付费公路; 美语 pike 赶路, 旧时指关卡 mature  adj. 成熟的; 成年的; v. 成熟; 到期; 【拓展】 maturity 成熟 immaturity 未成熟 ripen 成熟 ripe 成熟的 fairly  adv. 适当地; 公平地; 简直; 来⾃ fair 公平的，公正的 shelter  n. 居所; 收容所; 遮蔽; v. 避难; 庇护; 【拓展】 shelter 居所 dwelling 住宅居所 habitation 住处聚居地 residence 住宅 bull  n. 公⽜; ⼤型雄性动物; 【拓展】bully 威胁,欺侮,霸凌 diet  n. ⽇常饮⻝; v. 节制饮⻝ 【拓展】 provision ⻝品供应 loan  n. 贷款; v. 借出; 【拓展】lend 借给, 贷出去; 【形近】loam 肥⼟ shield  n. 盾; 护罩; vt. 保护; 掩护; 【词源】同 shell ⻉壳→盾 airway  n. 航线; 呼吸道; 【词根】air 空⽓ + way 路线 circumstance  n. 环境, 情形; 【词根】circum 围+stan 站 【拓展】 circumstantially 依情况地 deficiency  n. 缺乏; 缺陷; 【词根】de 去掉+fici 做→缺 【拓展】deficient 缺乏不⾜的 partner  n. 搭档; 合伙⼈; v. 合作合伙; 【词根】part 部分+ner ⼈ equatorial  adj. ⾚道的 来⾃ equator ⾚道 【词根】equ 平均平分 surmise  v. 猜测; 【词根】sur 下⾯+mise 送 limestone  n. ⽯灰岩 【词根】lime ⽯+stone ⽯ shrub  n. 灌⽊; 【词源】同 short 低矮→灌⽊ export  n. v. 出⼝, 输出; 【词根】ex 出+port 港⼝ vital  adj. 必需的; ⾄关重要的; 【词根】vit ⽣命→⽣死攸关 【拓展】vitality 活⼒, ⽣机 semiarid  adj. 半⼲旱的; 【词根】semi 半+arid ⼲旱的 irregular  adj. 不规则的; ⽆规律的; 【词根】ir ⽆+regular 规则的 【拓展】irregularity 不规则 ideal  adj. 理想的; 不实际的; n. 完美典范; 来⾃ idea 思想观点 【拓展】idealize 使理想化 alter  v. 改变; 更改; 【词根】alter=other 其他的 【拓展】alternative 替代的 unaltered 未改变的; glamor  n. 魔法, 迷⼈的美; v. 迷惑; 【拓展】 glamorous 魅⼒的; perceptual  adj. 理解的; 感知的; 【词根】per 全部+cept 抓拿 【拓展】perception 觉察直觉 tiredness  n. 疲劳, 疲倦 来⾃ tired 疲劳疲倦的 【拓展】weary 疲倦厌烦的 surveyor  n. 测量员; 鉴定⼈; 来⾃ survey 测量调查 【词根】sur 上+vey, view 看 investigation  n. 调查; 审查; 来⾃ investigate 调查研究 【词根】in 进⼊+vest 脚印踪 microscopic  adj. 极⼩的, 微观的; 【词根】micro 微+scop 观察 manufacture  vt. 制造, ⽣产; 捏造; n. 批量⼯业品; 【词根】manu ⼿+fact 做 【拓展】manufacturer ⼚商 barrier  n. 障碍壁垒; 关卡栅栏; 【词根】bar 栏 dietary  adj. 饮⻝的; n. 规定的⻝物; 来⾃ diet ⽇常饮⻝ 【拓展】provisions ⻝品供应 provincial  adj. 省的; 乡下的; 守旧的; n. 外省⼈; 来⾃ province 省→地⽅性的 【拓展】 domain 领域范围 territory 领⼟底盘 festival  n. 节⽇; 节庆; 【词根】fest 节⽇ continuous  adj. 连续不断的; 来⾃ continue 连续延伸 【词根】con 全+tin 拿 fortify  v. 加强; 构筑防御⼯事; 来⾃ fort 坚固, 堡垒 【拓展】fortification 筑垒 subsidence  n. 沉降; 下沉; 来⾃ subside 沉降 blame  n. vt. 指责; 责备; 【辨析】 accuse 语⽓⽐ blame 强 condemn 有司法意味的谴责 voyage  n. v. 航海; 航⾏; 【词根】voy 道路→航海 单词 ⾳标 释义 助记 villa  n. 乡间别墅; 【拓展】mansion ⼤厦, 宅邸 swamp  n. 沼泽; 湿地; v. 淹没; 陷⼊困境; 【拓展】marsh 沼泽; chant  n. 圣歌, 祷⽂; vt. 反复呼喊; 【词根】chant=sing 吟唱, subterranean  adj. 地表下的; 【词根】sub 下⾯+terr 地 【拓展】subsurface 地下的 sustain  vt. 维持; ⽀持; 遭受; 救济; 【词根】sus 下⾯+tain 握住 【拓展】uphold ⽀持⽀撑 nitrogen  n. 氮, 氮⽓; 【拓展】 hydrogen  氢 oxygen  氧 helium  氦 nitrogen  氮 ammonia  氨 facilitate  vt. 促进助⻓; 【词根】fac 做+ilitate 能够 【拓展】facility 设备; 才能; centigrade  n. 摄⽒度 【词根】centi 百+grade 级→摄⽒ gene  n. 基因; 【词根】gen ⽣育 【词源】同 generate 形成产⽣|The study helps researchers better understand BEAT.
-figurative|adj. ⽐喻的; 修饰性的 【词根】figu 形体→形象⽐喻 【拓展】figure 描绘; 形体; 数字;|The study helps researchers better understand figurative.
-tropical|adj. 热带的; 来⾃ tropic 回归线; 热带 (tropics) 【拓展】 subtropical 亚热带的 blazing 酷热炙热的|The study helps researchers better understand tropical.
-exhibitor|n. 展出者; 参展商; 来⾃ exhibit 陈列展出 【词根】ex 出+hibit 拿→展览 【拓展】exhibition 陈列展览|The study helps researchers better understand exhibitor.
-readily|adv. 乐意地; 快捷容易地; 来⾃ ready 准备好→轻⽽易举地|The study helps researchers better understand readily.
-BEAT|《托福必考 2000 词》 List 11 请加助教微信|The study helps researchers better understand BEAT.
-reverse|v. 使反转; adj. 反⾯颠倒的; n. 反向; 倒转; 【词根】re 反+vers 转→反转的 【拓展】reversal 颠倒; 反转;|The study helps researchers better understand reverse.
-crab|n. 蟹; 【拓展】 crab 蟹 shrimp 虾 lobster ⻰虾 crawfish ⼩⻰虾|The study helps researchers better understand crab.
-metabolic|adj. 新陈代谢的 来⾃ metabolism 新陈代谢 【词根】meta 变+bol 抛→抛旧|The study helps researchers better understand metabolic.
-clam|n. 蚌蛤; 钳⼦; 【拓展】 shellfish ⻉类动物 mussel 蚌|The study helps researchers better understand clam.
-peak|n. ⼭峰; 顶点; vi. 达到⾼峰; adj. 最⾼的; 【拓展】 sumit 顶点; 峰会; climax ⾼潮; 顶点;|The study helps researchers better understand peak.
-initial|adj. 最初的; n. ⾸字⺟; v. 姓名⾸字⺟签名; 【词根】in 进+it ⾏⾛→开始的 【拓展】initiative 创始的, 起始的|The study helps researchers better understand initial.
-dehydration|n. 脱⽔; ⼲燥; 【词根】hydro ⽔|The study helps researchers better understand dehydration.
-textile|n. 纺织品; 【词根】text 编织 【拓展】texture 质地; 构造; 肌理|The study helps researchers better understand textile.
-aggression|n. 侵略性; 好⽃性; 来⾃ aggress 侵略,进攻 【词根】ag 再+gress ⾛→进攻 【拓展】aggressive 好⽃的|The study helps researchers better understand aggression.
-mechanism|n. 机制; 途径; 机械装置; 【词根】mech 机器→装置, 机制 【拓展】machinery 机器总称|The study helps researchers better understand mechanism.
-substantial|adj. 重⼤的; ⼤量的; 结实的; 【词根】=substance 实质 【拓展】substantially 巨⼤地;|The study helps researchers better understand substantial.
-hot-spot|n. 热点; 【词根】hot 热+spot 点→热点|The study helps researchers better understand hot-spot.
-plume|n. (烟尘、⽕焰、⽔流的) ⼀股⼀团 【词源】同 pile 堆叠→升起⼀股|The study helps researchers better understand plume.
-compass|n. 罗盘, 指南针; 圆规; 【词根】com 共同+pass 通过|The study helps researchers better understand compass.
-disclaimer|n. 否认 (免责声明); 放弃; 来⾃ disclaim, 否认, 免责声明 【拓展】dis 否+claim 声称断⾔|The study helps researchers better understand disclaimer.
-intersect|v. 横断横穿; 交叉; 【词根】inter 之间+sect 切割|The study helps researchers better understand intersect.
-recruit|n. 新兵新成员; v. 招聘征募; 【词根】re 再+cru 成⻓→征募 【拓展】recruitment 征募新兵|The study helps researchers better understand recruit.
-drag|v. 拖拽; n. 拖拉; 累赘; 【词根】drag=pull 拉拖, 绘画 【拓展】 drag 拖拽 draw 拖拉 tug 使劲拉拽 tow 牵引 haul 费时费⼒地拖拉|The study helps researchers better understand drag.
-pose|v. 摆姿势; 提出; n. 姿态; 【词根】pose=put 放→职位 【拓展】unposed 没摆姿势的;|The study helps researchers better understand pose.
-compose|v. 构成; 创作撰写; 【词根】com ⼀起+pose 放 【拓展】composer 作家, 作曲家;|The study helps researchers better understand compose.
-aid|n. 帮助; 辅助; v. 有助于; 援助; 【拓展】financial aid 助学⾦|The study helps researchers better understand aid.
-specialist|n. 专家; 专科医⽣; 【词根】speci 外观种类→特殊 【拓展】 specific 明确的, 特定的; specialty 特性; 专⻓; 特产;|The study helps researchers better understand specialist.
-terrace|n. 台地梯台; 平台; 【词根】terr ⼟地 【拓展】 terrain 地势, 地形; territory 领⼟版图, 领域范围;|The study helps researchers better understand terrace.
-lava|n. 熔岩, ⽕⼭岩 lava=to wash 冲刷→⼤量涌出|The study helps researchers better understand lava.
-hemisphere|n. 半球; 【词根】hemi 半+sphere 球|The study helps researchers better understand hemisphere.
-stretch|v. 伸展; 延伸; n. 舒展; ⼀段时间; 【词源】同 string 弦, 绳; 【拓展】strain 拉紧; ⾎统;|The study helps researchers better understand stretch.
-resemble|vt. 与…相像，类似; 【词根】re 再+sembl 类似→相像 【拓展】 resemblance 相似之处 assemble 集合装配|The study helps researchers better understand resemble.
-porous|adj. 多孔的; 渗透的 【词根】来⾃ pore 孔洞|The study helps researchers better understand porous.
-crystalline|adj. 结晶的; 清澈的; 来⾃ crystal ⽔晶 【拓展】recrystallize 再结晶|The study helps researchers better understand crystalline.
-literature|n. ⽂学; ⽂献; 【词根】liter ⽂字+ature 状态 【拓展】 literary ⽂学的; literally 字⾯地, 简直|The study helps researchers better understand literature.
-confirm|v. 确认; 证实; 【词根】con 全部+firm 坚定→证实 【拓展】 approve 正式认可批准 sanction 官⽅批准|The study helps researchers better understand confirm.
-secure|adj. 安全的; 牢固的; v. 保卫; 实现; 固定; 【词根】se 分+cure 关⼼→安全 【拓展】security 安全; 防卫;|The study helps researchers better understand secure.
-precipitation|n. 降⽔; 沉淀; 来⾃ precipitate 突发, 仓促的 【词根】pre 预先+cipit 头→降落|The study helps researchers better understand precipitation.
-explore|v. 探险; 探测; 勘查; 【词根】ex 出+plore 喊→喊出探索 【拓展】 explorer 探险家; 勘探者; 探测器; exploration 考察, 勘探;|The study helps researchers better understand explore.
-tolerate|vt. 忍耐; 容忍宽容; 【词根】toler 容忍→有耐⼒; 【拓展】 tolerant 宽容的, 耐药⼒的; tolerance 忍受; salt-tolerant 耐盐的;|The study helps researchers better understand tolerate.
-discipline|v. 训练; 处罚; n. 纪律; 学科; 【拓展】drill 学⽣训练; ⼠兵操练;|The study helps researchers better understand discipline.
-critic|n. 批评家; 评论员; 【词根】crit 判断+ic ⼈→批评家 【拓展】critical 批评的, 紧要的;|The study helps researchers better understand critic.
-scale|n. 规模; ⽐例; ⻥鳞; 等级; v. 攀登; 去鳞; 【词源】同 scan 扫描→确认⽐例|The study helps researchers better understand scale.
-forth|adv. 向前 【拓展】forward 向前, 向将来 【词根】for 前⾯+ward ⽅向→前进|The study helps researchers better understand forth.
-mercantile|adj. 商贸的; 商⼈的; 来⾃ merchant 商⼈ 【词根】merch 交易+ant ⼈→商⼈|The study helps researchers better understand mercantile.
-code|n. 准则; 代码; 法典; v. 编码; 加密; 【拓展】 law 法规 regulation 规范规则 code 社会准则 rule 规章条例 act 法案|The study helps researchers better understand code.
-sedimentary|adj. 沉积的; 【词根】sediment 沉积物|The study helps researchers better understand sedimentary.
-crude|adj. 粗糙的; 粗鲁的; 天然的; n. 原材料; 原油; 【词根】crud 粗野, 残酷 【拓展】 rough 纹粗糙不平的 coarse 粗糙粗俗的 harsh 粗陋刺⽿的 rude 简陋粗俗的 crude 粗略天然的|The study helps researchers better understand crude.
-horn|n. ⻆; 号⻆喇叭; 【拓展】unicorn 独⻆兽|The study helps researchers better understand horn.
-financial|adj. 财政的; ⾦融的; 来⾃ finance 财政⾦融 【词根】fin 最后→起作⽤→资⾦ 【拓展】accounting 会计; 记账;|The study helps researchers better understand financial.
-aside|adv. 在旁边; 撇开; 【词根】a 在+side 旁边→在边上|The study helps researchers better understand aside.
-scarce|adj. 缺乏的; 罕⻅的; 【拓展】scant 缺乏的, 不⾜的|The study helps researchers better understand scarce.
-condense|v. 凝结; 压缩; 冷凝; 【词根】con 全部+dense 浓→浓缩 【拓展】condenser 冷凝器;|The study helps researchers better understand condense.
-ancestral|adj. 祖先的; 祖传的; 【词根】ance 前+cest ⾛→祖先的 【拓展】 ancestor 祖先, 祖宗; ancestry 祖先, 家世;|The study helps researchers better understand ancestral.
-criticize|v. 批评; 评价; 【拓展】 critic 批评家; critical 批评的, 评论的; 紧要的; Criticism 批评, 谴责; 评论|The study helps researchers better understand criticize.
-principal|adj. 主要的; 本⾦的; n. 负责⼈; 主⻆; 本⾦; 【词根】prin 主要+cip 抓→主要的|The study helps researchers better understand principal.
-spear|n. ⽭; 枪; v. 刺; 戳; 【词源】同 spire 塔尖; 螺旋;|The study helps researchers better understand spear.
-formal|adj. 正规的; 正式的; 来⾃ form 模式 【拓展】informal ⾮正式的, 随意|The study helps researchers better understand formal.
-frontality|n. 正⾯描绘; 来⾃ frontal 正⾯的|The study helps researchers better understand frontality.
-warm-|blooded  adj. 暖⾎的; 恒温的; 【词根】warm 暖+blood ⾎→暖⾎|The study helps researchers better understand warm-.
-snail|n. 蜗⽜, 迟钝的⼈;|The study helps researchers better understand snail.
-confuse|v. 使困窘; 使混乱; 【词根】con 共同+-fus 熔→混乱 【拓展】 puzzle 难于理解 bewilder 使困惑 confuse 混淆糊涂 perplex 使困惑迷惑 confound 困惑惊讶 单词 ⾳标 释义 助记 presentation  n. 介绍; 陈述; 外观; 表演; 【词根】present 送→介绍,呈现 【拓展】represent 描述, 表示; cast  v. 铸造; 投射; n. 全体演员; 铸型; 【拓展】mould 铸模, 模具; bound  v. 弹跳; 增⻓; n. 界限; 跃起; adj. 注定; 相连; 【拓展】 leap 纵⾝猛跳 hop 快速跳动 wakefulness  n. 难以⼊睡; 来⾃ wakeful 醒着的 【拓展】awaken 醒来,唤醒,唤起; influential  adj. 有权势的; n. 有影响的⼈; 【拓展】influence 影响 【拓展】influencer 有影响的⼈ restrict  vt. 限制; 约束; 【词根】re 回+strict 拉紧 【拓展】 restriction 限制约束 restrictive 限制性的 devoid  adj. 缺乏的; 【词根】de 加强+void 空 drainage  n. 排⽔系统; 排⽔; 来⾃ drain 排⼲耗尽 【拓展】ditch 沟渠 waterproof 防⽔ slope  n. 斜坡; 斜⾯; v. 倾斜; 悄悄潜⾏; 【拓展】tip 歪斜; tilt 倾斜; expense  n. 费⽤; 开销; 【词根】ex 出+pens 花费 【拓展】expensive 花费昂贵的 genetic  adj. 遗传的; 基因的; 来⾃ gene 基因 contaminate  v. 污染; 弄脏; 【词根】 con 共同+tamin 接触 specimen  n. 标本; 样品; 【词根】speci 外观种类, 特别 【拓展】sample 样品 sector  n. ⾏业; 领域; 扇形; 【词根】sect 切割 →部⻔ 【拓展】 section 部分, 部⻔, 章节; segment ⽚段, 细分的部分;|The study helps researchers better understand confuse.
-BEAT|《托福必考 2000 词》 List 12 请加助教微信 saturate  vt. 浸透; 使充满饱和; 【词根】satur ⾜够→饱和 interfere  v. ⼲涉; 妨碍; 【词根】inter 相互+fer 打击 【拓展】 interference 冲突, ⼲涉; intervene 阻挠, 介⼊; rib  n. 肋⻣; 【拓展】ribbon 缎带, 丝带; enrich  vt. 充实; 使富⾜; 【词根】en 加强+rich 富 cement  n. ⽔泥; 胶合剂; vt. 粘牢; 巩固; 【拓展】concrete 混凝⼟ diminish  v. 减少; 减弱; 【词根】di 分开+mini ⼩ 【拓展】 lessen 减少, 减轻 dwindle 减少, 缩⼩ overland  adj. 经由陆路的; 【词根】over 在...上 + land ⼟地 resident  adj. 居住的; n. 居⺠; 【词根】reside 居住+ent ⼈ 【拓展】 residence 住处, 居住 residential 居住的, 住宅的 stock  n. 股份; 股票; 库存; adj. 存货的; v. 囤积; 【词源】同 stake 股份; 重⼤利益 sort  n. 种类; 排序; v. 分类; 【拓展】sort out 整理辨别; 解决; precise  adj. 明确的; 精确的; 【词根】pre 预先+cise 切→精确 【拓展】precision 精确度 scribe  n. 抄写员 【词根】scrib 写 【拓展】 subscribe 订购; 捐献; ascribe 把…归于; prescribe 规定; 处⽅开药; corn  n. ⾕物; ⽟⽶ 【词源】同 grain ⾕物 【拓展】crop 指庄稼作物 upwelling  n. v. (⽔流的) 上涌; 【词根】up 上+ welling ⽔井 data  n. 数据; 数据单数是 datum season  n. 季节; 时令; v. 调味; 【词源】同 sow 播种→跟季节⾛ gradient  n. 梯度; 变化率; 【词根】grad 步级→梯度 signature  n. 签名; 标志特征; 【词根】sign=mark 记号标志 marble  n. ⼤理⽯; 【拓展】granite 花岗岩 elongate  vt. 延⻓加⻓; 【词根】e 出+long ⻓→⻓出来 maritime  adj. 海上的; 【词根】mari 海 【拓展】marine 海洋海产的; 海 军的; Venus  n. ⾦星; 爱神维纳斯; 【拓展】Venice 威尼斯 intense  adj. 强烈的, 紧张的; 热情的; 【词根】in 加强+tens 伸 【拓展】 intensive 加强的, 强烈的; intensity 强烈, 强度, 亮度; intensify 加强, 加剧; Oceania  n. ⼤洋洲 【词根】来⾃ ocean 海洋 vigorous  adj. 精⼒旺盛, 充满活⼒的; 来⾃ vigor 活动, 精⼒, 元⽓; 【词根】vig ⽣命→精⼒元⽓ 【拓展】robust 强健结实的 minute n.  adj.  n. 分钟; 会议记录; adj. 微⼩的; 【词根】min ⼩→⽚刻, 微⼩的; 【拓展】minus 负的; 减的; epoch  n. 时代; 纪元; 【拓展】 era 可与 epoch, age 互换 scatter  v. 散开; 分散; n. 撒开, 散播; 【词源】同 shatter 粉碎 【拓展】 disperse 散步, 驱散 diffuse 发散, 舒缓 critical  adj. 批评的; 关键的; 严重的; 【词根】crit 判断分辨 【拓展】 critic 批评家; critique 评论; critically 关键地; 严重地; depression  n. 沮丧; 萧条; 洼地; 低⽓压; 来⾃ depress 压制压抑→消沉 【词根】de 向下+press 压 【拓展】despair 沮丧绝望 discharge  n. v. 释放排出; 免职; 【词根】dis 去掉+charge 负荷 【拓展】release 释放, 公布 predation  n. 捕⻝, 掠夺; 【拓展】predator 捕⻝者 graze  n. v. 放牧; 来⾃ grass 草 (字⺟ s ⾳变成 z ) 【拓展】 grazer ⻝草动物 overgraze 过度放牧 sibling  n. 兄弟, 姐妹; 古英语 = relative 亲戚, 相关的; bond  n. 纽带联系; 债券; v. 紧密结合; 【词源】同 bind 绑 scent  n. ⾹味, ⽓味; v. 闻到; 察觉; 【词根】scent=sent 感觉→⽓味 【拓展】 fragrance ⾹味 odor ⽓味 flavor ⼝味 reward  n. 报酬; 回报; v. 酬谢; 奖励; 【词根】re 强调+-ward 看→报酬 【拓展】award 奖赏, 授予 schedule 英  美  n. ⽇程计划; vt. 时间安排; 【拓展】 roll 花名册 chart 图表 meteor  n. 流星; ⼤⽓现象; 【词源】同 air ⼤⽓ 【拓展】meteoric 迅速; 流星的; determination  n. 决⼼, 果断; 来⾃ determine 决定, 决⼼; ware  n. 器⽫; 【词源】同 ward 监视 【拓展】 vessel 容器, ⾎管, 船 vase 花瓶 warrant 保证 retrieve  v. 取回; 找回; 挽回;恢复; 【拓展】retrieval 收回, 挽回; policy  n. 政策; 【词根】polic 国家城市 settler  n. 定居者; 侨⺠; 来⾃ settle 定居 【拓展】settlement 定居点 duration  n. 持续时间; 期间; 【词根】dur 持久延续 【拓展】durable 持久耐久的 employ  v. 雇⽤; 使⽤采⽤; 【拓展】 employer 雇主 employee 雇员 sentence  n. 句⼦; 宣判; vt. 判决; 【拓展】 judge 评定判决 condemn 谴责判刑 convict 宣判定罪 latitude  n. 纬度; 【词根】lat 宽阔→纬度 【形近】altitude ⾼度, 海拔; proceed  vi. 继续进⾏; 持续不断; 【词根】pro 向前+ceed ⾛ 【拓展】progress 前进, 进程 depletion  n. ⼤量消耗; 来⾃ deplete 耗尽 specialization  n. 专⻔从事; 专攻; 来⾃ special 特殊的, 专⻔的; 【词根】speci 外观种类 【拓展】specialize 专攻 sheer  adj. adv. 完全地; 陡峭地; 【拓展】 shear 剪 steep 陡峭的 freight  n. 货物, 货运; vt. 装货, 运输; 【拓展】merchandise 商品货物 matrix  n. 矩阵; 环境; 【词根】matri=mother=⺟性 inability  n. ⽆能, ⽆⼒; 【词根】in ⽆+ability 能⼒→⽆能 industrialize  vt. 使⼯业化 来⾃ industry ⼯业, ⾏业; 【拓展】industrial ⼯业的 单词 ⾳标 释义 助记 variable  adj. 可变的; 变量的; n. 变量; 【词根】vari 变化→易变的 【拓展】invariable 不变永恒的 entertainment  n. 娱乐节⽬; 【词根】enter 进⼊+tain 挽留 【拓展】 entertain 娱乐招待 entertainer 娱乐艺⼈ olfactory  adj. 嗅觉的; 【词根】olfact 闻嗅→嗅觉的 【拓展】odor ⽓味 exposure  n. 暴露; 揭发; 曝光; 来⾃ expose 暴露 【词根】ex 出+pos 放→暴露 【拓展】disclose 揭露, 泄露 gypsum  n. ⽯膏 【拓展】plaster 灰泥, 熟⽯膏 systematic  adj. 系统的; 成体系的; 来⾃ system 系统 【词根】sys 共同+st 站→系统 govern  v. 统治; ⽀配; 【拓展】governance 统治,管理; beneficial  adj. 有利的, 有益的; 来⾃ benefit 好处利益 【词根】bene 善好+fit 做→利益 compact  adj. 紧凑的; 【词根】pact=fastened 结合 【拓展】compactness 紧密简洁 compaction 压紧压实|The study helps researchers better understand BEAT.
-conquest|n. 征服; 占领; 【词根】con 全+quest 寻求 【拓展】contest 竞赛, 争夺|The study helps researchers better understand conquest.
-gulf|n. 海湾; 鸿沟; 【词源】同 whelm 淹没→海湾|The study helps researchers better understand gulf.
-distinction|n. 差别; 荣誉; 卓越; 来⾃ distinct 清楚明显的 【词根】dis 分+stinct 刺→明显 【拓展】discrimination 区别对待|The study helps researchers better understand distinction.
-virus|n. 病毒; 【拓展】 germ 细菌微⽣物 bacteria 细菌 virus 病毒 microbe 微⽣物, 致病细菌|The study helps researchers better understand virus.
-BEAT|《托福必考 2000 词》 List 13 请加助教微信|The study helps researchers better understand BEAT.
-inequality|n. 不平等; 不均等; 【词根】in 不+equ 均等→不平等|The study helps researchers better understand inequality.
-populate|vt. 居住于; ⽣活于 【词根】popul ⼈⺠ →居住于 【拓展】popularize 普及推⼴ popularity 普及流⾏|The study helps researchers better understand populate.
-perennial|adj. 持续的; 多年⽣的; n. 多年⽣植物; 【词根】per 贯穿+enn 年→全年|The study helps researchers better understand perennial.
-decay|n. v. 腐烂; 衰败; 衰落; 【词根】de 向下+cay 落→衰退 【拓展】rot 腐烂变质|The study helps researchers better understand decay.
-adjacent|adj. 邻近的; 【词根】ad 来+投,射→邻近|The study helps researchers better understand adjacent.
-enclose|vt. 包围; 封⼊; 【词根】en 进+clos 关闭→包围 【拓展】enclosure 包围|The study helps researchers better understand enclose.
-debris|n. 碎⽚, 残骸; 【词根】de 分+bris 破→碎⽚ 【拓展】litter 散落的垃圾 junk 废旧物品|The study helps researchers better understand debris.
-intellectual|adj. 智⼒的; 才智的; n. 知识分⼦; 来⾃ intellect 理智, 才智 【拓展】Intelligence 智⼒, 情报|The study helps researchers better understand intellectual.
-refine|vt. 提炼; 改善; 【词根】re 反复+fin 界限 →改善 【拓展】purify 提纯净化|The study helps researchers better understand refine.
-elaborate|v. 详尽说明; 精⼼制作; adj. 精致详尽的; 【词根】e 出+labor 劳动→精做 【拓展】elaboration 精⼼制作|The study helps researchers better understand elaborate.
-regularity|n. 规律; 正规整⻬; 【拓展】regulator 监管者|The study helps researchers better understand regularity.
-prosperity|n. 繁荣; 兴旺; 成功; 【词根】prosper 繁荣 【拓展】prosperous 繁荣的;|The study helps researchers better understand prosperity.
-aggressive|adj. 好⽃的; 积极进取的; 来⾃ aggress 侵略进攻|The study helps researchers better understand aggressive.
-symbiosis|n. 共⽣互利关系; 【词根】sym 共同+bio ⽣命|The study helps researchers better understand symbiosis.
-classify|vt. 分类,归类; 【拓展】classification 分类分级 categorize 分类归类|The study helps researchers better understand classify.
-neolithic|adj. 新⽯器时代的; 【词根】neo 新+lith ⽯头 【拓展】paleolithic 旧⽯器时代的|The study helps researchers better understand neolithic.
-dairy|n. ⽜奶场; 乳品店; adj. 奶制的; 【词源】同 dough ⾯团→奶和⾯|The study helps researchers better understand dairy.
-intermediate|adj. 中间的, 居中的; 中级的; 【词根】inter 之间+mediate 调解 【拓展】intermediary 调解者;|The study helps researchers better understand intermediate.
-syllable|n. ⾳节; 来⾃拉丁语 syllaba ⾳节 【拓展】 scale ⾳阶 note ⾳符 rhythm 节奏 string 和弦|The study helps researchers better understand syllable.
-imitate|vt. 模仿; 仿效, 【词根】imit 相象→模仿 【拓展】 imitator 模仿者; imitation 模仿 imitative 模仿的|The study helps researchers better understand imitate.
-circulate|v. 循环; 流通; 散布; 【词根】circ 圆环→循环 【拓展】circulation 流通, 发⾏量|The study helps researchers better understand circulate.
-item|n. 条款; 项⽬; 清单中⼀件 【词源】同 identity ⾝份→条⽬|The study helps researchers better understand item.
-tremendous|adj. 极⼤的; 极好的; 【词根】trem 颤抖→巨⼤可怕的 【拓展】 enormous 极⼤的 immense 巨⼤的 gigantic 庞⼤的 colossal ⽆⽐巨⼤的 vast ⼴阔的 massive 庞⼤的|The study helps researchers better understand tremendous.
-nevertheless|adv. 然⽽; 不过; 【拓展】nonetheless 然⽽|The study helps researchers better understand nevertheless.
-aluminum|n. 铝 【拓展】 铜 copper 锡 tin 锌 zinc 锰 manganese 镁 magnesium 钾 potassium|The study helps researchers better understand aluminum.
-toddler|n. 学步的孩童; 来⾃ toddle 蹒跚学步 【拓展】infant 婴⼉|The study helps researchers better understand toddler.
-achievement|n. 完成达到; 成就; 来⾃ achieve 完成→成就|The study helps researchers better understand achievement.
-bore|v. 令⼈厌烦; 钻孔打洞; 【拓展】 boring 乏味⽆趣的 boredom ⽆聊厌烦的事物|The study helps researchers better understand bore.
-helium|n. 氦; 【词源】太阳, 氦发现于太阳光谱; 【拓展】 hydrogen 氢 oxygen 氧 helium 氦 nitrogen 氮 ammonia 氨|The study helps researchers better understand helium.
-fragile|adj. 易碎的; 虚弱的; 【词源】同 fragment 碎⽚ 【拓展】 brittle 脆的, 易碎的 frail 虚弱,易碎的 feeble 虚弱⽆⼒的|The study helps researchers better understand fragile.
-perspective|n. 观点; 透视图; adj. 透视画法的; 【词根】per 全+spect 看→透视的|The study helps researchers better understand perspective.
-muscular|adj. 肌⾁的; 强壮的; 来⾃ muscle 肌⾁|The study helps researchers better understand muscular.
-regiment|n. ⼤量的⼈或物; 【词根】reg 统治 →严格地管制|The study helps researchers better understand regiment.
-cheap|adj. 便宜的; 劣质的; 吝啬的; 【拓展】shabby 破旧的, 卑劣的|The study helps researchers better understand cheap.
-realistic|adj. 现实逼真的; 现实主义的; 【拓展】 realist 现实主义者; reality 真实逼真 realism 现实主义|The study helps researchers better understand realistic.
-terrain|n. 地形; 地势; 地⾯; 【词根】terr ⼟地 →地形|The study helps researchers better understand terrain.
-disperse|v. 分散; 散播; 【拓展】dispersion 散布; 驱散;|The study helps researchers better understand disperse.
-split|v. 分裂; 分开; n. 区分; 裂缝; 【拓展】 tear 扯破撕开 rip 裂⼝扯开|The study helps researchers better understand split.
-mythology|n. 神话; 【词根】myth 神话|The study helps researchers better understand mythology.
-intricate|adj. 错综复杂的; 【词根】in 内部+tric 诡计→复杂 【拓展】intricacy 错综复杂|The study helps researchers better understand intricate.
-lavishly|adv. 浪费挥霍地; 来⾃ lavish 浪费的 【词根】lav 冲洗→慷慨,过分⼤⽅|The study helps researchers better understand lavishly.
-cubic|adj. ⽴⽅体的; 【拓展】cylinder 圆柱体|The study helps researchers better understand cubic.
-batch|n. ⼀批⼀组; 【词源】同 bake 烤, 分批烤⾯包|The study helps researchers better understand batch.
-Arctic|adj. 北极的; 寒带的; n. 北极地区; 【拓展】Antarctic 南极的|The study helps researchers better understand Arctic.
-curvilinear|adj. 曲线的; 【词根】curve 曲线+line 线 【拓展】delineate 勾画描绘|The study helps researchers better understand curvilinear.
-recreation|n. 休闲娱乐; 重建; 【词根】re 重新+crea ⽣⻓→恢复 【拓展】recreational 娱乐消遣的|The study helps researchers better understand recreation.
-genus|n. (动植物的)属; 种类 来⾃ generate ⽣成 【拓展】genre 艺术类型|The study helps researchers better understand genus.
-mundane|adj. 平凡世俗的; 【词源】=world 世界⼤家都⼀样 【拓展】secular 世俗的|The study helps researchers better understand mundane.
-pertinent|adj. 有关相关的; 【词源】同 pertain 属于→恰当的|The study helps researchers better understand pertinent.
-siltation|n. 淤积沉淀; 来⾃ silt 淤泥|The study helps researchers better understand siltation.
-accentuate|vt. 强调; 加重; 来⾃ accent ⼝⾳; 重⾳; 【词根】ac 加强+cent 唱→重⾳|The study helps researchers better understand accentuate.
-epitomize|v. 成为…的缩影; 来⾃ epitome 梗概, 缩影; 【词根】epi 在后⾯+tome 卷册|The study helps researchers better understand epitomize.
-protrude|v. 突出, 伸出; 【词根】pro 向前+trud 推→突出|The study helps researchers better understand protrude.
-emission|n. (⽓体、热量、光线的) 散发; 【词根】e 出+miss 送→送出去 【拓展】emit 发出, 发射, 发表;|The study helps researchers better understand emission.
-renowned|adj. 有名的, 声誉的; 来⾃ renown 声誉|The study helps researchers better understand renowned.
-ventilate|vt. 通⻛; 空⽓流通; 来⾃ vent 通⻛⼝, 表达发泄; 【拓展】ventilation 通⻛|The study helps researchers better understand ventilate.
-saliva|n. 唾液, ⼝⽔; 【拓展】spit 吐⼝⽔, 吐痰; 单词 ⾳标 释义 助记 skull  n. 颅⻣, 头盖⻣; 【词源】同 shell 外壳, 壳体; camel  n. 骆驼; 【拓展】 kangaroo 袋⿏ zebra 斑⻢ giraffe ⻓颈⿅ ostrich 鸵⻦ browse  n. v. 浏览; 翻阅; 吃草; 【拓展】skim 略读 industrialization  n. ⼯业化; 【拓展】industrial ⼯业产业的; evident  adj. 明显的; 清楚地; 【词根】e 出+vid 看→明显 【拓展】evidence 显著; 证据; large-scale  adj. ⼤规模的, ⼤范围的; 【词根】large ⼤+scale 规模 orientation  n. ⽅向; 定位; 取向; 来⾃ orient 东⽅ 【词根】ori 升起开始 【拓展】disorientation 迷惑 regardless  adj. adv.不管怎样, ⽆论如何; 【词根】regard 看待+less ⽆ freeze  v. 冰冻冷藏; 冻僵; 停⽌不动; 【词源】同 frost 结霜, 严寒; 【拓展】 chilly 哆嗦的冷 frosty 严寒霜冻的 freezing 冻得彻⻣的 obstacle  n. 障碍; 困难; 【词根】ob 反对+st 站→障碍 【拓展】 obstruct 堵塞; 阻碍; obstruction 阻碍, 路障 agreement  n. 协定, 协议; 赞同⼀致; 【拓展】 agreeable 同意愉快的;|The study helps researchers better understand saliva.
-BEAT|《托福必考 2000 词》 List 14 请加助教微信 profound  adj. 深刻强烈的; 意义深远的; 【词根】pro 前+found 基础 well-being  n. 健康幸福; 【拓展】bliss 巨⼤的幸福 domestication  n. 驯养, 驯化; 来⾃ domesticate 驯养 【词根】dom 家⾥的→驯养 investor  n. 投资者; 来⾃ invest 投资 【词根】in 进+vest ⾐服→掏钱 arsenal  n. 军⽕库; 兵⼯⼚; 【词根】arsen 军⽕ 【拓展】arson 纵⽕ desirable  adj. 令⼈满意的; 受欢迎的; 【拓展】 undesirable 不受欢迎的, piston  n. 活塞; 【拓展】pistol ⼿枪 bare  adj. 光秃⾚裸的; 勉强仅有的; 【拓展】 naked 裸体的 bald 秃顶的 subsequent  adj. 后来, 随后的; 【词根】sub 后⾯+sequ 跟随 【拓展】subsequence 后果 twig  n. 细枝, 嫩枝; 【拓展】twist 弯曲扭动 overtime  n. 加班; 额外加时; 【词根】over 超过+time 时间 【拓展】overshoot 超过, barren  adj. 荒芜贫瘠的; 空的; 不育的; 【拓展】bare ⾚裸的 prairie  n. 北美的⼤草原; 【拓展】 steppe ⻄伯利亚⼲草原 threaten  v. 威胁; 恐吓; 来⾃ threat 恐吓, 凶兆, 威胁 【拓展】menace 威胁, 恐吓 shrine  n. 圣地; 神龛; 【拓展】cabinet 内阁, 橱柜; trend  n. 趋势; 倾向; 【拓展】 tend 往往会, 倾向于 tendency 倾向, 偏好 percentage  n. 百分⽐; 来⾃ percent 百分⽐ 【拓展】ratio ⽐率 literacy  n. 能读能写; 有⽂化; 【词根】liter ⽂字 【拓展】 illiteracy ⽂盲 literate 有⽂化的 swallow  v. 吞咽; 忍受; n. 燕⼦; 吞咽量; 【拓展】 devour 狼吞⻁咽地吃 gorge 贪婪地吃; 峡⾕ fauna  n. 动物群; 【拓展】 faunal 动物群落的 floral 植物群落的 interval  n. 间隔; 数学区间; 【词根】inter 之间 【拓展】intervene 介⼊, 阻碍 competitive  adj. 竞争的; 有竞争⼒的; 来⾃ compete ⽐赛, 竞争 【拓展】competition 竞争竞赛 border  n. 边界; 边疆; 【词根】bord 边界 【拓展】 margin 空⽩边缘 rim 圆形物体的边 verge 路边 brim 突出的边沿 fringe 外围的边缘 clue  n. 线索; 【拓展】thread 细线; 线索; small-scale  adj. ⼩规模的; ⼩型的; 【词根】small ⼩的+scale 规模 【拓展】large-scale ⼤规模的 cope  v. 处理; 应付; n. ⻓袍; 【拓展】deal with 解决问题 evaluate  v. 评价; 估计; 【词根】e 出+valuate 评价 【拓展】 estimate 估算 appraise 评价 assess 估价 rate 评级 volatile  adj. 易变不稳定; 易挥发的; 【词根】volat ⻜→挥发的 trader  n. 商⼈; 交易者; 来⾃ trade 贸易 【拓展】dealer 商⼈交易商 reclaim  vt. 开垦; 收回; n. 改造感化; 【词根】re 重新+claim 喊 【拓展】reclamation 开垦 aesthetic  adj. 艺术审美的; 【词根】aesthet 感觉→美感 【拓展】aesthetics 美学 communal  adj. 公共的; 社区的; 【词根】com 共同+mun 社区 【拓展】community 社区 overseas  adj. adv. 海外(的地); 【词根】over 超过+sea 海 carbonate  n. 碳酸盐; 【词根】carbon 碳+-ate 盐 【拓展】硅酸盐 silicate deform  v. 变形; 畸形; 【词根】de 相反+form 形 【t 拓展】deformity 残缺; noticeable  adj. 明显的; 瞩⽬的; 显著的; 来⾃ notice 通知, 通告, 注意; 【词根】not 知道, 注释→注意 【拓展】 conspicuous 引⼈注⽬的 twist  v. 扭动, 扭曲; 扭伤; n. 转机; 卷曲; 【词根】twi 两个→扭在⼀起 【辨析】bend 弯曲 offshore  adj. adv. 离岸的; 近海的; 【词根】off 离开+shore 岸边 exogenous  adj. 外部原因的; 【词根】exo 外⾯+gen 产⽣ 【拓展】endogenous 内⽣的; accuracy  n. 精确准确性; 【词根】ac 再+cur 关⼼→精确 【拓展】accurate 准确精确的; score  n. 得分; 成绩; 配乐; 20 个; v. 评分; 【拓展】mark 打分; correspond  v. 符合; 相关; 通信; 【词根】cor 同+respond 反应 【拓展】 correspondence 关联; 通信 component  n. 组成部分; 成分; adj. 组成的; 【词根】com 共同+pon 放 【辨析】constituent 选⺠;成分; immigrant  n. 外来移⺠; 侨⺠ 【词根】im 进⼊+migr 迁移 【拓展】 emigrant 移居外国者 emigration 移⺠侨居 cargo  n. (船或⻜机装载) 货物; 【词根】car 装载负担 【拓展】ferry 运送, 摆渡 purchase  n. v. 购买; 采购; 【词根】pur, pro+chase 追上 organ  n. 机构; 器官; ⻛琴; 【拓展】organic 器官的, 有机 的; concentrate  v. 全神贯注; 浓缩; 集中; 【词根】con 共同+centr 中⼼ 【拓展】concentration 集中 column  n. 圆柱; 专栏; 纵列竖列; 【拓展】pillar 柱⼦ columnist 专栏作家 tame  adj. 驯服的; 乏味的; v. 驯化; 驾驭; 【拓展】fame 名声名望 sulfide  n. 硫化物 来⾃ sulfur 硫, 硫磺; 【拓展】 sulfur dioxide ⼆氧化硫 opposite  adj. adv. 对⾯的; 截然相反地; n. 对⽴⾯; 来⾃ oppose 反对 【词根】op 对+pos 放→相反 【拓展】adverse 有害, 反⾯的 assemble  v. 集合; 装配; 聚集; 【词根】as 不断+sembl 相似 【拓展】assembly 议会;装配 segment  n. 部分; ⽚段; v. 划分; 【词根】seg 切割 【拓展】portion 部分; ⼀份; figurine  n. ⼩雕像; 【词根】figure 形体→⼩塑像 【拓展】statue 雕像 horticulture  n. 园艺 (学); horti 来⾃法语: 喜欢种花的⼥⼦ 【拓展】horticultural 园艺的 rough  adj. 粗糙的; 粗鲁的; 粗略的; 【拓展】 rough 纹粗糙不平的 coarse 粗糙粗俗的 harsh 粗陋刺⽿的 rude 简陋粗俗的 crude 粗略天然的 impressive  adj. 了不起的; 给⼈印象深刻的; 来⾃ impress 留印象, 引⼈注⽬ 【词根】im 进+press 挤压 【拓展】impression 印象,压痕; assessment  n.估价评估; 鉴定; 来⾃ assess 评价 【拓展】 estimate 估算 appraise 评价 assess 估价 evaluate 评价 rate 评级 单词 ⾳标 释义 助记 meadow  n. 草地, 牧场; 【拓展】 lawn 草坪 pasture 放牧的草地 aggregate  n. 集合体; adj. 总计的; v. 总计汇集; 【词根】ag 加强+greg 群体→聚集 【拓展】aggregation 聚集, 总合 dam  n. ⽔坝; v. 筑坝; 【拓展】damage 损坏 ensure  vt. 确保; 担保; 【词根】en 使+sure 确信→保证 【拓展】 insure 保险,投保 assure 保证,使确信 guarantee 担保 pledge 许诺保证 promise 答应承诺 seep  v. 渗透; 漏出; 【词源】同 soak 浸泡 【拓展】permeate 渗透, 传播扩散 mobility  n. 流动性; 机动性; 来⾃ mobile 可动的 【拓展】mobilize 动员, 调动 convert  v. 转变; 改造; 换算; 【词根】con+vert 转→变换, 转换 【拓展】 alter 略微改变 modify 修饰改进 transform 外观变形 decorate  v. 装饰; 粉刷; 【词根】decor 装饰 【拓展】decoration 装饰 ornament 装饰物 rational  adj. 理性的; 合理的; 来⾃ ration 理性, 定量 【辨析】reasonable 公道合理 gusher  n. 喷出物, 喷油井; 来⾃ gush 喷出 span  n. 跨度; 期间; vt. 横跨; 【拓展】spell ⼀段时间, 意味着|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 15 请加助教微信 overcast  adj. 阴天的; 【词根】over 过分+cast 扔→遮蔽 sale  n. 卖; 销售; 贱卖; 【词源】同 sell 卖 【拓展】on sale 折价出售 pond  n. 池塘; 【辨析】pool ⽔池 narrative  n. 记叙⽂; 叙述; adj. 叙述的; ⾃ narrate 叙述 【拓展】narration 叙述, 故事 nebular  adj. 星云的; 【词源】同 mist 雾 objective  adj. 客观的; n. ⽬标; 宾语; 来⾃ object 物体, 客体, ⽬标; 【词根】ob 逆反+ject 投扔 presumable  adj. 可推测的; 来⾃ presume 以为, 假定, 推测; 【拓展】presumable 可假定的 utilize  vt. 利⽤, 使⽤; 来⾃ utilize 利⽤ 【词根】util ⽤+ize 表动词→利⽤ 【拓展】utilization 利⽤ gender  n. 性别; 【词根】gen ⽣育 【词源】同 gene 基因 trumpet  n. 喇叭; ⼩号; v. ⼤⼒宣传; 【拓展】bugle 军号喇叭 promote  vt. 促进; 推销; 提升; 【词根】pro 向前+mot 动→促进 【拓展】promotion 促进, 提升,; moss  n. 苔藓; 【拓展】lichen 地⾐; herbivore  n. ⻝草动物 【词根】herbi 草+-vor 吃→草⻝ 【拓展】 carnivore ⻝⾁动物 (carn ⾁) herbivore ⻝草动物 (herb 植物) omnivore 杂⻝动物 (omni 全) repetition  n. 重复; 背诵; 重奏; 【词根】re 重复+pet 追求→重复 【拓展】repetitive 重复的 alert  n. 警戒; v. 报警; adj. 警戒机敏的; 【拓展】alertness 警戒 version  n. 版本; 说法; 【词根】vers 转→版本, 译⽂ 【拓展】edition 版本, 版次 catholic  adj. 天主教的; ⼴泛的; n. 天主教徒; 【词源】同 holy 神圣的 whole 全部→⽆所不包的 tide  n. 潮汐; 潮流; 【拓展】ebb 退潮 constituent  n. 成分; 要素; 选⺠; adj. 组成的; 来⾃ constitute 组成 【词根】con 共同+stit 建⽴→组成 【拓展】component 成分, 部分 preschooler  n. (美) 学龄前⼉童 【词根】pre 前+school 上学 【拓展】preschool 学前的 , 学前班 undoubtedly  adv. 毋庸置疑地; 来⾃ doubt 怀疑 private  adj. 私有的; 秘密的; 私⽴的; n. 列兵; 【词根】priv 单个 →个⼈的 【辨析】privacy 隐私 party  n. 聚会; 党派; 协议的⼀⽅; 【词根】part 部分, 分开→各⼀⽅ discourage  vt. 使⽓馁, 劝阻; 【词根】dis 去掉+courage 勇⽓ nerve  n. 神经, 胆量; 【拓展】nervous 紧张的, 神经质; vision  n. 视⼒, 视野; 展望; 【词根】vis 看, 查 【拓展】时觉得, 形象化的; occasion  n. 时机; 场合; 原因; v. 导致; 引起; 【词根】oc 使+cas 落下→事情发 ⽣ 【拓展】occasionally 偶尔 tropic  n. (复数) 热带; 回归线; 【词源】trop=turn 转到新的⽓候带 encounter  v. 遭遇, 偶遇: 邂逅; counter=反对, 相反 exclude  vt. 排除; 阻挡拒绝; 【词根】ex 出+clud 关闭→排除 【拓展】 exclusion 排除, 除外 exclusive 专⽤⾼级的, 排外的; simulation  n. 模仿, 模拟; 仿真; 来⾃ simulate 模仿, 模拟; 【词根】simul=alike/same 类似 surpass  vt. 超过; 优于胜过; 【词根】sur 上⾯超过+pass 通过 【拓展】exceed 超出, 超越 interstellar  adj. 星际的; 【词根】inter 中间+stellar 星星的 【拓展】constellation 星座; devise  v. 设计; 发明; 策划; 【词根】de 切+vis 分开→分别想出 【拓展】conceive 设想构思 dwelling  n. 住处; 居住; 【拓展】land-dwelling 陆⽣的; 【拓展】habitation 住所, 聚居地 planetarium  n. 天⽂馆 【词根】planet ⾏星+arium 场所 【拓展】aquarium ⽔族馆 resilience  n. 快速恢复的能⼒; 弹性; 【词根】re 重新+sili, sali 跳→弹性 【拓展】resilient 弹性, 迅速恢复的 bulge  n. v. 膨胀暴涨; 凸出肿块; 【词源】同 ball 膨胀, ⿎起, 球; attribute  vt. 认为是; 把…归于; n. 品质特征; 【词根】at 加强+tribut 给予→归因 【拓展】ascribe 把... 归因于 puzzle  v. 迷惑; n. 难题; 费解的事; 【拓展】mystery 秘密, 神秘 glassy  adj. adv. 似玻璃的; 眼神呆滞的; 【拓展】mug 有柄⼤杯⼦ conscience  n. 良⼼; 良知; 【词根】con 全+sci 知道→良知 【拓展】conscious 意识到的 stray  v. ⾛失; ⾛神; n. ⾛失离群者; adj. 零散⾛失的; 【拓展】wander 漫步, 闲逛; hazel  n. 榛树; 淡褐⾊; adj. 榛树的; 【拓展】 oak 橡树 maple 枫树 pine 松树 willow 柳树 hazel 榛树 birch 桦树 pollinate  vt. 给…传授花粉; 来⾃ pollen 花粉 【拓展】pollination 授粉 fabric  n. 织物; 结构; 【拓展】fabricate 捏造, 建造制造; redundancy  n. 过剩; 冗余; 裁员; 【词根】re 再+dund 波浪→过剩 【拓展】redundant 多余累赘的; toothpaste  n. ⽛膏; 【词根】tooth ⽛+paste 膏→⽛膏 crush  v. 压碎; 榨出; 击败; n. (⼥对男的) 迷恋; 【拓展】 burst 爆裂 crack 断裂 crush 压碎 fracture ⻣折 shatter 粉碎 smash 摔碎 larva  n. 幼⾍; 【拓展】lava 熔岩 maize  n. ⽟⽶, ⽟蜀⿉; 来⾃南美⼟著语 【拓展】corn ⽟⽶ weaver  n. 织⼯, 编织者; 来⾃ weave 编织 【拓展】knit 针织编织 lighter  n. 打⽕机; 点⽕器; 【词根】light 光+er 物品→打⽕机 【拓展】lighten 点亮; 减轻负担 prime  adj. 最好的; ⾸选的; 主要的; n. 全盛时期; 【词根】prim 第⼀⾸要 【拓展】 primary 最初的, ⾸要的 primordial 出⽣的, 原始的 gulp  v. 狼吞⻁咽; ⼤⼝吸⽓; n. 吞咽; 【拓展】gorge 狼吞⻁咽 pump  n. 泵; 打⽓筒; v. 抽取; 泵送; 拟声词, 模仿泵发出的声⾳ procedure  n. 程序, ⼿续; 步骤; 来⾃ proceed 进⾏, 继续; 【词根】pro 前+ced ⾛→⾛完程序 grand  adj. 宏伟壮丽的; 【词源】grande <法语>重⼤的; 【拓展】 grand 宏伟的 magnificent 壮丽的 majestic 庄严的 splendid 壮观的 fear  n. v. 害怕; 恐惧; 担忧; 【拓展】 fear 害怕 fright 惊吓 horror 惊悚 panic 恐慌 terror 恐怖 单词 ⾳标 释义 助记 conceal  vt. 掩盖; 隐藏; 隐瞒; 【词根】con 全部+ceal 隐藏 【拓展】 hide 隐藏, 躲藏 screen 遮挡; 遮蔽 restless  adj. 焦躁不安的; 【词根】rest 休息+less ⽆ 【拓展】unrest 骚乱, 动荡; constitute  vt. 构成, 组成; 制定, 设⽴; 【词根】con 共同+stitut 建⽴ 【拓展】 compose 构成, 创作 comprise 组成, 包括 consist of 由...组成 constitute 构成, 组成 birch  n. 桦树; 【拓展】 oak 橡树 maple 枫树 pine 松树 willow 柳树 hazel 榛树 birch 桦树 burial  n. 掩埋; 葬礼; 来⾃ bury 埋葬 phase  n. 阶段时期; ⽉相的盈亏; 【词根】phas 外貌,状态,显示→阶段 refractory  adj. 倔强的; 难控制的; 【词根】re 反+fract 打碎→宁折不弯 【拓展】stubborn 倔强 prestige  n. 威信; 声望; 【词根】pre 前+stige, str 拉紧→声望 commodity  n. 商品; ⽇⽤品; 【词根】com 共同+mod 模式→商品 【拓展】merchandise 商品; 货物 joint  adj. 共同联合的; n. 关节; 接合处; 【拓展】 junction 链接, 接合点 Joint-stock 合资的 bulk  n. ⼤体积; ⼤量; ⼤批买卖 【拓展】wholesale 批发 crucial  adj. ⾄关重要的; 【词根】cruc ⼗字交叉⼝→决定性的|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 16 请加助教微信 consume  vt. 消耗, 消费; 吃喝饮⽤; 【词根】con 共同+sume 拿→消耗 【拓展】 dine ⽤餐吃饭; consume 吃喝饮⽤ devour 狼吞⻁咽 gorge 贪婪的吃 swallow 吞咽 weaken  v. 削弱; 动摇; 【拓展】waver 动摇, 摇晃 flora  n. 植物群; 【词根】flor 花+a 复数→植物群 【拓展】fauna 动物群; rival  n. 竞争对⼿; v. ⽐得上; adj. 竞争的 【词根】riv=river+al ⼈物,状态→竞争 【拓展】opponent 对⼿, 敌⼿ ceremonial  adj. 仪式的; n. 仪式; 礼节; 来⾃ ceremony 仪式 descend  v. 下降; 降临; 【词根】de 下+scend 爬→遗传 【拓展】descendant ⼦孙后代 sedentary  adj.久坐的; 少活动的; 【词根】sed, sid 坐→坐着的 expressive  adj. 表达富于表现⼒的; 来⾃ express 表达, 特快的 【词根】ex 出+press 挤压→表达 cooperate  v. 协作; 配合; 【词根】co 共同+operate 操作→合作 【拓展】collaborate 合作协作 fund  n. 基⾦; 储备; 现款; v. 提供资⾦; 【拓展】 foundation 基础, 基⾦(会) funding 资⾦拨款 nomad  n. 游牧⺠; 流浪者; 【词根】nom 流浪 【拓展】 nomadic 流浪游牧的 nomadism 流浪游牧⽣活 typical  adj. 典型的; ⼀贯平常的; 来⾃ type 模式, 类型, 形状 【拓展】stereotype 刻板⽼⼀套的; machinery  n. 机器机械; 组织机构; 来⾃ machine 机器, 机械 【词根】mach 机器+ine 物体→机器 【拓展】mechanism 机制; 机械结构; mutualism  n. 互利共⽣; 来⾃ mutual 相互彼此的; 【词根】mut 改变→相互改变 insulate  v. 使隔离; 隔热; 隔⾳; 绝缘; 【词根】insul 岛→变成岛→隔离 【拓展】insulation 绝缘; discard  vt. 丢弃, 抛弃; n. 遗弃的⼈或物; 【词根】dis 去掉+card 纸⽚→抛弃 【拓展】shed 去除, 脱⽑, 掉叶⼦ exceptional  adj. 杰出⾮凡的; 例外的; 【拓展】 special 特殊的 especial 特别的 specific 明确的 particular 特殊的 exceptional 例外⾮凡的的 extraordinary ⾮常奇特的 peculiar 异常特有的 mystery  n. 神秘; 秘密 【拓展】 mystical 神秘的; mysterious 神秘的 ore  n. 矿物; 矿⽯; 【拓展】mineral 矿物, 矿物的; respiratory  adj. 呼吸的; 来⾃ respire 呼吸 【词根】re 再次+spir 呼吸,精神 【拓展】respiration 呼吸 pastoral  adj. 牧师的; ⽥园乡村的; 【拓展】 pastor 牧⼈, 牧师; pasture 牧场; usable  adj. 可⽤的; 便于使⽤的; 【拓展】 useful 有⽤有益的; useless ⽆⽤⽆效的; liberal  adj. 开明的; ⾃由的; 慷慨的; n. ⾃由主义者; 【词根】liber ⾃由→慷慨⼤⽅的 【拓展】liberty ⾃由; antler  n. ⿅⻆; 【拓展】 antenna 触⻆, 天线; tentacle 触⼿, 触须 ; hospitable  adj. 好客的; 宜⼈的; 【词根】hospit 客⼈→接待客⼈之地 【拓展】inhospitable 不宜居的; timekeeper  n. 计时员; 守时的⼈; 【词根】time 时间+keeper 管理⼈ 【拓展】 timekeeping 计时 timer 计时器, 跑表; moisture  n. ⽔分; 潮湿; 降⾬量; 来⾃ moist 潮湿多⾬的 【拓展】humidity 湿度, 潮湿 secular  adj. 世俗的; 【拓展】mundane 平凡世俗的 accustom  vt. 使适应, 惯于; 【词根】ac 使+custom ⻛俗→惯于 marker  n. 标识, 标记; 记号笔 【词根】mark 标记→标识 【拓展】markedly 显著地 charcoal  n. ⽊炭; 炭画笔; 来⾃ coal 煤 vertical  adj. 垂直的, 竖⽴的; n. 垂直⽅向; 【词根】vert 转→转直→垂直得 【拓展】 vertical 垂直的; perpendicular 成直⻆的; upright 直⽴的; 正直的; erect 直⽴的; appreciate  v. 感激; 欣赏; 领会; 升值; 【词根】ap ⼀再+preci 价值→欣赏 【拓展】appreciably 相当⼤, 明显的 detractor  n. 诋毁者; 贬低者; 来⾃ detract 贬低减损 【拓展】tract ⼤⽚⼟地 immense  adj. 极⼤巨⼤的; 【词根】im 不+mens 计量→⽆限 【拓展】immensity ⼴⼤巨⼤ herb  n. ⾹草; 药草 【拓展】 grass ⼀般的⻘草 herb 可供药⽤的草药 weed 混在园中的野草 realm  n. 领域, 范围; 王国; 【拓展】real estate 房地产 implement  vt. 实施, 履⾏; n. ⼯具; 【词根】im 使+ple 填满→贯彻 probability  n. 可能性; ⼏率, 概率; 【词根】prob 测试证明 →可能性 【拓展】probable ⼤概可能得 conserve  vt. 保护, 保藏, 保存; 【词根】con 全部+serv 保持 【拓展】 conservation 保存, 保守; conservatism 保守主义; radioactivity  n. 放射; 辐射; 【词根】radi 辐射光线→放射性 【拓展】 radioactive 有辐射的 radiator 辐射体, 散热器, 暖⽓⽚ airflow  n. 空⽓流动; ⽓流; 【拓展】turbulence (海洋天⽓)湍流 atom  n. 原⼦; 【拓展】 分⼦ molecule 原⼦ atom 中⼦ neutron 电⼦ electron 质⼦ proton excavate  v. 挖掘, 发掘; 【词根】ex 出+cav 洞+ate 做→挖出 【拓展】 excavation 挖掘 excavator 发掘者; 挖掘机; scheme  n. 计划; ⽅案; v. 密谋; 【拓展】devise 设计, 想出 egalitarian  adj. 平等主义的; 【词根】egal=equal 平等平均 【拓展】equity 公平; 资产净值; perform  n. 表演; 执⾏; 起作⽤; 【拓展】 performance 表演, 表现; 执⾏; performer 表演者 propagate  v. 繁殖; 传播宣传; 【词根】pro 多+pag 商定 →宣传 crust  n. 外壳; 地壳; 硬⽪; 【拓展】 mantle 地幔; core 地⼼; section  n. 部分; 章节; 部⻔; 剖⾯图; v. 切⽚, 分段; 【词根】sect 切→部分,剖⾯ 【拓展】 division 分界部⻔ portion ⼀部分 fraction ⼀⼩部分 fragment ⽚段碎⽚ segment 细分⽚段 mild  adj. 温和轻微的; 不强烈的; 【拓展】moderate 适度有节制的 reptile  n. 爬⾏动物; 【词根】rept 爬+ile 名词→爬⾏动物 【拓展】reptilian 爬⾏动物的 Saturn  n. ⼟星; deplete  v. ⼤量减少; 消耗; 【拓展】depletion 消耗, ⽤尽; flake  n. 薄⽚; 碎⽚; ⽕星, ⽕花; v. 剥落, 脱落; 【拓展】 snowflake 雪花 fragment 碎⽚, ⽚段 Jupiter  n. ⽊星 【拓展】Jovian ⽊星的; lane  n. ⼩路, ⼩巷; 航道; ⻋道; 【拓展】 avenue 建筑林⽴的⼤道 route 路线 lane ⼩巷 trail 荒野⼩道 refill  n. v. 再注满; 再补充; 【词根】re 再+fill 装满→重新装满 单词 ⾳标 释义 助记 vulnerable  adj. 脆弱的; 易受伤的; 易患病的; 拉丁语: vuln=wound 伤害 【拓展】vulnerability 弱点; ceremony  n. 典礼仪式; 礼仪礼节; 拉丁语=worship 崇拜 palm  n. ⼿掌; 棕榈树; 棕榈树的叶⼦形似⼿掌。 survey  n. v. 调查; 勘测; 【词根】sur 上⾯+vey 看 【拓展】 inquiry 查询查问 investigation 调查审查 survey 调查审视 justify  v. 证明…有理; 为…解释; 【词根】just 发誓, 法律 【拓展】warrant 正当理由; enforce  vt. 强制执⾏; 强迫; 【词根】en 强调+force 施⼒ 【拓展】 enforcer 强制执⾏者 enforcement 执⾏; 实施 zinc  n. 锌; 【拓展】 铜 copper 锡 tin 锰 manganese 镁 magnesium 磷 phosphorus 钾 potassium questionable  adj. 可疑的; 来⾃ question 怀疑 【拓展】questionnaire 问卷; utilitarian  adj. 功利的; 功利主义的; 实⽤的; 来⾃ utility 功⽤; ⽔电费 comment  n. 评论; v. 表达意⻅; 【词根】com 共同+ment 想 【拓展】 commentary 注释, 解说词; commend 称赞, 表扬; intact  adj. 完整⽆缺的; 【词根】in 不+tact 碰|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 17 请加助教微信 未受损的; application  n. 应⽤, 运⽤; 申请; 【拓展】 applicable 应⽤的; 适⽤的; revise  n. v. 修订; 改变; 修正; 【词根】re 再+vis 看→修正 【拓展】revision 修改修订 fundamental  adj. 基础根本的, 不可或缺的; n. 原理; 【拓展】 basic 基础起码的 essential 必不可少的 fundamental 不可或缺的 radical 根本重⼤的 vital ⾄关重要的 reliance  n. 依靠; 依赖; 【词根】reli=rely 依靠 vein  n. 静脉; 矿脉; 叶脉; 【拓展】artery 动脉; well-fed  adj. 营养充⾜的; 吃的好的; feed 的过去式, 过去分词 telecommunication  n. 电信; 【词根】tele 电 imitate  v. 模仿, 仿效; 模拟; 【词根】imit 相似 →模仿 【拓展】imitation 模仿; distinct  adj. 不同的; 清楚的; 明显的; 【词根】dis 分开+stinct 刺 【拓展】 distinctive 特别的; indistinct 不清楚的, 模糊的; incorporate  v. 包含; 吸收; 【词根】in ⼊+corpor 团体 【拓展】corporate 公司的; renewable  adj. 可再⽣的; 可更新的; 来⾃ renew 更新 behave  v. 表现; 举⽌得体; 【词根】be 动词+have 有 【拓展】 behavior ⾏为举⽌; misbehave (⼉童) ⾏为不当 iodine  n. 碘, 碘酒; 【拓展】iodized salt 碘盐 moral  adj. 道德的; n. 道德品⾏; 【词根】mor 道德 【拓展】morality 道德; flaw  n. 错误; 缺点; 瑕疵; 【拓展】 error 错误失误 fault ⼩缺点错误 blunder ⼤错 shortcoming 缺点短处 defect 缺陷缺点 slip 差错 administrative  adj. 管理的, ⾏政的; ⾏政职位; 来⾃ administer 施⾏, 掌管; 【词根】ad+minister 部⻓ cent  n. 货币单位分; 【词根】cent=hundred 百 absorb  v. 吸收; 理解; 合并; 【拓展】 absorption 吸收(进⼊内部) adsorption 吸附(没有进⼊) oppose  v. 反对; 阻挠; 【词根】op, ob 反+pose 放 【拓展】 object 反感反对 oppose 反对 resist 抵抗 protest 抗议反对 defy 反抗挑衅 withstand 承受顶住 intensify  v. 增强, 加剧; 【词根】intense 强烈的 【拓展】 intensification 加剧; equator  n. ⾚道; 【拓展】 tropics 热带; penetrate  v. 穿透; 渗⼊; 了解; 洞察; 【拓展】 penetration 穿过, 渗透; permeate 渗透, 扩散; accelerate  v. 加快; 增速; 【词根】ac 加强+celer 速度 【拓展】decelerate 减速 pace  n. 速度, 节奏; 步幅, v. 踱步; 调整步调; 【拓展】 stride ⼤踏步⾛ stroll 漫步闲逛 strut 昂⾸阔步 pace 踱步 endogenous  adj. 内源的, 内⽣的; 【词根】endo 内+gen 产⽣ 【拓展】exogenous 外⽣的 harden  v. 使变硬; 使稳定; 使冷酷; 【词根】hard 硬+en 表动词 【拓展】hardship 艰难困苦 arrange  v. 安排; 改编乐曲; 【词根】ar 加强+range 排列 【拓展】arrangement 整理; erode  v. 侵蚀; 腐蚀; 贬值; 削弱; 【词根】e 出+rod 咬→咬去 【拓展】erosive 侵蚀腐蚀的 maximum  adj. adv. 最⼤最⾼最多; n. 最⼤的量; 【拓展】 minimum 最⼩值 maximize 最⼤化 harmony  n. 融洽和谐; 和声; 【拓展】harmonize 使和谐 exclusive  adj. 独有的; ⾼档的; 排外的; n. 独家新闻; 来⾃ exclude 排除, 隔绝 【拓展】 exclusively 排外地; 专有地; exclusion 排除, 除外; former  adj. 以前的; 前任的; 【拓展】formerly 从前,; 【拓展】 previous 先前的 foregoing 前述内容 preceding 前⾯的, 先于 prior 优先的, 先于 former 前任的; crowd  n. ⼈群; ⼀伙⼈; v. 挤满; 涌⼊; 聚集在...周围; 【拓展】masses 平⺠⼤众 excess  n. 过量; ⽆节制; adj. 过量的, 额外的; 【词根】ex 出+cess ⾛ 【拓展】surplus 剩余多余的 strategy  n. 策略, 战略; 【拓展】tactic 战术⼿段 gland  n. 腺体; 【拓展】pancreas 腺状的 overlie  v. 躺在...上⾯ 【词根】over 在上+lie 坐落 【拓展】overlay 涂层覆盖物 bloom  n. (供观赏的)花; v. 开花; 繁荣; 肤⾊红润; 【拓展】 bloom 花朵绽放 blossom 树⽊开花 biotic  adj.关于⽣命的; ⽣物的; 【拓展】abiotic ⽆⽣命的; biomass ⽣物的总量 rank  n. 阶层; 等级; 队列; v. 排列; 分等级; 【拓展】ranking 排名表; auxiliary  adj. 辅助的; 备⽤的; n. 辅助; 附属机构; 【词根】auxili=help 帮助 autonomous  adj. ⾃治的 来⾃ autonomy ⾃治, ⾃治权 【词根】auto ⾃+nomy 统治 territory  n. 领⼟; 地盘; 范围 【词根】terr ⼟地 【拓展】 territorial 区域的; ⼟地的 terrestrial 陆地的, 地球的; zoology  n. 动物学 【拓展】 zoologist 动物学家 botany 植物学 entomology 昆⾍学 emotion  n. 情绪; 强烈的情感; 【拓展】emotional 感情的; attain  v. 获得; 达到; 【词根】at 加强+tain 拿住→ 【拓展】attainment 达到; fringe  n. 边缘; 次要; 外围; adj. 次要外围的; 【拓展】 margin 空⽩边缘 rim 圆形物体的边 verge 路边 brim 突出的边沿 fringe 外围的边缘 rudimentary  adj. 基本的; 简陋的; 【词根】rudi=rud 原始粗野 compel  vt. 强迫; 【词根】com 共同+pel 推→ 【拓展】 compelling 引⼈⼊胜的; intervention  n. ⼲涉; ⼲预; 来⾃ intervene ⼲涉, 阻挠; 【词根】inter 之间+vent ⾛ lunar  adj. ⽉球的; ⽉亮的 拉丁语 luna=moon ⽉亮 motivate  vt. 激发; 激励; 驱使 来⾃ motive 动机⽬的; 【拓展】prompt 激励; 提示; hierarchy  n. 分层结构; 等级; 【词根】hier 神+archy 统治 fate  n. 命运天意; 【拓展】destiny 命运天命 tundra  n. 冻⼟; 苔原; 【拓展】frozen soil 冻⼟ Scandinavian  adj. 斯堪的纳维亚; n. 斯堪的纳维亚⼈; 【拓展】Caucasian ⽩种⼈ harsh  adj. 粗糙的; 刺⽿的; 严厉的; 艰苦的; 【拓展】 rough 粗糙的 coarse 粗糙粗俗的 rude 粗鲁简陋的 crude 粗略天然的 locomotive  n. ⽕⻋头; 机⻋; adj. 移动的; 【词根】loco 地⽅+mot 动 【拓展】engine 引擎发动机 enzyme  n. 酶; 【拓展】 yeast 酵⺟, 发酵 leaven 酵⺟, 使发酵 单词 ⾳标 释义 助记 thrive  v. 兴旺兴盛; 茁壮成⻓; 【辨析】 flourish 繁荣茁壮 thrive 兴盛茁壮 prosper 兴旺繁荣 deciduous  adj. 每年落叶的; 【词根】de 去掉+cid 落 【拓展】conifer 针叶树 catalog  n. ⽬录; v. 列⼊⽬录; catalogue (英式) nomadic  adj. 游牧的; 流浪的; 来⾃ nomad 流浪者, 游牧⼈ 【词根】nom 流浪 closet  n. 壁橱; 贮藏室; adj. 隐藏不公开的; v. 把…关在房间⾥; 【词根】clos 关闭+et ⼩东⻄ storytelling  n. 讲故事; 【词根】story 故事+telling 讲 log  n. ⽇志; 原⽊; v. 记录; 伐⽊; orbit  n. 轨道; 【词根】orbit=circle 圆圈 withstand  vt. 经受住; 承受; 【拓展】 object 反感反对 oppose 反对 resist 抵抗 protest 抗议反对 defy 反抗挑衅 withstand 承受顶住 wilderness  n. 荒野; 来⾃ wild 野⽣荒凉的 simultaneous  adj. 同时发⽣的; 【词根】simult 类似 Antarctica  n. 南极洲 【拓展】Arctic 北极, 北极圈; impress  v. 留下深刻印象; 使钦佩; 【词根】im 进+press 挤压 【拓展】impressive 赞叹的 obsolete  adj. 废弃的; 过时的; 【词根】ob 离开+sol 太阳|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 18 请加助教微信 oyster  n. 牡蛎; 蚝; 沉默寡⾔的⼈; 【拓展】clam 蚌, 蛤; outline  n. 梗概⼤纲; 外形轮廓; vt. 概述; 画轮廓; 【词根】out 外部+line 线条 【拓展】contour 轮廓, 等⾼线 wage  n. ⼯资; 【拓展】 earnings 薪⽔ allowance 补贴 income 总收⼊ salary ⼯资(⽉薪) wage ⼯资(时薪) formulate  vt. 构想规划; 明确表达; 【拓展】 devise 设计想出 conceive 构想构思 formulate 策划构想 tomb  n. 坟墓; 【拓展】 grave 墓⽳ tomb 坟墓 funeral 葬礼 retrieval  n. 收回, 挽回; 检索; 来⾃ retrieve 取回恢复 band  n. 带⼦; 条纹; 乐队; ⼀群⼈; vt. 把...分段; 【拓展】 orchestra 管弦乐队 symphony 交响乐团 impetus  n. 推动; 促进; 【词根】im 向+pet 寻求 cascade  n. 倾泻; ⼩瀑布; 串联; vi. ⼤量落下; 【词根】cas 落下+cad 掉落 uncertainty  n. 没把握, 不确定; 【词根】un 不+certainty 肯定 【拓展】suspicion 怀疑; namely  adv. 也就是说; 换⾔之; 来⾃ name 名字 fetus  n. 胎⼉; 【拓展】pregnancy 怀孕 volunteer  n. 志愿者; 义⼯; v. ⾃告奋勇; 【词根】volunt, vol 意志 【拓展】voluntary ⾃愿的 inhibit  v. 抑制; 禁⽌; 【词根】in 不能+hibit 拿住 【拓展】 inhibition 禁⽌ restrain 限制 refrain 克制 curb 控制约束 inhibit 抑制制⽌ fragment  n. 碎⽚; ⽚段; v. 分裂; 【拓展】fragile 脆弱易碎的 invade  v. 侵略; ⼊侵; ⼤量涌⼊; 【词根】in 进⼊+vade ⾛ 【拓展】invader 侵略者 invasion ⼊侵, 发病 reshape  vt. 重塑; 打开新局⾯; 【词根】re 再+shape 塑造 repress  v. 抑制; 压抑; 【词根】re 再+press 挤压 【拓展】repression 抑制压抑 abrupt  adv. 突然的;意外的;粗鲁的; 【词根】ab 离开+rupt 断裂 【拓展】steep 突然急剧的 tablet  n. 碑匾; 药⽚; 来⾃ table 桌, 台, 表格; impose  v. 强制实⾏; 【词根】im 进⼊+pose 放 【拓展】imposition 强加 symbol  n. 象征; 标志; 符号; 【词根】sym 共同+bol 抛出 【拓展】 badge 徽章象征; token 象征记号; attribute 品质特征; emblem 标志徽章; friction  n. 摩擦; 冲突; 【词根】frict 摩擦+ion 动作 prolong  vt. 延⻓, 拉⻓; 【词根】pro 向前+long ⻓ 【拓展】 lengthen 延⻓拉⻓ stretch 延伸延续 fulfill  vt. 履⾏(诺⾔); 执⾏(命令); 达到(⽬的); 古英语=fill up 填满完成 nervous  adj. 紧张的; 担忧的; 神经的 【辨析】restless 焦躁不安的 wed  v. 结婚; 【拓展】wedding 婚礼 theorize  v. 创建理论; 使理论化; 来⾃ theory 理论 roof  n. 屋顶; 顶部; 上颚; v. 给…加顶盖; 【拓展】ceiling 天花板 ephemeral  adj. 短暂的; ⼀年⽣的; 【词源】希腊语 only a day combat  n. v. 战⽃; ⽃争; 【词根】com 共同+bat 打 【拓展】 battle 战⽃ war 战争 campaign 战役 struggle 挣扎 fight 打架 combat 战⽃格⽃ engagement 交战交⽕ profession  n. 职业; 业界⼈⼠; 【词根】pro 在前+fess 讲说 【拓展】 profession 专业职业 job 职业⼯作 occupation 职业⼯作 vocation 职业⼯作 career 事业⽣涯 employment 雇⽤就业 persist  v. 顽强坚持; 继续存在; 【词根】per 贯穿始终+sist 站 【拓展】 insist 坚持 persist 执著 persevere 坚韧 adhere to 坚持不懈 cling to 坚持紧抓 administration  n. 管理; 施⾏; ⾏政机关; 来⾃ administer 实施掌管 【词根】ad+minister 部⻓ garrison  n. 守备部队; 驻防地; vt. 驻防驻守; 【词源】古法语=defend 防守 mold  n. 模⼦; 模式; 霉菌; v. 塑造; 浇铸; 发霉; 【词根】mold=mod 模式 feat  n. 功绩, 伟业; 技艺; 【词根】feat=do, make 做 long-lasting  adj. ⻓期持久的; 【词根】long ⻓+lasting 持续 representative  n. 代表; 议员; 类似物; adj. 典型有代表性的; 来⾃ represent 代表 【拓展】 delegate 会议代表 deputy 代理代表 representative 代表代理⼈ agent 代理商经纪⼈ substitute 代替者, 替代物 comparable  adj. 可⽐的; ⽐得上的; 来⾃ compare ⽐较 subduction  n. 减去; 潜没 (地壳板块下沉); 来⾃ subduct 下降 【词根】sub 下+duct 导出 intention  n. 意图; 打算; 【拓展】 intent 意图⽬的 intently 专⼼集中地 intentional 故意的 unintentional ⾮故意的 oceanic  adj. 海洋的; 来⾃ ocean 海洋 infrastructure  n. 基础设施; 基础建设; 【词根】infra 下⾯+stru 建造 patchy  adj. 不调和的; 散落的; 时好时坏的; 来⾃ patch 补丁, 修补 court  n. 法院; 法庭; 宫廷; 球场; v. 求爱; 讨好; 追求; 【词根】court 庭院→场地 entity  n. 实体; 独⽴存在体; 古法语=existence 存在 spectacular  adj. 壮观的; 惊⼈的; n. 盛⼤的演出; 【词根】spect 看→引⼈注⽬ recur  vi.  复发; 重现; 【词根】re 再次+cur 发⽣ 【拓展】recurrence 重现 luxury  n. 奢侈豪华; 奢侈品; adj. 奢华的; 古法语=excess 超过常规 trigger  n. 扳机; vt. 引发; 扣扳机; 荷兰语=to pull 拉动, 扣动 archaeology  n. 考古学; 【词根】archae 起始→古⽼ contrary  adj. adv. 相反(的地); n. 相反的情况; 【解析】 opposite 对⾯相反的 contrary 相反不同的 adverse 反⾯有害的 reverse 反转互换的 accomplish  vt. 完成; 达成; 【词根】ac 加强+com 全部 accomplishment 成就 mast  n. 桅杆; 【拓展】sailing ship 帆船 stabilize  v. (使) 稳定, 安定; 来⾃ stable 稳定的, 安定的 【词根】st 站⽴+able 能 单词 ⾳标 释义 助记 hull  n. 船体; 外壳; v. 去壳; 古德语=husk 外⽪; photosynthesis  adj. 光合作⽤; 【词根】 photo 光+synthesis 合成 photosynthetic 光合作⽤的 removal  n. 免职; 去除; 搬迁; 来⾃ remove 移动, 脱掉 【词根】re 向后+mov 运动开 mutual  adj. 互相的; 【词根】mut 改变→相互改变 susceptible  adj. 易受影响的;易受感染的; 【词根】sus 下⾯+cept 拿 tract  n. ⼤⽚⼟地; 拉丁语=draw, pull 拉⻓ economical  adj. 节约的; 精打细算的; 【拓展】 economic 经济的 financial 财务⾦融的 precede  v. 发⽣在…之前; 【词根】pre 预先+ced ⾛ partial  adj. 部分的; 偏袒的; 喜欢的; 来⾃ part →部分, 偏袒|The study helps researchers better understand BEAT.
-firewood|n. ⽊柴; fire ⽕+wood ⽊ 【拓展】match ⽕柴|The study helps researchers better understand firewood.
-delicate|adj. 微妙的; 精致的; 纤细的; 脆弱的; 【词根】de 加强+lic ⾼兴 【拓展】subtle 微妙敏感的;|The study helps researchers better understand delicate.
-rotate|v. 旋转; 轮流; 交替; 【词根】rot 轮⼦+ate 表动词 【拓展】 revolve 围绕, 公转 rotary 旋转的|The study helps researchers better understand rotate.
-commerce|n. 商业; 贸易 【词根】com 共同+mer 交易 【拓展】bargain 讨价还价|The study helps researchers better understand commerce.
-modest|adj. 不太⼤; 适中的; 谦虚的; 【词根】mod 量度→有度 【拓展】humble 谦逊的;|The study helps researchers better understand modest.
-attach|v. 把...固定; 附加; 系上贴上; 赋予; 【拓展】 attachment 附件 Detachment|The study helps researchers better understand attach.
-BEAT|《托福必考 2000 词》 List 19 请加助教微信|The study helps researchers better understand BEAT.
-blade|n. ⼑⽚; 叶⽚; 桨叶; 【词源】古英语=leaf 叶⽚|The study helps researchers better understand blade.
-backbone|n. 脊梁⻣; 分⽔岭; ⻣⼲; ⻣⽓; 【拓展】 courage 勇⽓胆量 bravery ⽆畏精神 backbone ⻣⽓勇⽓ nerve 胆量⽓魄|The study helps researchers better understand backbone.
-portion|n. ⼀部分; v. 把...按份额分配; 【词根】port 部分, 分开 【拓展】 part 部分⽚段 division 分界部⻔ portion ⼀部分 fraction ⼀⼩部分 fragment ⽚段碎⽚ segment 细分⽚段|The study helps researchers better understand portion.
-coral|n. 珊瑚; adj. 珊瑚⾊的; 【拓展】coral reef 珊瑚礁|The study helps researchers better understand coral.
-static|adj. 静⽌的; 不变的; 静电的; n. 静电; 【词根】stat 站⽴ 【拓展】statistic 统计的|The study helps researchers better understand static.
-conspicuous|adj. 明显的; 惹⼈注意的; 【词根】con ⼤家+spic 看⻅ 【拓展】 noticeable 显⽽易⻅的; remarkable 引⼈注⽬的; conspicuous 引⼈注⽬的; striking 引⼈注⽬的|The study helps researchers better understand conspicuous.
-crack|v. 破裂折断;⽡解破解; n. 缝隙; 爆裂声; 【拓展】burst 爆裂 crack 断裂 crush 压碎 fracture ⻣折 shatter 粉碎 smash 摔碎|The study helps researchers better understand crack.
-mammoth|n. 猛玛 (象); adj. 庞⼤的; 【拓展】ivory 象⽛|The study helps researchers better understand mammoth.
-nucleus|n. 原⼦核; 组织核⼼; 拉丁语=kernel 核⼼, ⾕粒|The study helps researchers better understand nucleus.
-spectator|n. (看⽐赛表演的)观众 【词根】spect=look / see 看|The study helps researchers better understand spectator.
-classic|adj. 典型的; 经典的; 古朴的; n. 经典作品; class 级别→上等制作 【拓展】classical 古典的|The study helps researchers better understand classic.
-shaft|n. 轴, 杆; 竖井; ⼀束(阳光等) 【形近】shuffle 洗牌;|The study helps researchers better understand shaft.
-confine|vt. 限制, 禁闭; n. 边界; 界限; 【词根】con 全部+fine 限制|The study helps researchers better understand confine.
-miniature|adj. ⼩型的, 微⼩的; n. ⼩模型; 微型画像; 【词根】mini ⼩ 【拓展】miniaturization ⼩型|The study helps researchers better understand miniature.
-soak|v. 浸泡, 湿透; 沉浸在; 【拓展】 wet 弄湿 damp 使潮湿 soak 浸没|The study helps researchers better understand soak.
-tenfold|adj. ⼗倍的 【词根】ten+fold 翻|The study helps researchers better understand tenfold.
-stunt|n. 特技表演; adj. 引⼈注意的; v. 阻碍 (⽣⻓), 抑制(发展); 【形近】stun 打击, 吃惊；|The study helps researchers better understand stunt.
-turbulence|n. 骚动, 骚乱; 湍流; 动荡; 【词根】turb 搅动混乱→骚动 【拓展】turbulent 狂暴⽆序|The study helps researchers better understand turbulence.
-fade|v. 褪去; 褪⾊; 淡出; 暗淡; 【拓展】 wither 枯萎凋谢 vanish 突然消失 disappear 消失灭绝 fade 逐渐消失 evaporate 逐渐消失|The study helps researchers better understand fade.
-unwilling|adj. 不情愿的; 【词根】un ⾮+willing 愿意 【拓展】 reluctant 不情愿的 willingness 情愿乐意|The study helps researchers better understand unwilling.
-suppress|vt. 镇压; 抑制; 阻⽌; 【词根】sup 下+press 压 【拓展】oppress 压迫压制|The study helps researchers better understand suppress.
-aquatic|adj. ⽔⽣的; ⽔中的; ⽔产的; 【词根】aqu ⽔ 【拓展】aquarium ⽔族馆|The study helps researchers better understand aquatic.
-lord|n. 领主; 上帝; 阁下; 【拓展】landlord 地主|The study helps researchers better understand lord.
-reserve|n. 储备; 保护区; 替补队员; v. 保留; 预约; 拥有; 【词根】re 再+serv 保留 【拓展】reservoir 蓄⽔库|The study helps researchers better understand reserve.
-collide|vi. 碰撞; 冲突; 抵触; 【词根】col 共同 lide 冲击 【拓展】 bump 碰撞颠簸 clash 冲突交锋 collide 冲突抵触 conflict 冲突分歧|The study helps researchers better understand collide.
-commission|n. 委员会; 佣⾦⼿续费; 任命; v. 委任; 【词根】com 共同+miss 送|The study helps researchers better understand commission.
-converge|v. 汇聚; 汇合; 趋同; 【词根】con ⼀起+verge 近 【拓展】convergence 集中;|The study helps researchers better understand converge.
-pigment|n. 颜料; ⾊料; ⾊素; 【拓展】pigmentation 染⾊|The study helps researchers better understand pigment.
-generic|adj. ⼀般的, 普通的; ⽣物属类的; 【词源】=genus 动植物属类;|The study helps researchers better understand generic.
-symptom|n. 症状; 征兆; 【拓展】syndrome 综合征|The study helps researchers better understand symptom.
-proton|n. 质⼦; 【拓展】 分⼦ molecule 原⼦ atom 中⼦ neutron 电⼦ electron 质⼦ proton|The study helps researchers better understand proton.
-philosophy|n. 哲学; 哲理; 【词根】philo 爱+soph 智慧|The study helps researchers better understand philosophy.
-compress|vt. 压缩; 精简; 【词根】com ⼀起+press 压 【拓展】 condense 压缩冷凝 contract 收缩紧缩 shrink 收缩畏缩 squeeze 挤压榨取 compress 压缩压紧 squash 压坏压碎|The study helps researchers better understand compress.
-pollute|v. 污染; 弄脏; 【词根】pol 到处+lut 洗 【拓展】pollutant 污染物|The study helps researchers better understand pollute.
-copious|adj. 丰富的; ⼤量的; 充⾜的; 【词根】copy 复制→⼤量的|The study helps researchers better understand copious.
-standstill|n. 停顿; 停滞; 【词根】stand 站+still 停|The study helps researchers better understand standstill.
-diplomatic|adj. 外交的; 有⼿腕策略的; 【拓展】diploma ⽂凭证书;|The study helps researchers better understand diplomatic.
-utensil|n. 器具; 器⽫; 厨房⽤具; 【词根】ut, util ⽤+ensil 物品 【拓展】utility 功能; ⽔电费|The study helps researchers better understand utensil.
-girdle|n. 腰带; 环形物; vt. 围绕, 包围; 【形近展】girder ⼤梁|The study helps researchers better understand girdle.
-preliminary|adj. 初步的; 预备的; 开端的; n. 准备⼯作; 预赛; 初步措施; 【词根】pre 提前+limin 限制 【拓展】threshold ⻔槛阈值;|The study helps researchers better understand preliminary.
-appendage|n. 附属物; 附加物; 【词根】append 附加|The study helps researchers better understand appendage.
-van|n. 厢式货⻋; 先锋先驱; 缩写⾃ caravan 拖⻋, 商队;|The study helps researchers better understand van.
-convex|adj. 凸起的; 凸⾯的 【词源】=arched 穹拱型 【拓展】concave 凹的|The study helps researchers better understand convex.
-optical|adj. 视⼒的; 视觉的; 光学的; 来⾃ optic 视觉的, 光学的; 【词根】opt 视⼒→视觉光学|The study helps researchers better understand optical.
-calm|adj. 镇定的;⻛平浪静; v. (使)平静; 镇痛; n. 宁静; 【拓展】peaceful 宁静的|The study helps researchers better understand calm.
-pretend|v. 假装; 扮作; ⾃诩; 【词根】pre 前+tens 伸展 【拓展】pretension 虚荣;|The study helps researchers better understand pretend.
-enlist|v. ⼊伍; 取得; 赢得; 【词根】en 加强+list 名单|The study helps researchers better understand enlist.
-amply|adv. ⼤量地; 充⾜地; 来⾃ ample ⼤量充裕的; 【词根】ampl ⼤→充分富裕|The study helps researchers better understand amply.
-stylish|adj. 时髦流⾏的; 来⾃ style ⽅式, 时髦, 品味;|The study helps researchers better understand stylish.
-dynamic|n. 活⼒的; 动态的; 精⼒充沛的; 【拓展】dynam=power ⼒量 【拓展】dynamism 活⼒;|The study helps researchers better understand dynamic.
-stab|v. 刺⼊, 捅⼑⼦ 【拓展】 pierce 刺穿 penetrate 穿透渗透 prick 刺痛扎伤 stab 利器刺⼊ thrust 猛推刺⼊|The study helps researchers better understand stab.
-amenity|n. 愉快舒适; 便利设施; 拉丁语=pleasant 愉快的|The study helps researchers better understand amenity.
-claw|n. ⽖⼦; 钳⼦; v. ⽤⽖⼦抓或撕; 【拓展】paw ⽖⼦|The study helps researchers better understand claw.
-barter|n. v. 以物易物 【拓展】bargain 讨价还价|The study helps researchers better understand barter.
-mason|n. ⽯匠, 泥⽡匠; 【词根】mas=make→匠⼈ 单词 音标 释义 助记 cosmic  adj. 宇宙的; 外太空的; 【词根】cosm 宇宙 herbivorous  adj. ⻝草的; 【词根】herbi 草+vor 吃 【拓展】 carnivorous ⻝⾁的 omnivorous 杂⻝的 optimum  adj. 最优的; 最适宜的; n. 最佳条件; 【词根】optim 最好+um 场地 consort  n. 统治者的配偶; 伙伴; v. 来往; 厮混; 【词根】con 共同+sort 种类 pupa  n. 蛹; 【拓展】larva 幼⾍ disturb  v. 打扰; 搅乱; 妨碍; 【拓展】 confusion 困惑混淆 disorder 混乱失调 disturbance 骚乱动乱 mess 脏乱不洁 chaos 混乱杂乱 desiccate  vt. 弄⼲, 使脱⽔; 【词根】de 加强+sicc ⼲ 【拓展】 dehydrate 脱⽔ desiccation ⼲燥 drought ⼲旱 arid ⼲旱的 dryness ⼲燥 allegedly  adv. 涉嫌的; 据说; 来⾃ allege 断⾔, 宣称, 指控; 【词根】al 再+leg 说→宣称 package  vt. 包装; n. 包裹; ⼀揽⼦提议 【词根】pack 包裹+age 物品 【拓展】 pack 背包 package 包裹 packet 扁平⼩包裹 parcel 包裹邮包|The study helps researchers better understand mason.
-BEAT|《托福必考 2000 词》 List 20 请加助教微信|The study helps researchers better understand BEAT.
-pronounce|v. 发⾳; 宣称; 【词根】pro 在前+nounce 讲话 【拓展】 announce ⾸次宣布 declare 正式宣布 proclaim 官宣 pronounce 宣称 pronunciation 发⾳|The study helps researchers better understand pronounce.
-urchin|n. 海胆; 【拓展】hedgehog 刺猬, 豪猪;|The study helps researchers better understand urchin.
-excessive|adj. 过分的; 过多的; 来⾃ excess 过度, 过剩;|The study helps researchers better understand excessive.
-strain|v. 拉紧; 拉伤; n. 压⼒;张⼒; ⾎统, 品种; ⽓质; 【辨析】 strain 精神紧张 stress 精神压⼒ pressure 压⼒ tension 紧张焦急|The study helps researchers better understand strain.
-Easter|n. 复活节 【拓展】Thanksgiving 感恩节|The study helps researchers better understand Easter.
-warn|v. 警告, 告诫; 【拓展】caution 提醒告诫|The study helps researchers better understand warn.
-deprive|vt. 剥夺; 使丧失; 【词根】de 去掉+priv 单个→剥夺 【拓展】deprivation 剥夺|The study helps researchers better understand deprive.
-exhaust|v. 耗尽; 精疲⼒竭; n. 尾⽓, 废⽓; 【词根】ex 出+haust 抽⽔→抽⼲ 【拓展】 exhaustive 彻底全⾯的 exhaustion 精疲⼒竭|The study helps researchers better understand exhaust.
-mustard|n. 芥末, 芥菜; 【拓展】=must 必须, 狂暴的|The study helps researchers better understand mustard.
-underlie|v. 构成...的基础起因; 【词根】under 在...下+lie 躺的 【拓展】underwater 在⽔下|The study helps researchers better understand underlie.
-steady|adj. 稳定的; 镇定的; 沉着的; v. 使稳定坚定; 【词根】stead=stand 站→稳固的 【拓展】firm 牢固的|The study helps researchers better understand steady.
-interplay|n. 相互作⽤; 【拓展】interact 相互作⽤, 互动;|The study helps researchers better understand interplay.
-calculate|v. 计算; 估计; 【词根】calc ⽯头→古时⽤⽯计数 【拓展】calculation 计算, 估计|The study helps researchers better understand calculate.
-slop|v. 溢出; 溅出; n. 废⽔; 剩饭; 【拓展】 spill 溢出涌出; splash 溅出;|The study helps researchers better understand slop.
-compound|n. 化合物; 混合物; 有围墙的场地; 【词根】com 全部+pound 放置|The study helps researchers better understand compound.
-lengthy|adj. 漫⻓的; ⻓篇⼤论的; 来⾃ length ⻓度|The study helps researchers better understand lengthy.
-equivalent|adj. 相等的, 相当的; n. 对应物; 【词根】equi 同等+val 价值 【拓展】equilibrate 使平衡相称|The study helps researchers better understand equivalent.
-tidal|adj. 潮⽔的; 潮汐的; 来⾃ tide 潮汐 【拓展】subtidal 潮下的 intertidal 潮间的|The study helps researchers better understand tidal.
-standardize|vt. 使标准化; 来⾃ standard 标准, 规格|The study helps researchers better understand standardize.
-vicinity|n. 邻近地区; 附近; 【拓展】neighborhood 临近街坊|The study helps researchers better understand vicinity.
-inhale|v. 吸⼊; 吸⽓; 【词根】in 向内+hale ⽓→吸⽓ 【拓展】exhale 呼⽓|The study helps researchers better understand inhale.
-sorghum|n. ⾼粱; 【拓展】millet ⼩⽶, 粟;|The study helps researchers better understand sorghum.
-pollinator|n. 传粉媒介; 传粉昆⾍; 来⾃ pollinate 授粉|The study helps researchers better understand pollinator.
-collapse|v. 倒塌; 崩溃; n. 垮台; 暴跌; 【词根】col 全部+lapse, laps 滑|The study helps researchers better understand collapse.
-symbolic|adj. 象征的; 符号的; 来⾃ symbol 符号, 象征 【词根】sym 共同+bol 抛→象征 【拓展】symbolism 象征主义|The study helps researchers better understand symbolic.
-temporary|adj. 短暂的; 临时的; 【词根】tempor 时间→时间限制|The study helps researchers better understand temporary.
-unearth|vt. 发现; 揭露; 挖掘 【词根】un ⽆+earth ⼟→挖出 【拓展】excavate 挖掘开凿|The study helps researchers better understand unearth.
-windmill|n. ⻛⻋; 来⾃ mill 磨坊, 研磨, ⼯⼚;|The study helps researchers better understand windmill.
-sparse|adj. 稀少的 拉丁语=scatter 散开, 散步 【拓展】sparsely 稀疏地, 贫乏地;|The study helps researchers better understand sparse.
-cap|n. 盖⼦; 帽⼦; 【拓展】 cap ⽆边的便帽, ⼩帽盖 hat 有边的帽⼦ cape 海⻆ lid 密封的⼤盖⼦|The study helps researchers better understand cap.
-security|n. 安全; 防卫; 证券; 抵押品; 【拓展】secure 安全的, 保护|The study helps researchers better understand security.
-far-reaching|adj. 影响深远的; 【词根】far 远+reaching 达到|The study helps researchers better understand far-reaching.
-partnership|n. 伙伴; 合作关系; 【词根】partner 合作+ship 关系|The study helps researchers better understand partnership.
-wagon|n. 运货⻢⻋; ⻋⽪; 【拓展】carriage ⻢⻋, ⻋厢|The study helps researchers better understand wagon.
-stationary|adj. 静⽌的; 不动的; 【词根】station 位置→静⽌的|The study helps researchers better understand stationary.
-long-lived|adj. ⻓命的, 持久的; 【词根】long ⻓+lived ⽣命的 【拓展】long-term ⻓期的 long-run ⻓期的|The study helps researchers better understand long-lived.
-implicate|v. 使牵连其中; 涉及; 【拓展】 cue 暗示提示 hint 线索暗示 implication 暗指含义|The study helps researchers better understand implicate.
-relief|n. 宽慰, 安⼼; 免除, 减轻; 救援物资; 【词根】re 再+lief, liev 举→减轻 【拓展】relieve 减轻, 缓和, 解脱|The study helps researchers better understand relief.
-watercraft|n. 船只; 船舶; 来⾃ craft 船, ⻜⾏器, ⼿艺;|The study helps researchers better understand watercraft.
-rebound|n. v. 弹回; 恢复; 回响; 【词根】re 反+bound 弹跳→弹回|The study helps researchers better understand rebound.
-maple|n. 枫树; 【拓展】 oak 橡树 maple 枫树 pine 松树 willow 柳树 hazel 榛树 birch 桦树|The study helps researchers better understand maple.
-via|prep. 经过; 凭借; 【词根】via 道路|The study helps researchers better understand via.
-isle|n. ⼩岛; 【词源】=insular 海岛孤⽴的|The study helps researchers better understand isle.
-spin|n. v. 旋转; 甩⼲; 头晕; 纺纱; 吐丝; 【拓展】 rotate ⾃转 revolve 公转 roll 滚动 spin 快速旋转 whirl 回旋|The study helps researchers better understand spin.
-meager|adj. 贫乏的; 不⾜的; 粗劣的;|The study helps researchers better understand meager.
-multiply|v. 相乘; 增加; 繁殖; 【词根】multi 多+ply 折→乘 【拓展】 multiple 多样的; multiplicity 多样性|The study helps researchers better understand multiply.
-silicate|n. 硅酸盐; 【拓展】silicon 硅|The study helps researchers better understand silicate.
-texture|n. 质地; 纹理; 结构; 【词根】text 编织 【拓展】context 上下⽂环境|The study helps researchers better understand texture.
-weave|n. 编织; v. 编造; 迂回⾏进; 【拓展】knit 编织针织|The study helps researchers better understand weave.
-rigid|adj. 严格的; 刚性的; 僵硬的; 顽固的; 【词根】rig 正,直→刚硬→严格的 【拓展】 rigidity 坚硬僵化 rigorous 严格谨慎的|The study helps researchers better understand rigid.
-workshop|n. ⻋间; 研讨会; 【拓展】seminar 专题讨论班|The study helps researchers better understand workshop.
-monumental|adj. 极⼤的; 不朽的; 来⾃ monument 纪念碑|The study helps researchers better understand monumental.
-durable|adj. 耐⽤的; 持久的; 【词根】dur 持久延续 【拓展】durability 耐久⼒;|The study helps researchers better understand durable.
-tribe|n. 部落, 部族; ⼀伙⼈; tri=three 引申为多个部落分隔 【拓展】tribal 部落的|The study helps researchers better understand tribe.
-agriculture|n. 农业; 农学; 【词根】agri 农业+culture ⽂化→ 【拓展】agriculturalist 农学家|The study helps researchers better understand agriculture.
-cavity|n. 腔洞; 蛀⽛; 【词根】cav 洞+ity 表名词 【拓展】 hollow 空的, 空洞的 pit 地上的洞, 深洞 cave ⼭洞|The study helps researchers better understand cavity.
-bark|n. 树⽪; 吠叫; v. 吼叫; 厉声叫喊; 【拓展】roar 吼叫咆哮|The study helps researchers better understand bark.
-pinpoint|vt. 准确指出; 精准定位; n. 针尖; 精确位置; adj. 精确地; 【词根】pin 针+point 点→准确|The study helps researchers better understand pinpoint.
-leak|n. v. 漏出; 泄露; 漏电, 漏⽔; 【拓展】leakage 渗漏物或量|The study helps researchers better understand leak.
-cliff|n. (海边的) 悬崖; 【拓展】cliffy 陡峭; abrupt 陡峭;|The study helps researchers better understand cliff.
-astronomy|n. 天⽂学; 【词根】astro 星星+nomy 学科 【拓展】 astronaut 宇航员 astronomer 天⽂学家 单词 ⾳标 释义 助记 exceed  v. 超过; 超越; 【词根】ex 出+ceed ⾛ 【拓展】exceedingly 极其 illuminate  v. 照亮; 阐明; 【词根】il 成为+lumin 光 harness  n. ⻢具; v. 利⽤; 控制; 【词源】=military 军⽤ courtship  n. 求爱; 求偶; 来⾃ court 求爱, 寻求; turbine  n. 涡轮机; 【词根】turb 搅动+ine 物 lens  n. 透镜, 镜头; 晶状体; 【拓展】 convex 凸透镜 concave 凹透镜 portable  adj. 轻便的; 便于携带的 【词根】port 拿+ability 能 【拓展】portability 可携带 realize  v. 认识到; 实现; 【词根】real 真实的 【拓展】realization 实现 jewelry  n. 珠宝⾸饰; 【拓展】 jade ⽟, 翡翠 sapphire 蓝宝⽯ ruby 红宝⽯ diamond 钻⽯ herbicide  n. 除草剂; 【词根】herbi 草+cide 切,杀 【拓展】pesticide 杀⾍剂 spite  adv 虽然 in spite of n. 恶意; 怨恨; 【拓展】despite 尽管 mission  n. 使命; 天职; 代表团; 【词根】miss 派+ion 表名词 dangle  v. 悬挂; 悬摆; 悬⽽未定; 【拓展】suspend 暂停悬挂 anatomy  n. 解剖; 剖析; 【词根】ana 分开+tomy 切 【拓展】anatomical 解刨的 precursor  n. 先驱先锋; 前⾝; 【词根】pre 预先+curs 跑 drawback  n. 缺点; 不利条件 【词根】draw 拉+back 回|The study helps researchers better understand astronomy.
-BEAT|《托福必考 2000 词》 List 21 请加助教微信 luminous  adj. 发光的; 明亮的; 清楚的; 【拓展】 bright 明亮欢快的; brilliant 明亮灿烂的 glowing 鲜艳热烈的; radiant 辐射照耀的 luminous 发光明亮的 radiate  vt. 辐射; 流露; 散发; 【词根】radi 辐射,光线 【拓展】 radiation 辐射放射 radiant 辐射的 radio ⽆线电 radioactive 放射性的 radioactivity 放射性 nectar  n. 花蜜; ⽢露; 【拓展】 pollen 花粉 honey 蜂蜜 nectar 花蜜 propolis 蜂胶 petal  n. 花瓣; 【词源】=plate 盘状物 sturdy  adj. 坚固的; 强壮的; 【拓展】 robust 强健的 vigorous 精⼒充沛的 sturdy 坚固强壮的 tough 坚固坚强的 wholesome 有益健康的 fit 健康适合的 leather  n. ⽪⾰; ⽪外套 【拓展】 skin 外⽪ fur 软⽑⽪ hide 厚兽⽪ peel 削⽪ remnant  n. 剩余; 残存; 边⻆料; 【词源】=remain 保留 lush  adj. 草⽊丰盛的; 豪华的; 【词源】古法语=luxe 奢华; 【拓展】luxury 豪华, 奢侈; stealthy  adj. ⻤⻤祟祟的; 悄悄的 来⾃ stealth 秘密⾏动 【词根】steal 偷 passive  adj. 被动的; 消极的; 【词根】pass 感情⽤事 【拓展】passionate 热情的 whisk  v. 搅拌; ⻜奔; n. 搅拌器; 【拓展】whisky 威⼠忌 detrimental  adj. 有害的; 不利的; 来⾃ detriment 损害 【词根】de 坏+tri, trit 磨擦 dampen  v. 弄湿; 抑制; 减弱; 【词根】damp 潮湿 【拓展】damp 湿⽓ shark  n. 鲨⻥; 诈骗者; 【拓展】 sharp 锋利的; 明显的; 敏锐的 carpet  n. 地毯; 覆盖物; v. 铺地毯; 覆盖; 【辨析】 carpet 铺地板的地毯 blanket ⾝上的⽑毯 rug ⼩地毯垫⼦ thermal  adj. 热的; 保暖的; 【词根】therm 热+al…的 panel  n. 嵌板; 控制板; 专⻔⼩组; 【拓展】 board 董事会; committee 委员会; disorder  n. 混乱; 失调; 【词根】dis 否定+order 顺序 linear  adj. 直线的; 线性的; 【词根】line 线+ar…的 pulverize  vt. 弄碎; 磨成粉; 摧毁; 【词源】拉丁⽂=dust 尘埃 【拓展】pulverization 粉碎; sift  v. 筛⾯粉筛沙⼦; 审查; 【拓展】 screen 筛 filter 过滤 forbid  v. 禁⽌; 妨碍; 【辨析】 forbid 禁⽌妨碍 prohibit 禁⽌阻⽌ ban 禁⽌谴责 articulate  v. 清晰表达; adj. 善于表达的; 来⾃ articulate 清楚地讲话 【词根】artic 关节→关键 【拓展】 articulation 清晰度; 关节 optic  adj. 眼睛视觉的; 【词根】opt 视⼒+ic…的 【拓展】ophthalmology 眼科 impersonate  v. 扮演; 模仿; 【词根】im 成为+person ⼈ 【拓展】impersonation 扮演; fair  adj. adv. 公平合理的; n. 交易会; 【辨析】 impartial 不偏不倚的 just 公正合理的; fair 公平合理的 neutral 中⽴不偏袒的 objective 客观真实的 concession  n. 让步; 优惠; 特许权; 【词根】con 共同+cess 退让 exempt  v. 免除, 豁免; 【词根】ex 向外+empt 拿 register  n. v. 登记; 注册; 表达流露情绪; 拉丁⽂=record 记录 attempt  v. 试图; 尝试; 【词根】at ⼀再+tempt 尝试 【拓展】 attempt 试图尝试 endeavor 努⼒尽⼒ strive 努⼒奋⽃ abbreviate  v. 缩写; 缩略; 【词根】ab 再+brev 短 【拓展】abbreviation 缩写 creek  n. ⼩湾, ⼩河, ⼩溪; 【拓展】stream ⼩溪; 流动; wine  n. 葡萄酒; 深红⾊; 【拓展】vine 藤本; 葡萄藤; courier  n. 快递员; 快递公司; 【词根】cour 跑+ier ⼈ beak  n. (猛禽等的)嘴, 喙; 【拓展】 bill ⻦嘴 beak ⻦嘴 constipation  n. 便秘; 来⾃ constipate 便秘 【词根】con 共同+stipate 挤 assembly  n. 议会; 集会; 装配组装; 【拓展】 congress 国会, 代表⼤会 assembly 议会, 代表⼤会 rally ⼤规模集会 council 机构委员会 session 会议, ⼀段时间 convention ⼤型会议, 公约 gathering 聚会 fur  n. ⽪草; 软⽑; 【拓展】 skin 外⽪ leather ⽪⾰制品 hide 厚兽⽪ peel 削⽪ dust  n. 灰尘, 尘⼟; 【拓展】dirt 泥⼟; 污物; continual  adj. 连续的, 频繁的; 来⾃ continue 继续; 【拓展】consistent 连贯的; alliance  n. 联盟; 同盟; 来⾃ ally 同盟国; 盟友 piracy  n. 海盗⾏为; 盗版⾏为; 来⾃ pirate 海盗; 盗⽤的 well-defined  adj. 定义明确的; 【拓展】 well-rounded ⾯⾯俱到的 well-developed 发育良好的 well-wooded 树⽊茂盛的 peanut  n. 花⽣; 【拓展】 chestnut 栗⼦ hazel 榛⼦ ever-changing  adj. ⽇新⽉异的; 【拓展】 ever-increasing 不断增加的 logistic  adj. 后勤的;物流的;组织的 【拓展】 logistics 逻辑学; 后勤物流; capital  n. ⾸都; 资本; 柱头; ⼤写字⺟; adj. 资本的; ⾸都的; 【词根】capit 头→⾸都, 资本 【拓展】 chief ⾸领; 主要的 principal 校⻓; ⾸要的 foremost ⾸先; ⼀流的 primary 初选; 主要的 colony  n. 殖⺠地;群落; 【拓展】 colonizer 殖⺠地开拓者; colonist 殖⺠地开拓者; radiocarbon  n. 放射性碳; 【词根】radio 放射+carbon 碳 troop  n. 军队; ⼀群; v. 成群移动; 【拓展】trophy 奖品, 战利品 delta  n. (河流的)三⻆洲; 【拓展】estuary ⼊河⼝; hint  n. 迹象; 微量; 暗示; v. 暗示; 【拓展】hinge 关键; 铰链 characterization  n. ⼈物塑造; 【拓展】 characterize 描绘描述 depict 描绘刻画 portray 扮演描绘 meteorology  n. ⽓象学 【词根】meteor-⼤⽓现象 单词 ⾳标 释义 助记 vapor  n. ⽔汽, ⽔蒸⽓; 【拓展】evaporate 蒸发,逐渐消失; forage  n. 饲料; v. 觅⻝; 搜寻; 【拓展】fodder 草料; forager 抢劫者; depose  v. 免职; 罢免; 【词根】de 下去+posit 放 【拓展】deposition 沉淀; 免职; deposit 订⾦; 存款; 沉淀; relic  n. 遗物, 遗迹; 废墟; 纪念物; opposition  n. 反对; 对⼿; 【词根】op, ob 反对+pose 放→相反 withdraw  v. 撤退; 取钱; 收回; 【词根】with 向后+draw 拉 【拓展】retreat 撤退; 放弃远离 disrupt  v. 使中断; 扰乱 【拓展】disruption 中断扰乱 abstract  adj. 抽象的; n. 摘要; v. 提取; 【词根】abs 离开+tract 拉 【拓展】abstraction 抽象;⼼不在焉; medium  adj. 中等的; 平均的; 五分熟的; n. 媒介; ⽅式; 中庸; 【词根】medi 中间 【拓展】median 中位数的 controversial  adj. 有争议的; 来⾃ controversy 争论,; 【拓展】controvert 争论反驳; inconclusive  adj. 不确定的; ⽆结论的; 来⾃ conclud 总结断定; 【拓展】conclusive 确定的; shipyard  n. 船坞; 造船⼚; 【拓展】hull 船体外壳 shoreline  n. 海岸线; 【词根】shore 岸+line 线 gully  n. 溪⾕; 建筑⾬⽔⼝; 【拓展】gutter 屋檐⽔槽 proponent  n. ⽀持者, 拥护者; 提倡者; 【拓展】propone 提议, 建议; council  n. 委员会; 市政管理机构; 【词根】coun, con ⼀起+cil 召集 【拓展】congress 国会, 代表⼤会 assembly 议会, 代表⼤会 rally ⼤规模集会 convention ⼤型会议, 公约|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 22 请加助教微信 odd  adj. 古怪的; 奇数的; 少量的; 【拓展】 queer 异常的 odd 古怪的 curious 好奇古怪的 peculiar 古怪特有的 eccentric 怪异的 quaint 奇特少⻅的 singular 奇特⾮凡的 perplex  vt. 使困惑; 迷惑 【词根】per 全部+plex 重叠 【拓展】 puzzle 迷惑 bewilder 使困惑 confuse 使困惑 embarrass 使尴尬 perplex 使困惑 baffle 使困惑 confound 使困惑惊讶 distract 使分⼼ motionless  adj. 静⽌不动的; 【词根】motion 运动+less 不 obliterate  v. 消灭; 清除; 忘却 【词根】ob 去掉+liter ⽂字 【拓展】obliteration 消除, 忘却; widen  v. 加宽; 【拓展】width 宽度 magnetic  adj. 有磁性的; 吸引⼒的; 来⾃ magnet 磁体; 【拓展】magnetism 磁⼒; 魅⼒ altogether  adv. 全部地; 总共; 总之; 【词根】al 全部+together 共同 caravan  n. 拖⻋⼤篷⻋; 商队; 来⾃ van 货⻋ 【拓展】wagon 货⻋ aristocratic  adj. 贵族的; 【拓展】 aristocracy 贵族; 上层社会; aristocrat 贵族; recount  v. 详述; 重新计算; 来⾃ count 数, 计算 thesis  n. 论⽂; 论点; 命题; 【辨析】 composition 作⽂, 作品 article ⽂章 essay 短⽂, 论⽂ paper 论⽂ prose 散⽂ thesis 学位论⽂ theme 主题 dissertation 学位论⽂ superiority  n. 优势, 优越性; 来⾃ super 超级的 【拓展】superior 优良的, 上级的 contend  v. 声称; 对付; 争夺 【词根】con ⼀起+tend 伸展 【拓展】contention 竞争, 争论; contract  n. 合同; 契约; v. 收缩; 缩⼩; 【词根】con 共同+tract 拉 【拓展】contraction 收缩 compensate  v. 补偿; 报酬; 抵消; 【词根】com 全部+pens ⽀付 【拓展】compensation 补偿, 赔偿; informal  adj. ⾮正式; 随意的; 【拓展】casual 随意的; 便装的 earthquake  n. 地震; 【词根】earth 地球+quake 震动 【拓展】 seismology 地震学 seismic 地震的 assess  vt. 评估; 估价; 【拓展】 estimate 估算;估价 appraise 评价评估 assess 评估估价 evaluate 评估评价 value 定价 rate 评级评定 hydrology  n. ⽔⽂, ⽔⽂学; 【词根】hydro ⽔ 【拓展】hydrological ⽔⽂学的; tar  n. 柏油; 沥⻘; 焦油; 【拓展】tan ⻩棕⾊, 晒⿊的⽪肤⾊; Caucasian  n. ⽩种⼈ ; adj. ⾼加索⼈的; ⽩种⼈的; 【拓展】Cathedral ⼤教堂 bind  vt. 约束; 装订; 捆绑; 联系紧密; 【拓展】 fasten 使牢固; 系上 tie 捆扎固定 bind 捆绑 undertake  vt. 承担, 从事; 【词根】under 在下+take 拿 impede  v. 妨碍; 阻碍; 阻⽌ 来⾃ 妨碍, 阻⽌; 【拓展】impediment 妨碍; 结巴; negotiate  v. 谈判协商; 顺利通过; 【词根】neg 不+oti+ate 做 【拓展】confer 商谈; 授予赋予 pillar  n. 柱⼦; 中坚核⼼; 【拓展】 column 柱, 列, 专栏; pillared 有柱⼦的; rectangular  adj. 矩形; ⻓⽅形的; 【词根】rect 正,直+angle ⻆ plumage  n. ⻦的全⾝⽻⽑; 漂亮⾐服; 【词源】古法语=feather ⽻⽑ mate  n. 伙伴; 配偶配对物; v. 交配; 【拓展】acquaintance 认识的⼈ being  n. 存在; ⽣物; 【拓展】 human being ⼈类 mankind ⼈类 human kind ⼈类 kneel  v. 跪, 下跪; 来⾃ knee 膝盖 petrify  v. 吓呆; 停⽌发展 【词根】petr=stone ⽯头 【拓展】petrifaction ⽯化; 吓呆; petroleum ⽯油 engulf  v. 吞没吞⻝; 陷⼊某种情绪; 来⾃ gulf 海湾; 分歧; 裂⼝ informant  n. 信息提供⼈; 告密者; 来⾃ inform 通知, 告发; shed  n. 棚屋; ⼯棚; v. 蜕⽪; 脱⽑; 落叶; 去除; 【拓展】 watershed 分⽔岭; cabin ⼩⽊屋; 客舱 cottage 乡间⼩屋 hut 简易⼩屋 shed 棚屋 indigenous  adj. ⼟⽣⼟⻓的; 固有的; 【词根】indi 内部+gen 产⽣ outweigh  v. 重于; ⼤于; 超过 【词根】out 出来+weigh 称重 antiquity  n. 古⽼; 古迹; 古物; 古⼈; 【词根】antique 古玩, 古董; neglect  n. v. 疏忽; 忽略; 疏漏 【词根】neg 没有+lect 选择 【拓展】 omit 省略遗漏 neglect 忽视疏忽 overlook 忽略宽容 disregard 不顾漠视 ignore 忽视; 佯装未⻅; hectare  n. 公顷 (=1 万平⽶) 【语源】=hundred ⼀百的许多的 【拓展】acer 英亩 inch 英⼨ = 2.54 厘⽶ foot 英尺 = 12 英⼨ preference  n. 偏爱; 优先权; 来⾃ prefer 更喜欢 【拓展】preferential 优先的 priority 优先权 spectrum  n. 光谱; 范围; 【词根】spect 看→可以看的范围 【拓展】 spectator 观众 spectacle 壮观的场⾯ spectacular 壮观惊⼈的 fiber  n. 纤维; 光纤; 【拓展】filament ⻓丝, 丝状物; rope  n. 绳索; ⼀串; v. 捆绑; ⽤套索抓捕; 【拓展】 string 细绳带⼦ rope 粗绳⼦ cord ⽐ rope 细的线绳 thread 纤维细线 wire ⾦属线 humidity  n. 湿度; 潮湿; 湿热; 来⾃ humid 湿润的 hydrogen  n. 氢; 【拓展】 hydrogen 氢 oxygen 氧 helium 氦 nitrogen 氮 ammonia 氨 bite  v. 咬; 叮; n. ⼀点⼉⻝物; 【拓展】 bite ⽤⽛咬断 chew ⽤⽛嚼碎 gnaw 连续不断咬 snap 猛地咬住 Pluto  n. 冥王星; correlate  v. 使互相关联; 【拓展】correlation 关联 perfume  n. ⾹⽔; ⾹料; ⾹味; 【拓展】 fragrance 芳⾹ odor ⽓味 flavor ⼝味 smell ⽓味 perfume ⼈⼯⾹⽓ scent 好闻的⽓味 incense ⾹薰⽓味 distract  v. 使分⼼; 使混乱; 【词根】dis 分开+tract 拉→分⼼ versus  prep. 对抗 clarify  v. 澄清; 清醒; 使清楚; 【词根】clar 清楚明⽩ 【拓展】clarity 清晰易懂; 清澈清楚 seafarer  n. 船员, 航海家; 【拓展】navigator 航海家, 领航员; 单词 ⾳标 释义 助记 parallel  adj. 平⾏的; 类似的; 并联的; n. 平⾏; 相似物类⽐; v. 使平⾏; 与…媲美; 【拓展】 alike 相似的 similar 类似的 comparable 可⽐较的 parallel 相提并论的 uniform 均匀划⼀的 identical 完全相同的 lump  n. 块, 肿块; v. 结块成团; 【形近】bump 碰撞, 隆起物; deliver  v. 发表; 递送; 交付; 分娩; 【词根】de 去掉+liver ⾃由 【拓展】delivery 递送, 交付; Neptune  n. 海王星; maintenance  n. 维持; 保养; 维护; 【词根】main, man ⼿+ten 拿住 habituation  n. 适应; 惯于; 来⾃ habituate 使惯于 【词根】habit 居住,习惯 【拓展】habitual 惯常的; paradigm  n. 范例, 样式, 模范; 【词根】para 在旁边+digm 显示 mixture  n. 混合; 混合物; 【词根】mix 混合+ture 状态 【拓展】 blend 混合融合 combination 结合联合 compound 化合物 composite 混合复合的 by-product  n. 副产品; 副作⽤; 【拓展】side effect 药物副作⽤|The study helps researchers better understand BEAT.
-dormant|adj. 潜伏的, 休眠的; 【词根】dorm 睡眠+ant 形容词|The study helps researchers better understand dormant.
-privilege|n. 特权; 权益; v. 给与…特权; 【词根】priv 单个+lege 法律 【辨析】 right 拥有法律或道义的权利 privilege 特许权利|The study helps researchers better understand privilege.
-metabolism|n. 新陈代谢; 【词根】mata 变化+bol 抛出|The study helps researchers better understand metabolism.
-BEAT|《托福必考 2000 词》 List 23 请加助教微信|The study helps researchers better understand BEAT.
-auditory|adj. 听觉的; 来⾃ audit=hear 听 【拓展】auditorium 礼堂,观众席|The study helps researchers better understand auditory.
-slip|v. 滑倒; 脱落; 下跌; 时间⻜逝; n. 跌倒; 过失; ⽚条; 【拓展】 slip 滑动滑倒 glide 滑⾏滑翔 slide 滑动下跌 skid 侧滑打滑|The study helps researchers better understand slip.
-transplant|n. v. 移植; 【词根】trans 转+plant 种|The study helps researchers better understand transplant.
-consequent|adj. 随之发⽣的; 必然的; 【词根】con 全部+sequen 连续 【拓展】consequence 结果重要|The study helps researchers better understand consequent.
-ornament|n. 装饰; 装饰物; 【词根】orna, orn 装饰+ment 物 【拓展】ornamentation 装饰品|The study helps researchers better understand ornament.
-quantify|vt. 量化, 确定…的数量; 【词根】quant 数量+ify…化 【拓展】 qualify 合格; 称得上; 达标 quantifiable 可计量的|The study helps researchers better understand quantify.
-equip|v. 装备, 配备; 使有能⼒; 【拓展】equipment 设备; 装备|The study helps researchers better understand equip.
-updraft|n. 上升⽓流; 向上排⽓; 【词根】up 上+draft ⽓流|The study helps researchers better understand updraft.
-tactic|n. ⼿段; 策略; 战术; 【拓展】tactical 战术策略性的;|The study helps researchers better understand tactic.
-offset|n. v. 抵消; 补偿; 并列 【拓展】neutralize 使中和中性|The study helps researchers better understand offset.
-strengthen|v. 加强, 巩固; 来⾃ strength ⼒量, 优点;|The study helps researchers better understand strengthen.
-heredity|n. 遗传（过程） 【词根】her=heir 继承⼈, ⼦嗣 【拓展】hereditary 遗传世袭的|The study helps researchers better understand heredity.
-anecdote|n. 轶事; 趣闻; 【词根】anec 未出版+dote 给予 【拓展】anecdotal 趣闻轶事的|The study helps researchers better understand anecdote.
-afield|adv. 在野外; 在远⽅; 在战场上; 【词根】a 在...上+field 野外|The study helps researchers better understand afield.
-peach|n. 桃⼦; 桃红⾊; 迷⼈的⼈; 【拓展】impeach 弹劾|The study helps researchers better understand peach.
-prominent|adj. 突出的, 杰出的; 【词根】pro 向前+min 伸 【拓展】prominence 突出,显著|The study helps researchers better understand prominent.
-supersede|v. 取代; 替代; 【词根】super 在…上+sede 坐|The study helps researchers better understand supersede.
-capture|v. 俘获; 夺取; 引起; 拍摄; 【词根】capt 抓+ture 表名词 【拓展】 arrest 逮捕 capture 俘获 seize 夺取抓住 trap 诱捕|The study helps researchers better understand capture.
-solidarity|n. 团结⼀致; 来⾃ solid 固体, 结实, 可信的 【拓展】solidary 团结⼀致的|The study helps researchers better understand solidarity.
-secrete|vt. 分泌; 隐藏; 【词根】se 分开+cret 区分 【拓展】 secretion 分泌,分泌物 secret 秘密|The study helps researchers better understand secrete.
-irritate|n. 刺激; 激怒; 【词根】ir 进⼊+rit 摩擦 【拓展】irritation 刺激, 激怒|The study helps researchers better understand irritate.
-measurable|adj. 可测量的; 显著的; 来⾃ measure 测量; 措施;|The study helps researchers better understand measurable.
-canyon|n. 峡⾕, 溪⾕; Grand Canyon ⼤峡⾕|The study helps researchers better understand canyon.
-grey|n. 灰⾊; adj. 灰⾊的; 灰⽩头发的; 阴暗的; 【拓展】pale 苍⽩⽆⼒的;|The study helps researchers better understand grey.
-spherical|adj. 球形的, 球⾯的; 来⾃ sphere 球|The study helps researchers better understand spherical.
-elicit|v. 引出; 诱出; 【词根】e 出+lic 引诱→引出|The study helps researchers better understand elicit.
-finance|n. 财政; ⾦融; v. 提供资⾦; 资助; 【拓展】 sponsor 赞助 subsidize 补助 patronize 资助赞助|The study helps researchers better understand finance.
-fuse|v. 熔化; 融合; n. 保险丝; 【辨析】 melt 熔化消失 dissolve 溶解消散 fuse 熔化结合|The study helps researchers better understand fuse.
-currency|n. 货币; 流通; 流⾏; 【词根】curr 跑流通+ency 名词 【拓展】cash 现款|The study helps researchers better understand currency.
-cohesive|adj. 统⼀的; 团结的 【词根】co 共同+hes 粘附 【拓展】cohesion 团结; 凝聚⼒|The study helps researchers better understand cohesive.
-reflex|n. 本能反应; 条件反射; 【拓展】refraction 折射|The study helps researchers better understand reflex.
-intimate|adj. 亲密的; 私下的; n. ⾄交; v. 暗示; 提示; 【拓展】confidential 秘密的;|The study helps researchers better understand intimate.
-oak|n. 橡树; 【拓展】 oak 橡树 maple 枫树 pine 松树 willow 柳树 hazel 榛树 birch 桦树|The study helps researchers better understand oak.
-intrigue|n. 阴谋; 诡计; v. 迷住; 激起好奇⼼; 【词源】拉丁语 intricate 复杂的 【拓展】intriguing 吸引⼈的|The study helps researchers better understand intrigue.
-obscure|adj. 昏暗的; 晦涩的; ⽆名的; v. 遮掩; 使费解; 模糊不清的; 【词根】obs, ob 逆反+cure 关⼼ 【拓展】 vague 含糊暧昧的 dim 昏暗模糊的 ambiguous 模棱两可的 faint 暗淡渺茫的|The study helps researchers better understand obscure.
-examination|n. 检查; 考试; 【拓展】 examination 考试审查 test 测验化验 quiz 时间短的⼩测试|The study helps researchers better understand examination.
-imperial|adj. 帝国的; 英制单位的; 【词根】imper 帝国+ial…的 【拓展】 emperor 皇帝; metric ⽶制, 公制单位的|The study helps researchers better understand imperial.
-reset|n. v. 重置;重排;重装; 【词根】re 重新+set 设置→重设|The study helps researchers better understand reset.
-notable|adj. 显著的; 著名的; n. 显要⼈物; 【拓展】 notice 注意, 通知, 警告; notably 显著地, 特别地;|The study helps researchers better understand notable.
-arable|adj. 适于耕种的; 【词源】拉丁语 plough 犁耕 【拓展】 plough ⽤犁耕⽥, 耕作; sickle 镰⼑|The study helps researchers better understand arable.
-old-|fashioned  adj. ⽼式, 过时的; 【拓展】fashion ⽅式, 时尚;|The study helps researchers better understand old-.
-outgo|v. 超过; 优于; 【拓展】outgoing 外向友好的|The study helps researchers better understand outgo.
-emperor|n. 皇帝, 君主; 【词根】emper 命令,统治+or ⼈ 【拓展】empire 帝国|The study helps researchers better understand emperor.
-reform|n. v. 改⾰; 改良; 改造 【拓展】revolution 变⾰|The study helps researchers better understand reform.
-sunrise|n. ⽇出; 【拓展】sunset ⽇落; dawn 黎明 dusk ⻩昏|The study helps researchers better understand sunrise.
-abroad|adv. 到国外; 来⾃ broad 宽阔的|The study helps researchers better understand abroad.
-timescale|n. 时段; 时间表;|The study helps researchers better understand timescale.
-precision|n. 精确; 精密 来⾃ precise 精确的|The study helps researchers better understand precision.
-persistent|adj. 持续; 坚持不懈的 【词根】persist 坚持 【拓展】 continual 不间断的 continuous 没有间断的 successive 接连相继的 constant ⼀直存在的|The study helps researchers better understand persistent.
-livable|adj. 适于居住的; 【拓展】livability 存活率|The study helps researchers better understand livable.
-margin|n. 边缘; 盈余; ⻚边空⽩; 【拓展】marginal 边缘的不重要|The study helps researchers better understand margin.
-mule|n. 骡⼦; 顽固的⼈; 【拓展】donkey 驴, 傻⽠;|The study helps researchers better understand mule.
-willow|n. 柳树; 【拓展】 oak 橡树 maple 枫树 pine 松树 willow 柳树 hazel 榛树 birch 桦树|The study helps researchers better understand willow.
-salinity|n. 盐分; 含盐浓度; 【拓展】saline 含盐的|The study helps researchers better understand salinity.
-shiny|adj. 发光的; 闪耀的; 来⾃ shine 光亮|The study helps researchers better understand shiny.
-sag|n. v. 下垂;消沉;萎靡; 【语源】荷兰语=subside 消沉|The study helps researchers better understand sag.
-deteriorate|v. 恶化; 变坏; 衰退 拉丁语=worse 更坏的 【拓展】deterioration 恶化;堕落|The study helps researchers better understand deteriorate.
-propulsion|n. 推进⼒; 【词根】pro 向前+puls 驱动 单词 ⾳标 释义 助记 universal  adj. 普遍全体的; 全球的; 宇宙的; 来⾃ universe 宇宙 【词根】uni ⼀个+vers 围绕转 alive  adj. 活着的; 活泼的; 有⽣⽓的; 【词根】a 在+live 活 【拓展】vivid ⽣动的; 逼真的; sulfate  n. 硫酸盐; v. 硫酸盐化(处理); 来⾃ sulfur 硫 【拓展】acid rain 酸⾬ selfish  adj. ⾃私的; 【词根】self ⾃⼰+ish 像 【拓展】egotistic ⾃我⾃负的; progressive  adj. 进步的; 进⾏的; 来⾃ progress 进步 【词根】pro 向前+gress ⾛ naturalist  n. 博物学家; 来⾃ nature ⼤⾃然 guarantee  n. 保证; 保证书; 抵押品; v. 保证, 担保; 【拓展】 pledge 承发誓 assurance 保证保险 coconut  n. 椰⼦; 椰⾁; 【拓展】nut 坚果 contradict  v. 反驳; 违背; 【词根】contra 反+dict 说 【拓展】 contradictory 反驳的; deny 否认 refute 驳斥 granule  n. ⼩颗粒, ⼩硬粒; 【词根】gran 颗粒+ule ⼩东⻄ 【拓展】intergranular 颗粒间的 aboard  prep. adv. 在船(或⻜机, ⻋)上 【词根】a 在+board 船 【拓展】abroad 到国外 recovery  n. 恢复; 收回; 痊愈; 矫正; 来⾃ recover 恢复, 痊愈 convey  v. 传递; 运送; 表达; 【词根】con 共同+vey 道 【拓展】 fetch 去拿去取 convey 传递运送 transport 运输传播|The study helps researchers better understand propulsion.
-BEAT|《托福必考 2000 词》 List 24 请加助教微信 mere  adj. 仅仅, 只不过; 微不⾜道的; 【词源】=pure, sheer 纯粹 【拓展】merely 只不过; 仅仅 novel  n. ⻓篇⼩说; adj. 新奇新颖的; 【词根】nov 新的 【拓展】novelty 新奇 identity  n. ⾝份; 个性; 【词根】ident 相同,识别 【拓展】identical 相同的 worsen  v. (使) 变得更坏, 恶化; 来⾃ worse 更坏的 exterminate  vt. 消灭; 根除; 【词根】ex 出+termin 界限 【拓展】extermination 消灭 religion  n. 宗教; 教派; 【词根】re 再次+lig 捆绑 【拓展】religious 宗教的 prevalent  adj. 流⾏的; 普遍的; 【词根】=prevail, value 有价值 【拓展】prevalence 流⾏ educate  v. 教育, 教导; 培养; 【词根】e 出+duc 引导 【拓展】instruct 讲授, 指示 coach 辅导训练 tutor 教学辅导 successor  n. 继承⼈, 继任者; 【词根】success 成功+or ⼈物 jay  n. 松鸦; 多嘴的⼈; 【辨析】 raven 渡鸦 crow 乌鸦 dormancy  n. 冬眠; 【词根】dorm 睡眠+ancy 名词 【拓展】dormant 冬眠的 patron  n. 赞助⼈; ⽼主顾; 【词根】patr ⽗亲→像亲⼈⼀样 【拓展】patronize 资助, 光顾 embed  v. 嵌⼊; 植根于; 【词根】em 进⼊+bed 范围 succulent  adj. 汁多味美的; n. ⾁质植物; 拉丁语=juice 汁液 【拓展】succulence 鲜美多汁 isthmus  n. 地峡; 【拓展】strait 海峡 flexible  adj. 灵活的; 可弯曲的; 【词根】flex 弯曲+ible 能 【拓展】 flexibility 弹性, 适应性; inflexibly 不屈地, 执拗地; publish  v. 出版, 发⾏; 发表, 颁布; 【拓展】publicize 宣扬; 【拓展】announce ⾸次宣布 declare 正式宣布 proclaim 官宣 pronounce 宣称 pronunciation 发⾳ await  v. 等候; 即将发⽣; 来⾃ wait 等候 【拓展】anticipate 预计, 期待 spray  v. 喷洒; 喷射; ⻜溅; 扫射; n. 喷雾; 浪花; ⻜沫; 【拓展】 splash ⻜溅 sprinkle 洒⽔ progress n.  v.  n. v. 进步, 进展, 进程 【词根】pro 向前+gress ⾛ 【拓展】progression 进展 ensue  v. 接踵发⽣; 拉丁语=follow 跟随 violent  adj. 暴⼒的; 剧烈的; 【词根】viol 违反侵犯 【拓展】violence 暴⼒ outdated  adj. 过时的, 落伍的; 【拓展】out-of-date 过时的 dimension  n. 尺⼨; 次元, 维度; 【词根】di 分开+mens 测量 【拓展】three-dimensional 三维 bellow  v. 吼叫, 咆哮; n. ⿎⻛机; 【词根】bell 打⽃+ow 喊 analyze  v. 分析; 解释; 【拓展】 analysis 分析 analyst 分析师 analytical 分析的 client  n. 顾客; 当事⼈; 【拓展】 guest 宾客 visitor 访客 passenger 旅客 customer 客户 client 顾客 aboveground  adv. 在地上; 【词根】above 上+ground 地 【拓展】underground 地下的 monopoly  n. 垄断; 【词根】mono 单+poly 卖 【拓展】monopolize 垄断 furnace  n. 熔炉, ⽕炉; 【拓展】 furnace 熔炉锅炉 oven 烘箱 integral  adj. 完整的; 基本的; 必须的; 【词根】integr 完整 【拓展】integer 整数 minimum  n. 最⼩量; adj. 最⼩最少的; 【词根】mini ⼩+mum→最⼩量 【拓展】minimize 最⼩化 fashion  n. 时尚; ⽅法; 【词根】fash, fac 做→做的时髦 horizon  n. ⽔平; 地平线; 眼界⻅识; 【拓展】horizontal ⽔平的 vertical 垂直的 ingredient  n. 原料; 成分; 要素; 【辨析】 component 组成部分 constituent 成分要素 element 基本元素 ingredient 原料要素 divert  v. 转移; 转向; 转接; 分散; 【词根】di 离开+vert 转→转向 advent  n. 出现; 到来; 【词源】=arrival 到来 【拓展】adventure 冒险 pipeline  n. 管道; 管线; 来⾃ pipe 管⼦ 【拓展】tube 管⼦, 管状物 capillary  n. ⽑细⾎管; 【词源】=hair ⽑发 【拓展】caterpillar ⽑⽑⾍ decompose  v. 分解, 腐烂; 【词根】de 反+compose 组成 【拓展】 rot 腐烂变质 decay 腐烂衰落 decomposition 腐烂分界 relevant  adj. 有关的; 有重要性的; 【词根】re 再+lev 举起提起 【拓展】relevance 重要相关性 lobe  n. ⽿垂; 肺叶; 脑叶; 【词源】=pod ⾖荚(形状) fossilize  v. ⽯化, 变成化⽯; 使僵化; 【词根】foss=oss ⻣头→化⽯ 【拓展】petrified 动植物⽯化的 primate  n. 灵⻓⽬动物; ⼤主教; 【词源】来⾃ prime ⾸要最好的 likewise  adv. 同样地; 也; 【词根】like 相象+wise ⽅向 【拓展】identically 相同地 invasion  n. ⼊侵; ⼤批涌⼊; 发病; 来⾃ invade ⼊侵, 侵犯 【词根】in 进⼊+vas ⾛ immature  adj. 不成熟的; 鲁莽的; 【词根】im 不+mature 成熟 【拓展】immaturity 不成熟; underneath  adv. 在下⾯; prep. 在…之下; n. 底部; 【词根】under 在…下+neath 下 【拓展】beneath 在...下⾯ converse v.  n.  v. 交谈, 谈话; n. adj. 相反(的); 【词根】con 共同+vers 转 【拓展】conversely 相反颠倒地 impoverish  vt. 使贫穷; 使贫瘠; 【词根】im 进⼊+pover 贫困 substantiate  v. ⽤事实证明; 【词根】substant 物质→证实 Jurassic  adj. 侏罗纪的; n. 侏罗纪; 【拓展】dinosaur 恐⻰ silicon  n. 硅 【拓展】silica 硅⽯; ⼆氧化硅 【元素】 铜 copper 锡 tin 锌 zinc 锰 manganese 镁 magnesium 磷 phosphorus 钾 potassium 硅 silicon temporal  adj. 时间的; 世俗的; 暂存的; n. 暂时的事物; 俗事; 【词根】tempor 时间 【拓展】temporarily 临时地 deepen  v. 加深; 加剧; 变低沉; 来⾃ deep 深的 plausible  adj. 似乎真实的; 貌似有理的; 【词根】plaus ⿎掌 【拓展】implausible 难以置信 generic  adj. 一般的;普通的; 生物属类的; 【词源】=genus 动植物的属类 单词 ⾳标 释义 助记 bevel  n. 斜边和斜⾯; 【拓展】beveled-rim 斜边 descendant  n. 后代; 后裔; adj. 派⽣物; 【词根】descend 下传+ant ⼈ slide  v. 滑动; 滑落; 下跌; n. 幻灯⽚; 滑梯; 【拓展】landslide ⼭崩 vanish  v. 消失; 灭绝; 【词根】van 空+ish 表动词 【拓展】 wither 枯萎凋谢 disappear 消失灭绝 fade 逐渐消失 evaporate 逐渐消失 recognize  v. 识别; 承认; 赞赏; 【词根】re 再+cogn 知道 【拓展】 recognition 识别, 承认 recognizable 可辨认的; unrecognized 未被认出的; accessible  adj. 易接近的; 可理解的; 易 相处的; 来⾃ access 接近, ⼊⼝, 存取; dye  n. 染料, 染⾊; v. 给…染⾊; 【拓展】stain 化学⽅法着⾊ instinct  n. 本能, 天性; 冲动; 天资; 【词根】in 内+stinct 刺激 【拓展】instinctive 本能的 igneous  adj. (岩⽯)⽕成的; 【拓展】ignite 使燃烧 familiarity  n. 熟悉, 通晓, 亲密; 来⾃ familiar 熟悉的 warrior  n. 战⼠, 勇⼠; 武⼠; 来⾃ war 战争 extraordinary  adj. ⾮常的, 特别的, ⾮凡的; 【词根】extra 超过+ordinary mist  n. 薄雾; 【形近】moisture 湿度 percolate  n. 渗透; 蔓延; 【词根】per 通过→渗⼊ plug  n. 插头; 塞⼦; vt. 塞住堵塞; 【拓展】block 堵塞拦截|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 25 请加助教微信 lick  vt. 舔; 战胜; n. 舔; 少量; artifact  n. ⼈⼯制品; ⼿⼯艺品; 【词根】arti, art 技巧+fact 做 ease  n. 轻松, 舒适; 容易; v. 缓解; 减轻; 松弛; 【辨析】 comfort 安慰 console 安慰 soothe 缓和安抚 relieve 解除缓解 conflict  n. 冲突; 战⽃; ⽭盾; v. 抵触; 争⽃; 【词根】con 共同+flict 打 【辨析】 controversy 争论 argument 辨论 conflict 争⽃ debate 辩论 dispute 激烈争辩 quarrel 争吵不和 strife 争吵⽃殴 juxtaposition  n. 并列; 毗邻; 【词根】juxta 并排+position sensible  adj. 有感觉的, 明智的; 【词根】sens 感觉+ible 能的 basalt  n. ⽞武岩; 【拓展】basaltic ⽞武岩的; 【分类】 花岗岩 granite ⼤理⽯ marble ⽞武岩 basalt ⿊曜⽯ obsidian conquer  v. 征服; 克服; 【词根】con 全部+quer 寻求 【拓展】conqueror 征服者 overcome 克服困难 overthrow 彻底击败 defeat 暂时战胜对⼿ beat 可与 defeat 换⽤ subdue 制服克制 participate  v. 参加某事; 【词根】parti 部分+cip 抓 【拓展】participation 参与 adequate  adj. 充⾜的; 适当的; 胜任的; 【词根】ad 加强+equ 相等 【拓展】 adequacy 充⾜, 适当; inadequacy 不充⾜; 不适当; inadequate 不充⾜不适当的; sufficient 充⾜ coke  n. 焦炭; 来⾃ charcoal ⽊炭 Mesoamerica  n. 中美洲; 【拓展】Mesozoic 中⽣代 ingenuity  n. ⾜智多谋; 独创性; 设计新颖; 【拓展】ingenious 灵巧独特的 【词根】in 内部+gen 产⽣ explicit  adj. 明确的, 清楚的; 【词根】ex 超出+pli 重叠 【拓展】explicitly 明⽩明确地 definite 明确清晰的界限 specific 内容明确不抽象 express 明确的; 特快的; coexist  v. 同时共存; 共处; 【词根】co 共同+exist 存在 so-called  adj. 所谓的, 号称的; milder  adj. 温柔的; 轻微的; 不浓的; 【词根】来⾃ mild 温柔的 【拓展】 gentle 温柔亲切, 优雅有节制 mild 脾⽓好, 适度的 soft 柔软, 光滑, 不严酷 tender 感情细腻, 物体柔嫩 moderate 温和有节制, 不极端 theatrical  adj. 戏剧的; 夸张的; 做作的; n. 戏剧表演; 来⾃ theater 剧场, 戏剧效果; slab  n. 厚板; 混凝⼟板; speculate  v. 猜想; 推断; 投机; 【词根】spec, spect 看猜 【拓展】 speculation 猜测, 投机 speculative 猜测的, 投机的 topography  n. 地形学; 地貌; 【词根】topo 地⽅+graph 图 【拓展】 topographic 地形测量的; topographical 地形的, 地貌的; exotic  adj. 异国的; 外来的; 奇异的; 【词根】exo 外部→外来的 tourism  n. 旅游; 旅游业; 【词根】tour 旅游+ism ⾏为 【拓展】tourist 旅游者 chip  n. 芯⽚; 碎⽚; 缺⼝; 薯⽚; v. 打破; 凿下; 【拓展】French fries 薯条 ion  n. 离⼦; 【拓展】plasm 等离⼦; ⾎浆; cop  n. 〈俚〉警察; v. 遭受; 注意到; 【形近】copper 铜 millet  n. ⼩⽶, 粟; 稷; diffuse  adj. 散开的; 弥漫的; v. 传播; 舒缓; 【词根】dif 分开+fuse 流 【拓展】diffusion 扩散传播; scatter 随意撒开 disperse 彻底驱散 spread 蔓延遍及 diffuse 光声⽓味散布 deforest  v. 砍伐森林; 【词根】de 去掉+forest 森林 manganese  n. 锰 【拓展】 铜 copper 锡 tin 锌 zinc 镁 magnesium ignore  v. 忽视; 【拓展】 omit 省略遗漏 neglect 忽视疏忽 overlook 忽略宽容 disregard 不顾漠视 ignore 忽视; 佯装未⻅ alteration  n. 改变; 变更; 【词根】alter 其他的,改变 mismatch  v. 不匹配;不协调; 【词根】mis 否+match 匹配 tanker  n. 油罐⻋; 油轮; 来⾃ tank (盛液体或⽓体的) 罐 spill  v. 溢出泼出; 泄露机密; n. 溢出量 【词根】sp 喷 【拓展】 sprinkle 洒出; spurt 喷涌; squirt 喷射; spout 喷射; spit 吐; spill 洒; mercury  n. 汞, ⽔银; ⼤写 Mercury ⽔星 cobalt  n. 钴; 深蓝⾊; 【拓展】 chrome 铬 collective  adj. 集体的; 共同的; n. 集体集团; 【词根】col 共同+lect 选择 saline  adj. 含盐的, 咸的; 【词根】sal 盐+ine…的 sodium  n. 钠; 【拓展】 sodium chloride 氯化钠 evergreen  n. 常绿植物; 【拓展】 deciduous 每年落叶的 evergreen ⻓⻘ chlorophyll 叶绿素 compromise  n. v. 妥协; 折中; 让步; 【词根】com ⼀起+promise prone  adj. 有…倾向; 很可能的; ⼀般指不好的倾向 chloride  n. 氯化物; 漂⽩粉; 【拓展】 hydrogen 氢 oxygen 氧 helium 氦 nitrogen 氮 ammonia 氨 chlorine 氯 ritualize  v. 使仪式化; 来⾃ ritual 仪式 ounce  n. 盎司; 少量⼀点⼉ 【拓展】 gallon 加仑 spout  n. 喷嘴; ⽔柱; v. 喷射; 夸夸其谈; 【拓展】 sprinkle 洒出; spurt 喷涌; squirt 喷射; spout 喷射; spit 吐 spill 洒 doorway  n. 出⼊⼝; 【拓展】exit 出⼝ arrow  n. 箭头; disastrous  adj. 灾难性的; 极其糟糕的; 来⾃ disaster 灾难; constrain  n. 限制; 约束; 【词根】con ⼀起+strain 拉紧 【拓展】constraint 限制约束 county  n. 县, 郡; 【词源】country 地区的变体 nobility  n. 贵族; ⾼尚的品质; 来⾃ noble ⾼尚的, 贵族的; solitary  adj. 独⾃的; 单个的; 【词根】sol 单独→孤独单⼀的 【拓展】desolate 荒凉孤独的 sword  n. ⼑剑; 【拓展】 spear ⽭ pike ⻓⽭, lance 标枪, 柳叶⼑ 单词 ⾳标 释义 助记 garment  n. ⾐服; 服装; v. 给…穿⾐服; 【词根】gar 装饰→装饰的东⻄ windborne  adj. 靠⻛传送的 【词根】borne 携带 haze  n. 雾霭烟雾; 懵懂迷糊; 【拓展】fog 雾 frost 霜 delineate  v. 勾画, 描述; 【词根】de 加强+line 线条 pour  v. 倾泄; 连续流出; 【拓展】outpour 倾泄, 流出物 infrared  adj. 红外线的; 【词根】infra=below 在...以下 【拓展】 ultraviolet 紫外线, 紫外线的; degrade  v. 降解; 贬低; 降级; 退化; 【词根】de 向下+grade 等级 【拓展】 degrade 有辱⼈格 humiliate 使蒙羞出丑 disgrace 使丢脸 snatch  n. 抢; ⼀阵⼦; 很⼩的数量; v. 抢夺; 【辨析】 grasp 紧紧抓牢 grip ⽤最⼤⼒抓住 grab 粗暴急迫地抓住 clasp ⽤⼿紧握或⽤臂紧抱 clutch 匆忙地抓紧 snatch 突然发⼒夺得 seize 突然抓住某物 vagary  n. 奇异多变; 难以预测; 【语源】=wander 漫游 离群 perish  v. 死亡; 毁灭; 腐烂; ⽼化; 【拓展】 perishable 易腐烂变质的 curt  adj. 简短的; 草率⽆礼的; 【词源】=cut 切掉 【拓展】 curse 诅咒 courtesy 礼貌, 礼节性的 receipt  n. 收据; 【词根】re 再+ceipt, cept 抓|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 26 请加助教微信 mush  n. 糊状物; 胆怯; v. 碾碎; 弄烂; 【拓展】mushroom 蘑菇 clumsy  adj. 笨拙的; 难懂的; 不便的; 【拓展】 awkward 尴尬的; 难处理的 embryo  n. 胚胎; adj. 萌芽初期的; 【拓展】 embryonic 胚胎的, 初期的 fetus 胎⼉; chew  n. v. 咀嚼; 咬碎; 【拓展】 bite ⽤⽛咬断 chew ⽤⽛嚼碎 gnaw 连续不断咬 snap 猛地咬住 cannibal  n. 同类相⻝的动物; ⻝⼈者; 【拓展】 cannibalism 同类相⻝ canine ⽝⽛, ⽝科的 inscribe  vt. 雕刻; 题写; 【词根】in 进⼊+scrib 写 archive  n. 档案; 档案馆; 记录; 【词源】=public records 【拓展】achieve 实现达到 canine  adj. ⽝的; ⽝科的; n. ⽝⻮; 【词根】can 狗→⽝科的 【拓展】 canid ⽝科动物 feline 猫科, 猫科的 hallmark  n. 检验印记; 质量证明; v. 盖上品质证明印记; 【拓展】hall ⼤礼堂 coerce  v. 强迫; 控制; 【词根】co ⼀起+erce 抑制 occlude  v. 堵塞; 阻隔; 【词根】oc ⼀再+clud 关闭 ablaze  adj. adv. 着⽕, 发光, 闪耀(的地); 【词根】blaze ⽕焰,光辉,照耀; etc  adv. 以及其他; 等等; 缩写⾃ et cetera; et=and, cetera=rest; jar  n. 罐⼦; ⼀坛⼦; v. 令⼈不安; 使震动; 【拓展】jeopardize 危及,损害 array  n. ⼀⼤批; 数组; v. 排列; 布置; 【拓展】arrange 安排, 筹划 starve  v. 挨饿; 【拓展】starvation 饿死 entangle  v. 缠住; 卷⼊, 连累; 【词源】来⾃ tangle 纠缠混乱 bargain  n. 便宜货; v. 讨价还价; 谈判; 【拓展】barter 以物易物 hospice  n. 收容所, 救济院; 【词源】hospit 客⼈+al 地⽅ filament  n. 细丝; 丝状物; 【词根】fil=thread 线条 inn  n. ⼩旅馆; ⼩客栈; 【拓展】hostel 旅社; 招待所; chest  n. 胸部, 胸腔; ⼤箱⼦; 【拓展】 breast 胸部 bosom 胸部 chestnut 栗⼦, 栗⾊的; mint  n. 薄荷; 铸币⼚; v. 铸币; 创造; adj. 崭新的, 完美的; 【词源】德语=money ⾦钱 insure  v. 上保险, 投保; 【词根】in 使+sure 确定 【拓展】insurance 保险 insight  n. 洞悉; 洞察⼒; 深刻⻅解; 【词根】in 进⼊+sight 观察 【拓展】insightful 有洞察⼒的 squid  n. 乌贼; 鱿⻥; 【拓展】octopus 章⻥ shroud  n. 覆盖物; 护罩; vt. 覆盖; 隐瞒; 保密; 【词源】古英语=clothing ⾐物 nuclear  adj. 原⼦核的; 原⼦能的; 【拓展】nucleus 核⼼,原⼦核; formidable  adj. 可怕的; 令⼈敬畏的; 【词根】= to fear 敬畏惧怕 earn  v. 赚得; 获得; 赢得; 【拓展】earning 收⼊ prophecy  n. 预⾔; 【词源】pro 提前+phet 说 【拓展】prophet 预⾔家 Athenian  n. 雅典⼈; adj. 雅典的,雅典⼈的; 来⾃ Athene 雅典娜 fasten  v. 系牢; 固定; 附着; 专注于; 【词根】fas+ten 拿住→固定 【拓展】secure 系紧固定 condemn  v. 谴责; 宣判; 【词根】con 共同+demn 伤害 【拓展】 blame ⼀般的责难 accuse ⾮难谴责 denounce 谴责检举 scold 训斥责骂 reproach 指责申斥 rebuke 指责惩戒 corrupt  adj. 堕落的; 贪污的; 腐烂的 v. 使腐败; 使堕落; 使腐烂; 【词根】cor 全部+rupt 断坏 【拓展】 corruption 腐败堕落; uncorrupt 不腐败的; receptive  adj. 有接受⼒的; 能容纳的; 来⾃ recept 接受 【拓展】 reception 前台, 招待会 slushy  adj. 泥泞的; 来⾃ slush 烂泥 flyby  n. ⻜越; 【拓展】soar 翱翔; 猛涨; diverge  v. 分化; 分歧; 偏离; 【词根】di 两个+ver 转 【拓展】divergence 分歧差异 plate  n. 盘⼦; 平板薄板; ⻋辆牌照; 【词根】plat 平坦 【拓展】 dish 盘⼦的总称 plate 餐盘 tray 托盘 convulse  v. 抽搐痉挛; 剧烈抖动; 【词根】con ⼀起+vuls 收缩 【拓展】convulsion 抽搐;动乱; discount  v. 打折出售; n. 减价折扣; 【词根】dis 去掉+count 数 chamber  n. ⼤房间; 腔体; 议会; 【拓展】cabinet 内阁 goodness  n. 善良; 美德; 【拓展】 integrity 正直 purity 清⽩ virtue 美德 morals 道德 morality 道义 ethics 伦理 precaution  n. 防备; 预防措施; 【词根】pre+caution ⼩⼼ inferior  adj. 低劣的; 下等的; n. 下属; 次品; 晚辈; 【词根】infer 下⾯+ior ⽐较级 enthusiastic  adj. ⾮常感兴趣的; 热⼼的; 【辨析】zealous 狂热的 vaporize  v. 蒸发, 汽化; 【词根】vapor 蒸⽓ 【拓展】evaporate 蒸发挥发 oppress  v. 压迫, 压制; 使苦恼; 【词根】op 加强+press 挤压 【拓展】oppressive 压抑的 homogeneity  n. 同种同质; 均匀⼀致; 【词根】homo 同+gen 产⽣ 【拓展】 homogeneous 同性质,同类的; sporadic  adj. 时有时⽆的; 零星分散的 【词源】拉丁⽂=spore 孢⼦; 【拓展】scatter 散落; reciprocity  n. 相互性; 相互作⽤; 来⾃ reciprocate 互换, 回报; kin  n. 亲戚; 家属; 【拓展】kinship ⾎族关系; saint  n. 圣⼈; 圣徒; 拉丁⽂=holy 神圣的 shear  v. 剪⽺⽑; 切断; 古英语=cut 切割 【拓展】scissors 剪⼦ flock  n. ⻦群; ⽺群; 群众; v. 成群结队; 【辨析】 herd 动物群(尤指家畜, 也指⼈) flock ⻦群 swarm 蜂群等昆⾍群 symbolize  v. 象征; 代表; 来⾃ symbol 符号, 象征； rendition  n. 演绎; 给予; 来⾃ render 致使, 造成, 给予; 【词根】rend 给+ition 表名词 单词 ⾳标 释义 助记 emanate  v. 散发; 表现出; 散发出; 【词源】=flow out 流出 thread  n. 细线; 主线; 螺纹; v. 穿成串; 穿针引线; 【拓展】 string 细绳带⼦ rope 粗绳⼦ cord ⽐ rope 细的线绳 thread 纤维细线 wire ⾦属线 loom  n. 织布机; v. 迫近; 挥之不去; 【拓展】 appear 公开露⾯ emerge 缓缓出现 show 显露出来 loom 朦胧浮现 legend  n. 传说; 传奇⼤师; 说明图例; 【词根】leg 讲出→传奇 ranch  n. ⼤牧场⼤农场; 【拓展】rancher 牧场主 detritus  n. 侵蚀形成的岩屑; 残垣断壁; 【词源】debris 残骸, 碎⽚ 【拓展】detrital 岩屑形成的; oxidize  v. 氧化; ⽣锈; 【拓展】 oxide 氧化物; oxidization 氧化; dioxide ⼆氧化物; carcass  n. ⼫体; ⻣架; 【词根】carc=carn ⾁ 【拓展】corpse ⼫体（⼈） foreground  n. 前景; 引⼈注⽬; 【词根】fore 前+ground 场地 【拓展】forehead 额头 laborer  n. 体⼒劳动者; ⼯⼈; 【词根】-er（名词后缀） 【拓展】Labor Day（劳动节） dune  n. 沙丘; 【词源】=hill ⼩⼭ turbidity  n. 混浊; 混浊度; 【词根】turb 搅动+id 形容词 【拓展】turbid 浑浊的;紊乱的 pelvic  adj. ⻣盆的; 【拓展】thigh 股, ⼤腿|The study helps researchers better understand BEAT.
-BEAT|《托福必考 2000 词》 List 27 请加助教微信 scour  v. 冲刷擦亮; 四处搜索; 【词根】s 快速+cour 跑 【拓展】rinse 漂洗, 冲洗 feeble  adj. 虚弱的; 牵强的; 【拓展】 brittle 脆的, 易碎的 frail 虚弱,易碎的 ax  n. 斧头; 倒闭; v. 削减; 解雇： 【拓展】axe 斧⼦ bow  n. 弯⼸; 鞠躬; 屈服于; 【拓展】bowl 碗, stubby  adj. 短粗的;矮壮的; 【拓展】chubby 圆胖的 flop  v. 猛然落下; n. 彻底失败; 【拓展】floppy 松弛懒散的 median  adj. 中位数的; 中间值的; 【词根】medi 中间 【拓展】mediate 仲裁; requisite  n. 必需品;必要条件; adj. 必要的; 【词根】re 再+quis 寻求 【拓展】requisition 征⽤; anticipate  v. 预料, 预期; 【词根】anti 前+cip 抓→预料 【拓展】 anticipation 预料期望; unanticipated 意料之外的; segregate  v. 分开; 隔离; 【词根】se 分离+greg 群 trait  n. 特点; 特性; 【拓展】 property 特性属性 feature 特点特写 characteristic 显著特征 attribute 品质特征 character 性格特征 buoyancy  n. 浮⼒; 乐观; 经济繁荣; 【词根】buoy 浮+ancy 状况 【拓展】buoyant 愉快繁荣的 gamble  v. 赌博; 打赌; n. 下赌注; 冒险; 【拓展】bet 打赌期待, 确信 slim  adj. 苗条的; 微薄的; v. 减肥; 【拓展】 lean 倾斜, 脂肪少的 slender ⾝体细⻓,多⽤于⼥性 slight 轻微瘦⼩的 thin 消瘦的 powdery  adj. 粉末状的; 来⾃ powder 粉末 glide  n. 滑动; 滑⾏; 滑⾳; 悄悄地⾛; 【拓展】 slip 滑动滑倒 slide 滑动下跌 skid 侧滑打滑 vice versa  adv. 反之亦然; 来⾃ vice 取代, versa 反的; repercussion  n. 不良反响; 声光反射; 【词根】re+percussion 敲打 allergy  n. 过敏; 反感; 【词源】=energy 某种能量 ambitious  adj. 有雄⼼的; 有野⼼的; 间距的; 来⾃ ambition 野⼼雄⼼ inevitable  adj. 不可避免的; 【词根】in+evitable 可避免的 【拓展】inevitably beam  n. 横梁; 光线; 笑容; v. 发光发热; 照射; 【拓展】 giggle 咯咯的笑 grin 露⻮笑 beam 喜形于⾊地笑 sneer 冷笑嘲笑 landform  n. 地貌; 【词根】land 地+form 形状 【拓展】landscape 地形景观 remote  adj. 遥远的; 偏僻的; 微⼩的; 【词根】re 回+mot 运动 aerodynamic  adj. 空⽓动⼒学的; 【词根】aero 航空的 【拓展】 aerodynamics 空⽓动⼒学 squeeze  v. 挤捏; 榨取; 【拓展】 condense 压缩冷凝 contract 收缩紧缩 shrink 收缩畏缩 squeeze 挤压榨取 compress 压缩压紧 squash 压坏压碎 droplet  n. 微滴; ⼩⽔珠; 【词根】drop 滴, 少量+let ⼩ boom  n. v. 繁荣; 激增; 隆隆声; 【拓展】blossom 兴盛, 开花 incentive  n. 动机; 刺激; 奖励; 【词根】in 向内+cent 唱歌→ humble  adj. 谦逊的; 简陋的; 低下的; v. 轻松打败; 低声下⽓; 【词根】hum ⼟地→接近地⾯ 【拓展】 degrade 有辱⼈格 humiliate 使蒙羞出丑 disgrace 使丢脸 upcoming  adj. 即将来到的; 【拓展】would-be 想成为…的 plaster  n. 灰泥; 熟⽯膏; v. 抹灰浆; 贴满; 【拓展】 plastic 可塑的, 塑料制品; gypsum ⽯膏 endeavor  n. v. 尝试; 竭⼒; 【词根】en 加强+deavor 责任 militaristic  adj. 军国主义的; 黩武的; 来⾃ military 军队, 军事的; waterfowl  n. ⽔⻦, ⽔禽; 【词根】water ⽔+fowl 家禽 synchronize  v. 使同步; 【词根】syn 共同+chron 时间 【拓展】synchronization 同步 broadcast  n. v. ⼴播; 散播; 【词根】broad ⼴+cast 投射 【拓展】 announce ⾸次宣布 declare 正式宣布 proclaim 官宣 pronounce 宣称 pronunciation 发⾳ tap  v. 开发利⽤; 轻打轻拍; 跳踢踏舞; n. ⻰头; 阀⻔; 【拓展】tape 胶带, 卷尺 conversion  n. 转变; 改装物; 兑换; 来⾃ convert 转变 【词根】con 共同+vers 转 onward  adj. adv. 向前,前进; 【词根】on 前⾯+ward 表⽅向 【拓展】outward 向外 unify  v. 联合; 统⼀; 【词根】unit 个体联合 【拓展】 unity 统⼀团结; unite 联合团结; typify  v. 是…典型; 代表; 来⾃ type 类型 collaborate  v. 合作协作 【词根】col 共同+labor 劳动 【拓展】 collaborative 合作协作的; collaboration 合作写作 amplify  v. 放⼤, 增强; 【词根】ampl ⼤+ify 表动词 【拓展】amplification 放⼤ overshadow  v. 使失⾊; 遮挡; 来⾃ shadow 阴影 triumph  n. ⾮凡的成功; 极⼤满⾜; v. 获胜; 【拓展】 victory 胜利 conquest 获胜 triumph 辉煌的胜利 curve  n. 弧线; 曲线; v. 弯曲;沿曲线运动; 【拓展】 arc 弧线 arch 拱⻔拱起 replenish  v. 补充; 装满; 【词根】re 再+plen 满 【拓展】plenty 丰富⼤量 clothe  v. 给…提供⾐服; 覆盖; 赋予; 【拓展】 clothing ⾐服服装 cloak 披⻛, ⽃篷, 笼罩 unprecedented  adj. 前所未有的; 【词根】un ⽆+precedent 先 bask  v. 晒太阳; 【拓展】tan 晒⿊的, ⻩褐⾊; cellular  adj. 细胞的; 来⾃ cell 细胞 linguist  n. 语⾔学家; 【语源】= language 语⾔ 【拓展】 linguistic 语⾔学的 bilingual 双语的 graphically  adv. ⽣动地; 轮廓分明地; 【词根】graph 写, 图 【拓展】graphic 图解⽣动的 polish  v. 擦亮; 改进; n. 擦亮剂;优美精湛 【词根】pol 擦亮+ish 造成 configuration  n. 布局, 构造; 配置; 来⾃ configure 配置设定; 【词根】con 共同+figure 轮廓 align  v. 排成⼀条线; 对准; 联合结盟; 【词源】=into line 排成⼀线 单词 ⾳标 释义 助记 fodder  n. 草料; 素材; 来⾃ food 喂⻝ protein  n. 蛋⽩质; 【词源】希腊语=first ⾸要 【拓展】amino acid 氨基酸 tableware  n. 餐具; 【词根】table 桌⼦+ware 器⽫ 【拓展】kitchenware 炊具 leafy  adj. 多叶的, 叶茂的; 【词根】来⾃ leaf 叶⼦ endow  v. 捐赠, 资助; 赋予; 【拓展】 accord 给予待遇 confer 授予称号 grant 授予允许 endow 捐赠资助 bestow 授予赠送 entry  n. ⼊场许可; 参加参赛; 输⼊; 【拓展】 entrance 场地⼊⼝ entry ⼊⼝ admission 准许加⼊ candid  adj. 率直的, 坦⽩的; 【词根】cand ⽩, 发光 【拓展】 incandescent ⽩热炙热的 fluorescent 荧光的 generalize  v. 概括归纳; 推⼴普及; 来⾃ general 总的 【拓展】overgeneralize 过分概括 monitor  n. 显示屏; 监控⼈员; v. 监控; 监听; 【拓展】scout 搜索, 侦查|The study helps researchers better understand BEAT.
-sniff|v. ⽤⿐⼦嗅; 抽⿐⼦; 鄙视; n. 吸⽓; ⼀股⽓味; 【拓展】sniff out 发现, 寻找;|The study helps researchers better understand sniff.
-coworker|n. 同事, 合作者; 【词根】co 共同+worker ⼯作|The study helps researchers better understand coworker.
-built-in|adj. 嵌⼊的; 内置的; 【拓展】embedded 嵌⼊的|The study helps researchers better understand built-in.
-enigmatic|adj. 神秘的; 费解的; 来⾃ enigma 谜|The study helps researchers better understand enigmatic.
-blink|n. v. 眨眼睛; 闪烁; 瞬间; 【拓展】blank 空⽩的|The study helps researchers better understand blink.
-BEAT|《托福必考 2000 词》 List 28 请加助教微信|The study helps researchers better understand BEAT.
-hibernate|v. 冬眠，蛰伏; 【拓展】hibernation 冬眠|The study helps researchers better understand hibernate.
-odor|n. ⽓味; 名声; 【拓展】aroma 芳⾹ scent ⾹味 essence ⾹精 fragrance ⾹⽓|The study helps researchers better understand odor.
-indefinite|adj. ⽆限期; 不明确的; 【词根】in 不+definite 明确的|The study helps researchers better understand indefinite.
-exterior|n. 外部; 外貌; adj. 外⾯的; 外表的; 【词根】exter 外+ior→外部的 【拓展】interior 内部的|The study helps researchers better understand exterior.
-depart|v. 离开; 违背; 去世; 离职; 【词根】de 分开+part 部分 【拓展】departure 离开, 启程|The study helps researchers better understand depart.
-deviate|v. 背离, 偏离; 【词根】de 离+vi 道路 【拓展】deviation 背离;|The study helps researchers better understand deviate.
-shun|v. 避开, 回避; 古英语=shrink 收缩, 退缩;|The study helps researchers better understand shun.
-hormone|n. 荷尔蒙, 激素;|The study helps researchers better understand hormone.
-command|n. v. 命令; 指挥; 控制; 【拓展】order 命令 bid 命令|The study helps researchers better understand command.
-lag|v. 落后; 赶不上; n. 滞后; 时间差;|The study helps researchers better understand lag.
-allusion|n. 暗指; 影射; 典故; 来⾃ allude 暗指, 间接提到;|The study helps researchers better understand allusion.
-induce|v. 引诱; 引起; 引产; 【词根】in 进⼊+duce 引导|The study helps researchers better understand induce.
-transmit|v. 传输; 传播; 传染; 【词根】trans 越过+mit 送|The study helps researchers better understand transmit.
-restore|v. 恢复; 返还; 修复; 【词根】re 回+store 贮藏 【拓展】restoration 恢复|The study helps researchers better understand restore.
-vine|n. 藤本植物; 葡萄树; 【拓展】vineyard 葡萄园; wine 红酒;|The study helps researchers better understand vine.
-subtle|adj. 微妙的; 敏感的; 狡猾的; 巧妙的; 【拓展】 subtlety 微妙; 精明; 狡猾; delicate 脆弱的, 精致微妙的|The study helps researchers better understand subtle.
-headquarter|n. 总部; 司令部; v. 设置总部; 【拓展】quarter 地区, 四分之⼀|The study helps researchers better understand headquarter.
-pristine|adj. 原始状态的; 纯朴的; 新鲜的; 【词根】prist=first ⾸先, 最初|The study helps researchers better understand pristine.
-fraction|n. 分数; 少量; ⽚段; 【拓展】 division 分界部⻔ portion ⼀部分 fraction ⼀⼩部分 fragment ⽚段碎⽚ segment 细分⽚段|The study helps researchers better understand fraction.
-duplicate|v. 复制; 【词根】du ⼆, 双+plic 重复 【拓展】duplication 副本复制;|The study helps researchers better understand duplicate.
-adept|adj. 熟练擅⻓的; 【词根】ad 加强+ept 适应能⼒ 【拓展】 adapt 适应; 改编 adopt 采⽤; 收养|The study helps researchers better understand adept.
-notation|n. ⾳乐数学的符号; 来⾃ note 注意到 【拓展】notice 注意, 通知|The study helps researchers better understand notation.
-qualify|v. 达标合格; 取得资格; 【词根】qual 种类资格 【拓展】qualification 资格合格|The study helps researchers better understand qualify.
-etch|v. 蚀刻; 铭记; 【词源】德语=eat 咬掉, 吃掉; 【拓展】itch 痒痒, 渴望|The study helps researchers better understand etch.
-approve|v. 赞成, 同意; 批准; 【词根】ap 加强+prov 证明 【拓展】endorse 赞同, 背书|The study helps researchers better understand approve.
-conscious|adj. 有意识的; 有知觉的; 【词根】con 全部+sci 知道 【拓展】consciousness 意识 subconsciously 潜意识地 unconscious 不省⼈事⽆意识 conscience 良⼼, 良知;|The study helps researchers better understand conscious.
-animate|v. ⿎舞; adj. 有⽣命的; 【词根】anim ⽣命, 精神 【拓展】activate 激活 animation 动画⽚, ⽣⽓活泼|The study helps researchers better understand animate.
-patent|n. 专利权; adj. 显然的; vt. 获得专利; 【拓展】patronize 资助, 惠顾|The study helps researchers better understand patent.
-resurgence|n. 复兴复苏; 【词根】re 重新+surg 升起|The study helps researchers better understand resurgence.
-discriminate|v. 区别; 辨别; 歧视; 【词根】dis 分开+crimin 分辨 【拓展】differentiate 区分辨别|The study helps researchers better understand discriminate.
-apparatus|n. 器械设备; 机构组织; 【词根】ap, ad 加强+par 准 【拓展】 machine 机器 machinery 机器总称 mechanism 系统装置 apparatus 装置仪器|The study helps researchers better understand apparatus.
-pacifier|n.橡⽪奶嘴; 镇静剂; 来⾃ pacify 调解, 安抚, 平息;|The study helps researchers better understand pacifier.
-heighten|v. 变⾼; 增强; 来⾃ height ⾼ 【拓展】widen 加宽扩展|The study helps researchers better understand heighten.
-count|n. 总数; 计算数字; v. 计算总数; 看做视为; 【词根】count 数,计算 【拓展】 count on 依靠, 指望; countless ⽆数的|The study helps researchers better understand count.
-photographer|n. 摄影师; 来⾃ photograph 照⽚ 【词根】photo 光+graph 写 【拓展】photography 摄影|The study helps researchers better understand photographer.
-stack|n. ⼀堆; 书架; v. 堆起来; 码放整⻬; 【拓展】haystack ⼲草堆|The study helps researchers better understand stack.
-mount|v. 攀登; 增加; 安装; n. ⼭峰; 攀登; 底座; 【词根】=ascend 登, ⼭, 安装|The study helps researchers better understand mount.
-authenticity|n. 可靠性, 真实性; 来⾃ authentic 真正的 【拓展】genuine 货真价实的|The study helps researchers better understand authenticity.
-verify|v. 核实; 证明; 判定; 【词根】ver 真实+ify 表动词 【拓展】verification 证明核实|The study helps researchers better understand verify.
-backdrop|n. 背景幕布; 事件背景;|The study helps researchers better understand backdrop.
-differentiate|v. 区分辨别; 来⾃ different 不同的 【拓展】differentiation 差异化|The study helps researchers better understand differentiate.
-reluctant|adj. 不情愿的, 勉强的; 【辨析】 unwilling 语⽓强烈的拒绝 reluctant 不乐意也指坚决反对|The study helps researchers better understand reluctant.
-gallery|n. 画廊; 边座; 旁听席; 【语源】church porch ⾛廊 【拓展】avant-garde 艺术先锋|The study helps researchers better understand gallery.
-dial|n. 钟⾯表盘; 拨号盘; v. 打电话; 【词根】di ⽇,⽇⼦+al→⽇晷 【拓展】 diurnal ⽩天的 nocturnal 夜间的|The study helps researchers better understand dial.
-flotation|n. 漂浮; 来⾃ float 漂浮 【拓展】drift 随⻛顺⽔飘荡|The study helps researchers better understand flotation.
-smother|v. 使窒息; 抑制; 来⾃ smoke 烟雾 【拓展】suffocate 窒息|The study helps researchers better understand smother.
-cramp|n. 痉挛抽筋; 夹⼦; v. 使痉挛; 夹紧; 限制; adj. 难懂的; 【拓展】cram 塞进,临时死记硬背|The study helps researchers better understand cramp.
-pit|n. 矿井; 地⾯的坑; v. 使竞争; 有凹陷; 拉丁语=well, shaft 竖井; 【拓展】pits 糟透了|The study helps researchers better understand pit.
-digest|v. 消化; 吸收; 领悟; 【词根】di 分开+gest 带 【拓展】 digestion 消化, 领悟; 吸收; digestive 消化的;|The study helps researchers better understand digest.
-carbohydrate|n. 碳⽔化合物; 【词根】carbo 炭+hydrate ⽔化物|The study helps researchers better understand carbohydrate.
-inadvertently|adv. 漫不经⼼, 疏忽地; 【词根】in 不+advertent 谨慎|The study helps researchers better understand inadvertently.
-low-lying|adj. 低洼的; 【词根】low 低+lying 坐落, 躺|The study helps researchers better understand low-lying.
-ultraviolet|adj. 紫外线的; 【词根】ultra 超出+violet 紫⾊ 【拓展】infrared 红外线|The study helps researchers better understand ultraviolet.
-institution|n. 机构; 惯例, 制度; 建⽴; 来⾃ institute 研究所; 设⽴; 【拓展】institutional 制度的;|The study helps researchers better understand institution.
-notorious|adj. 众所周知, 臭名昭著的; 【词根】not 注意+orious 多|The study helps researchers better understand notorious.
-stake|n. ⽊桩; 股份; 重⼤利益; v. ⽤⽊桩⽀撑分界; 【拓展】share 股份; 单词 ⾳标 释义 助记 welfare  n. 健康; 幸福; adj. 福利的; 【词根】wel 愿望+fare 费⽤ fishery  n. 渔业; 渔场; 【词根】fish ⻥+ery 场所 harbor  n. 海港; 避难所; v. 庇护; ⼊港停泊; 【拓展】 port 港⼝; pier 码头; abolish  v. 废除; 废⽌; 【拓展】 abolish 废除 cancel 取消 repeal 废⽌ monk  n. 修道⼠, 僧侣; 【词根】mon=mono 单独 infect  v. 传染, 感染; 污染; 【词根】in 进⼊+fect 做 agency  n. 代理; ⾏政部⻔; 【词根】ag 代理+ency 机构 posit  v. 假定; 假设; 【词根】pos 安置→假设 loose  adj. 松动的; 宽松的; 随便的; v. 释放; 松开; 【拓展】slack 松弛, 懈怠的;|The study helps researchers better understand stake.
-inflate|vt. 充⽓膨胀; 物价⾼涨; 【词根】in 进+flat 吹→吹⽓ 【拓展】inflation 通货膨胀|The study helps researchers better understand inflate.
-expert|n. 专家; ⾏家; 【词根】ex 出+pert 尝试|The study helps researchers better understand expert.
-creature|n. ⽣物; ⼈; 来⾃ create 造物|The study helps researchers better understand creature.
-paradise|n. 天堂; 乐园; 【拓展】 heaven 天堂; 天空; paradise 天堂; 乐园;|The study helps researchers better understand paradise.
-butterfly|n. 蝴蝶; 【拓展】 moth ⻜蛾 larva 幼⾍ pupa 蛹|The study helps researchers better understand butterfly.
-pierce|v. 刺穿; 洞察; 打动; 【拓展】penetrate 穿透渗透 prick 刺痛扎伤|The study helps researchers better understand pierce.
-BEAT|《托福必考 2000 词》 List 29 请加助教微信 stab 利器刺⼊ thrust 猛推刺⼊|The study helps researchers better understand BEAT.
-immune|adj. 免疫的; 不受影响的; 【拓展】immunity 免疫⼒|The study helps researchers better understand immune.
-defensive|adj. 防守的; 辩护的; ⾃卫的; n. 守势; 辩护; 来⾃ defend 防守保卫; 辩护; 【词根】de 去+fend 打击 【拓展】 defenseless ⽆防备的; indefensibly ⽆法防御地;|The study helps researchers better understand defensive.
-satisfactory|adj. 令⼈满意的; 来⾃ satisfy 使满意, 符合; 【词根】satis ⾜够 【拓展】satisfaction 满⾜补偿|The study helps researchers better understand satisfactory.
-make-up|n. 组成; 天性; 化妆(品); 【拓展】 cosmetic 化妆品, 化妆的;|The study helps researchers better understand make-up.
-cognitive|adj. 认知的; 【词源】cognit=known 知道 【拓展】 cognize 认识认识 cognition 认知|The study helps researchers better understand cognitive.
-mosquito|n. 蚊⼦ 【拓展】fly 苍蝇|The study helps researchers better understand mosquito.
-devastate|v. 破坏; 毁灭; 蹂躏; 拉丁语: de 全+vast, waste 废 【拓展】devastation 毁坏;|The study helps researchers better understand devastate.
-obstruct|v. 阻塞; 阻碍; 阻⽌; 【词根】ob 反+struct 建⽴ 【拓展】 obstruction 妨碍,障碍物|The study helps researchers better understand obstruct.
-primitive|adj. 原始的; 低等的; 简陋的; n. 原始⼈; 单纯的⼈; 【词根】prim ⾸要→原始简单|The study helps researchers better understand primitive.
-detachment|n. 冷漠; 超然; ⼩分队; 来⾃ detach 分开, 分离 【词根】de 去掉+tach 钉⼦|The study helps researchers better understand detachment.
-retire|v. 退休; 引退; 【词根】re 回+tir 拉→退休 【拓展】retirement 退休|The study helps researchers better understand retire.
-entitle|v. 给予资格; 授权; 命名; 【词根】en 成为+title 标题|The study helps researchers better understand entitle.
-comfort|n. v. 安慰; 舒适; 缓和; 【拓展】 comfort 安慰减轻痛苦 console 缓和痛苦悲伤 ease 减轻痛苦忧虑 soothe 减轻悲痛病痛 relieve 解除病痛忧虑|The study helps researchers better understand comfort.
-lay|v. 放置; 铺设; 产卵; 奠定; adj. 外⾏的; 【拓展】 layman ⻔外汉|The study helps researchers better understand lay.
-firm|n. 公司; adj. 坚固的; 坚定的; 忠实的; 【拓展】 firmly 坚定牢固地; affirm 肯定 confirm 证实|The study helps researchers better understand firm.
-champion|n. 冠军; 捍卫者; v. 捍卫; ⽀持; 【拓展】 tournament 锦标赛 league 联盟联赛|The study helps researchers better understand champion.
-sharp|adj. adv. 敏锐的; 锋利的; 急剧的; n. 锐利的东⻄; 【拓展】 keen 渴望强烈的 acute 敏锐急性的 sharp 敏锐激烈的 shrewd 精明盘算的|The study helps researchers better understand sharp.
-campaign|n. 运动; 战役; 竞选运动; 【词根】camp 营地+aign 平原|The study helps researchers better understand campaign.
-rebellion|n. 谋反,叛乱,反抗; 来⾃ rebel 反抗, 反叛者; 【词根】re 反+bell 打⽃|The study helps researchers better understand rebellion.
-envision|vt. 设想; 预想; 来⾃ vision 想象, 展望;|The study helps researchers better understand envision.
-cling|v. 抓紧; 黏着; 坚持; 【拓展】cling to 坚持, 抓住;|The study helps researchers better understand cling.
-terminal|n. 终点站, 终端; 【词根】=limit 界限末端 【拓展】terminate 终⽌|The study helps researchers better understand terminal.
-heterogeneous|adj. 各种各样; 成分混杂的; 【词根】hetero 异+gen 产⽣|The study helps researchers better understand heterogeneous.
-bubble|n. ⽓泡; 泡沫; v. 冒泡; 滔滔不绝; 洋溢; 【拓展】foam 泡沫, 泡沫橡胶|The study helps researchers better understand bubble.
-crevice|n. (岩⽯的) 裂缝缺⼝ 【词根】crev 裂开→缺⼝ 【拓展】 gap 裂缝 cleft 裂⼝|The study helps researchers better understand crevice.
-consolidate|v. 合并; 巩固; 统⼀; 【词根】con ⼀起+solid 稳固 【拓展】 consolidation 巩固, 合并; unconsolidated 松散疏松的;|The study helps researchers better understand consolidate.
-legitimate|adj. 合理地, 合法的, 正当地; 【词根】leg 法律→合法合理|The study helps researchers better understand legitimate.
-cod|n. 鳕⻥; 袋, 包; v. 哄骗; adj. 骗⼈的;|The study helps researchers better understand cod.
-blockage|n. 堵塞; 妨碍; 来⾃ block 阻塞|The study helps researchers better understand blockage.
-install|vt. 安装; 安置; 【词根】in 进+stall 放|The study helps researchers better understand install.
-empirical|adj. 凭经验的; 经验主义的; 【词根】em 出+piri, peri 尝试|The study helps researchers better understand empirical.
-penchant|n. (强烈的)倾向爱好 【词源】法语=incline 倾向|The study helps researchers better understand penchant.
-overtake|v. 超越; 压倒; 突然发⽣; 【词根】over 翻转+take 拿|The study helps researchers better understand overtake.
-comedy|n. 喜剧; 【词根】com 宴会 【拓展】 tragedy 悲剧; comedian 戏剧演员;|The study helps researchers better understand comedy.
-momentous|adj. 重⼤重要的; 【拓展】momentum 势头动量|The study helps researchers better understand momentous.
-discord|n. 不⼀致; 不和; 【词根】dis 不+cord ⼼ 【拓展】discordant 不⼀致|The study helps researchers better understand discord.
-fiction|n. ⼩说; 虚构; 【词根】fic 做→做出的故事 【拓展】 novel ⻓篇⼩说;新颖的|The study helps researchers better understand fiction.
-drama|n. 戏剧, 剧本; 戏剧性事件; 【词源】=do, act 做表演;|The study helps researchers better understand drama.
-strife|n. 冲突; 争⽃; 【拓展】 controversy 争论辨论 argument 理由辨论 conflict ⽭盾冲突 debate 辩论争论 dispute 争吵质疑 quarrel 争吵争执 strife 争吵争⽃|The study helps researchers better understand strife.
-resort|n. 采取; 度假胜地; v. 诉诸; 采取; 【词源】 re 再次+sort 来|The study helps researchers better understand resort.
-athlete|n. 运动员; 【拓展】 athletic 运动员, 健壮的;|The study helps researchers better understand athlete.
-surge|n. v. 汹涌; 激增; ⼤量; 【词根】surg 升起→汹涌澎湃 【拓展】soar 翱翔, ⻜涨|The study helps researchers better understand surge.
-divorce|n. v. 离婚; 分离; 【词根】di 分开+vorce 转 【拓展】 divert 转移绕道, 分散注意⼒|The study helps researchers better understand divorce.
-proliferation|n. 增殖, 繁殖; 增⽣; 【词根】pro 多+lifer 带来 【拓展】 proliferate 增⽣, 激增 prolific 多产的, 众多的|The study helps researchers better understand proliferation.
-disprove|v. 反驳; 证明有误; 【词根】dis 反+prov 证明 【拓展】disproval 反驳|The study helps researchers better understand disprove.
-radical|adj. 根本彻底的, 激进的; 【词根】radic 根本+al ⼈ 【拓展】radically 彻底激进地|The study helps researchers better understand radical.
-marvel|n. 奇迹; v. 赞叹; 感到惊奇; 【辨析】 marvel 奇迹 miracle 奇迹 wonder 奇迹|The study helps researchers better understand marvel.
-logical|adj. 符合逻辑的; 合理的; 来⾃ logic 逻辑, 逻辑学; 【拓展】logically 逻辑上地;|The study helps researchers better understand logical.
-flee|v. 逃⾛; 消失; 逃避; 【拓展】 escape 逃跑 flee 匆忙逃⾛|The study helps researchers better understand flee.
-confederacy|n. (国家) 联盟; 【词根】con 共同+feder 联盟|The study helps researchers better understand confederacy.
-fellowship|n. 友谊; 团体; 研究员职位; 学术奖⾦; 来⾃ fellow 伙伴 【拓展】 scholarship 助学⾦奖学⾦ fellowship 学术职位津贴|The study helps researchers better understand fellowship.
-repudiate|vt. 批判驳斥; 断绝关系 【词根】re 反+pud 羞耻|The study helps researchers better understand repudiate.
-strip|v. 剥光; 除去; n. ⻓条; 带状地带; 【拓展】stripe 条纹, 线条|The study helps researchers better understand strip.
-magic|n. 魔法魔术; 魔⼒; adj. 有魔⼒的; 神奇的; 【拓展】 magical 神奇魔⼒的 magician 魔术师|The study helps researchers better understand magic.
-worship|n. v.崇拜;热爱;景仰; 【词根】wor 值得→尊敬 【拓展】worshipper 崇拜者 单词 ⾳标 释义 助记 fluidity  n. 流动性; 液体流质; 来⾃ fluid 流体的 【拓展】 solid 固体的 solidify 使固化 solidify 固体固态 spectacle  n. 奇观; 景象; 表演; 眼镜; 【词根】spect 看+acle 东⻄ peripheral  adj. 外围的; 次要的; 末梢的; n. 外部设备; 【词根】peri 周围+pher 带有 【拓展】 periphery 外围, 不重要的部分; assert  v. 断⾔; 声称; 坚持主张; 【词根】as 加强+sert 加⼊ 【拓展】asset 资产 self-assertion ⾃信, ⾃作主张 undermine  v. 逐渐削弱; 破坏根基; 【词根】under 在下+mine 挖 peculiar  adj. 奇特古怪的; 异常特殊的; 【词根】peculi 奇特 【拓展】 peculiarity 个性, 古怪之处 peculiarly 特别地 consensus  n. ⼀致看法; 共识 【语源】=agreed 赞同 【拓展】census ⼈⼝普查 imaginative  adj. 富于想像的; 来⾃ imagine 想象 ethic  n. 道德规范; 伦理; 【拓展】 ethics 道德规范; 伦理 ethnic 种族的, ⺠族的; mediocre  adj. 普通的; 中等的; 质量中等偏下的; 【词根】medi 中间+ocre ⼭ feasible  adj. 可⾏的; ⾏得通的; 【词根】feas 做+ible 能 【拓展】feasibility 可⾏性; drastic  adj. 激烈的; 极端的; 严厉的; 【拓展】drastically 彻底地; germinate  v. 发芽; 发育; 形成; 产⽣; 来⾃ germ 萌芽, 胚芽; 【拓展】sprout 发芽⽣⻓|The study helps researchers better understand worship.
-BEAT|《托福必考 2000 词》 List 30 请加助教微信 deliberate  adj. 故意的; v. 仔细思考; 【拓展】deliberately 故意地; deliberation 深思熟虑; hatch  v. 孵化; 破壳; 谋划; n. 舱⻔; ⼩窗⼝; 【拓展】 hatchling ⼈⼯孵化的⻥或⻦ unhatched 未孵化的 arduous  adj. 困难的; 艰巨的; 【词源】拉丁⽂=difficult 难的 frame  n. 框架; 组织; 镜头; v. 制定; 使适合; 加框; 【拓展】framework 框架结构; fame 名声 nursery  n. 托⼉所; 苗圃; 【词根】nurse 看护照料 deceive  v. 欺诈; 【词根】de 坏+ceive 拿 kinetic  adj. 运动的;  动⼒的; 【词根】kin 运动+etic 属于 budget  n. 预算; v. 把…编⼊预算; adj. 低廉的; 【拓展】fund 基⾦ foundation 基础, 基⾦会 rift  n. 裂缝, 裂痕; 争议; 【拓展】crevice 岩⽯裂缝 cleft 裂缝 pessimistic  adj. 悲观的; 【拓展】pessimist 悲观主义者; optimistic 乐观的; chart  n. 图表; 海图; v. 绘图; 记录; 【词根】chart 纸⽚→图表 【拓展】charter 许可证; 纲领; onset  n. 开始, 攻击; 发病; 【拓展】assault 袭击抨击 offence 冒犯得罪 onslaught 猛攻突击 charge 猛冲猛攻 ammonia  n. 氨; 氨⽔; 氨⽓; methane  n. 甲烷, 沼⽓; descriptive  adj. 描写的, 叙述的; 来⾃ describe 描述, 形容; 【词根】de 去+scrib 写 【拓展】description 描写形容; endanger  v. 危及危害; 【词根】en 加强+danger 危险 【拓展】endangered 濒危的 giant  n. 巨⼈; 巨物; 伟⼈; adj. 巨⼤的; 【拓展】 enormous 极⼤的 immense 巨⼤的 gigantic 巨⼤的 colossal ⽆⽐巨⼤的 vast ⼴阔的 massive ⼤⽽重的 tremendous 惊⼈的巨⼤ sap  n. 精⼒元⽓; 植物汁液; v. 使衰竭; 伤元⽓; 【词源】=head 脑⼦的精⼒ 【拓展】succulent 多汁活⼒的 Uranus  n. 天王星; venture  n. 冒险事业; v. 冒险⾏事; 【拓展】 venture 冒险尝试 dare 敢做挑战 hazard ⽃胆提出 risk 承担⻛险 camouflage  n. v. 伪装; 掩饰; 【拓展】disguise 伪装, 掩饰; amphibian  n. 两栖动物; adj. 两栖的; 【词根】amphi 两个+bi ⽣命 couple  n. 两个; 配偶; 好⼏个; v. 加上; 结合; 【拓展】 combine 结合 unite 联合 connect 相连 link 环接连接 attach 局部接整体 couple 连接两者 associate 联系联合 submissive  adj. 顺从的; 柔顺; 【词根】sub 在下⾯+miss 放 longitude  n. 经度; 【词源】拉丁语=long ⻓的 【拓展】latitude 纬度 (lat=宽) rear  v. 饲养; 养育; 抬起; ⾼耸; n. 后部; 臀部; 拉丁语=back 背后 【词源】同 rise 升起 prospect  n. 前景; 希望; v. 勘察; 有希望; 【词根】pro 前⾯+spect 看 postulate  n. v. 假定; 先决条件; 【拓展】 assume 武断推测 presume 经验假设 suppose 个⼈推测 guess 主观猜测 postulate 论证假定 upset  v. 使⽣⽓; 搅乱; n. 混乱; 肠胃不适; adj. ⼼烦的; 【词根】up 向上+set 安置 bold  adj. 明显的; ⼤胆的; 莽撞的; n. 粗⿊体字; 【拓展】 bold 勇往直前 brave 勇敢果断 daring 胆⼤⼼细 fearless 坚定⽆畏 analogous  adj. 可⽐拟的; 【拓展】analog 类似物 refuse  v. 拒绝; 回绝; 【拓展】 refuse 坚决拒绝 rebut 反驳否定 refute 驳斥批驳 decline 婉⾔谢绝 reject 直接拒绝 repel 直接拒绝 deny 拒绝承认 slick  adj. 光滑的; 娴熟的; 利索的; n. 光滑之处; v. 使光滑美观; 【词源】古英语=smooth 光滑 meticulous  adj. 谨慎, 注意细节的; 【词源】=fear 怕出错更谨慎 erratic  adj. 古怪, 反复⽆常的; 【词根】err 犯错→古怪的 invoke  v. 援引; 唤起; 祈求; 【词根】in 进+vok 出声→请求 apprentice  n. 学徒; 徒弟; 【词源】=learn 学习 【拓展】apprehend 理解 chore  n. 家务活; 琐事; 【拓展】trivial 琐碎不重要的 waxy  adj. 像蜡的; 光滑的; 来⾃ wax 蜡 thorough  adj. ⼗分彻底的; 【拓展】thoroughly 彻底地 confidence  n. 信⼼; 信任; 来⾃ confide 吐露⼼事; 【词根】con 全部+fid 相信 【拓展】confident ⾃信确信的; traumatic  adj. 外伤的; 创伤的; 痛苦的 来⾃ trauma ⼼理创伤 valid  adj. 有效的; 【拓展】 validate 使有效, 使⽣效 validity 正态性, 可信性 haul  v. 拖, 拉; 【拓展】 drag 拖拽 draw 拖拉 tug 使劲拉拽 tow 牵引 haul 费时费⼒地拖拉 resume v.  n.  v. 重新开始; 恢复职位; n. 简历 résumé 【词根】re 再+sume 拿→恢复 ravage  v. 毁坏; 劫掠; 【词根】rav 捕,夺 【拓展】revenge 复仇 irritant  n. 刺激物; 恼⽕的事; 来⾃ irritate 刺激 【词根】ir 进⼊+rit 擦→激怒 legible  adj. 清晰易读的; 【词根】lleg 讲,读,说 ultimately  adv. 最后最终; 来⾃ ultimate 最后的, 根本的; purify  v. 净化; 使纯正; 【词根】pure 纯洁 mute  adj. ⽆声的; n. 哑巴; v. 减轻; 抑制; 缓和; 【辨析】 dumb 哑的; 愚蠢的 mute 聋哑 intrinsic  adj. 内在的, 固有的; 【拓展】intrinsically 固有地 instigate  v. 教唆; 煽动; 【词根】in 内+stig 刺→煽动 tone  n. 声调; ⾊调; 氛围; 强健状况 v. 使健壮; 保持协调; 【拓展】tune 曲调, 调试 comprehend  v. 理解领悟; 【词根】com 全+prehend 抓 theme  n. 主题; 主旋律; 话题; 【拓展】 subject 学科话题 theme 中⼼主题 topic 题⽬话题 leap  n. v. 跳跃; 猛跳; 激增; 【拓展】 spring 弹跳 hop 猛跳|The study helps researchers better understand BEAT.
+density|n. 密度; 【词根】dens 变厚+ity 性质→密度 【拓展】dense 浓厚的, 密集的|The population density is very high in this city.
+stratum|n. 地层; 阶层; 【词根】strat 扩散→地层, 社会阶层|This fossil was found in a lower stratum of rock.
+sequence|n. 顺序, 序列; 【词根】sequ 跟随, 追→连续|The DNA sequence determines genetic traits.
+Egyptian|adj. 埃及 (人, 的); 来自 Egypt 埃及|They visited the Egyptian pyramids during their trip.
+current|n. 水流, 电流; 趋势; adj. 当前的; 【词根】curr 跑, 发生→流动|The current is too strong to swim against.
+shell|n. 外壳; 炮弹; 【词源】同 scale 刮除, 脱落 【拓展】 seashell 贝壳 shellfish 贝类动物|The turtle hid inside its shell.
+nutrient|n. adj. 营养 (的); 【词根】nutri 营养 【拓展】nutrition 营养|Fruits and vegetables are rich in nutrients.
+canal|n. 运河, 沟渠; 【词根】can 容器,管道→运河, 槽沟 【形近】channel 频道, 渠道, 海峡|The Panama Canal connects two oceans.
+style|n. 风格, 类型, 样式; 来自中古英语: 笔, 书写工具→风格|Her writing style is clear and concise.
+meteorite|n. 流星; 陨石; 来自 meteor 流星 【拓展】meteoritic 陨石的|The meteorite crashed into the desert.
+expand|v. 扩大, 扩展; 【词根】ex 出+pand 扩散→扩张 【拓展】expanse 广阔的区域|The company plans to expand its operations overseas.
+host|n. 主人; v. 主持; 【词根】host 客→愿意待客的人|Our school will host the regional competition.
+particle|n. 微粒; 颗粒; 粒子; 【词根】part 分开+icle 小东西→小|Dust particles float in the air.
+Martian|n. 火星人; 来自 Mars 火星|Some scientists study the possibility of Martian life.
+relative|adj. 相关的; n. 亲戚 来自 relate 联系→相对, 相关的|My relatives live in another country.
+mill|n. v. 磨坊, 工厂; 研磨; 来自希腊语 mola 牙齿|The old mill was converted into a museum.
+against|prep. 反对; 倚靠; 来自 again 再次|She leaned against the wall and sighed.
+specific|adj. 具体特定的; 【词根】speci 外观, 种类, 特别 【拓展】 specify 指定, 详细说明 specifics 详情, 细节, 特性|Please give me a specific example.
+import|n. v. 进口, 输入; 【词根】im 进入+port 港口→进口|The country imports most of its oil.
+consist|vi. 由...组成 (of) 【词根】con 共同+sist 站→站一起 →组成|The team consists of five members.
+advantage|n. 优势, 利益; 【词根】vant=van 前卫→优点有利 【拓展】advantageous 有利的|Being bilingual gives you a big advantage.
+algae|n. 藻类； 【词源】来自 alga 藻类 (复数 algae)|Algae grow rapidly in warm, nutrient-rich water.
+geology|n. 地质(学); 【词根】geo 地+logy 学说 【拓展】 geologic 地质的 geologist 地质学家 Geological 地质学的|She studies geology to understand Earth's history.
+vase|n. 花瓶; 来自 vessel 容器|She placed fresh flowers in the vase.
+military|adj. 军事的, 军用的; 【词根】milit 兵+ary 形容词词尾|The country has a strong military force.
+shift|n. v. 移动; 更替; 轮班; 换挡; 【词源】同 shed 脱落, 蜕皮, 分水岭|The worker finished his night shift at dawn.
+vessel|n. 船; 容器; 血管; 拉丁语 vas 容器 【词源】同 vase 花瓶; 【拓展】vascular 血管的;|A large vessel sailed across the ocean.
+diversity|n. 多样性, 差异; 【词根】di 分开+vers 转→不同 【拓展】diverse 多样的|Cultural diversity enriches our society.
+adapt|v. 适应, 改编; 【词根】ad 一再+apt 能力→适应 【拓展】 adaptation 适应 adaptive 适应的|Animals must adapt to changes in their environment.
+original|adj. 最初原始的; n. 原件; 原文; 来自 origin 起源 【拓展】orig 升起,开始→起源|The original painting is in a museum.
+preserve|vt. 保护, 保存; 【词根】pre 预先+serv 保留→保存 【拓展】preservation 保存|We must preserve endangered species.
+characterize|v. 描述特性, 塑造人物; 【词根】charact 特性 【拓展】 character 性格, 角色 characteristic 特色 characteristics 特征性质 characterization 特性描述刻画|This painting characterizes the artist's unique style.
+mechanical|adj. 机械的; 来自 mechanic 技工 【词源】同 machine 【词根】mach 机器|The device has a mechanical problem.
+Jovian|adj. 木星的 来自 Jupiter 木星|Jovian moons are fascinating to astronomers.
+obtain|vt. 拿到, 获得; 【词根】ob 加强+tain 拿→拿到 【拓展】unobtainable 得不到的;|She obtained a degree in biology.
+global|adj. 全球的; 球形的; 来自 globe 球, 球状物=shpere|Climate change is a global issue.
+associate|v. 联系, 联合; 联想; n. 同事伙伴; 【词根】as 加强+soci 社团→联合|People often associate happiness with success.
+extensive|adj. 广阔的; 大量的; 【词根】ex 出+ten 伸展→广大 【拓展】 extension 延长, 扩充 extent 程度, 长度|The professor has extensive knowledge of history.
+dinosaur|n. 恐龙; 【词根】dino 恐怖+saur 蜥蜴→恐龙|Dinosaurs went extinct millions of years ago.
+draw|v. 绘画; 拖; 引起注意; 【词根】draw=pull→拉→绘画, 吸引|The children love to draw pictures of animals.
+carbon|n. 碳; 【词根】carb 碳 【词源】同 coal 煤; charcoal 木炭; 【拓展】carbonization 碳化|Carbon dioxide is a greenhouse gas.
+architecture|n. 建筑, 建筑学; 来自 architect 建筑师 【词根】archi, archy 统治+tect 构建|Modern architecture uses a lot of glass and steel.
+sign|n. 标记; 签名; 手语; 【词根】sign=mark 标记 【拓展】symbol 象征, 代表; 标志|A red sign indicated a warning.
+potential|adj. 潜在, 可能的; n. 潜力; 电势; 来自 potent 有力的, 有效的 【拓展】latent 潜藏的；隐伏的|She has great potential to become a leader.
+craft|n. 手工艺; v. 手工制作; 古英语 craft=strength, skill 技能 【拓展】 craftspeople 工匠, 手艺人 craftsman 工匠, 手艺人|He learned the craft of woodworking from his grandfather.
+timberline|n. 树带界线; 林线; 来自 timber 木材, 木料|The timberline marks the highest altitude where trees can grow.
+pore|n. 空隙; 毛孔; 【词源】pore=passage 穿过 【拓展】 porous 多孔能渗透的 porosity 多孔性|Sweat exits the body through pores.
+hare|n. 野兔; v. 飞跑; hare=rabbit 兔子|A hare darted across the field.
+occupy|vt. 占领; 从事; 【词根】oc 再+cup 抓→占领 【拓展】 occupation 职业, 占领 occupant 占有者|The army occupied the city for several months.
+civilization|n. 文明, 文化; 【词根】civil 公民的→文明文化 【拓展】 civil 全民的, 市民的 civilian 平民, 民间的|Ancient Egypt was a great civilization.
+nestling|n. 雏鸟, 幼鸟; 【词根】nest 鸟巢 【拓展】 ground-nesting 地上筑巢的 tree- nesters 在树上筑巢的鸟|The nestling waited for its mother to return with food.
+autobiography|【词根】auto 自己+biography 传记 【拓展】 biography 传记 biographer 传记作者|She wrote an autobiography about her life as an artist.
+inhabitant|n. 居民, 住户; 来自 inhabit 居住栖息于 【词根】in 进入+habit 居住, 习惯|The island has only 200 inhabitants.
+account|n. 帐目; 账户; v. 解释; 认为是; 【词根】ac 加强+count 计算→帐目|Please explain your account of the incident.
+generate|vt. 产生; 发电; 【词根】gener 生殖+ate 动词词尾|The dam generates electricity for the whole region.
+volume|n. 体积, 容量; 音量; 【词根】volu 转卷→卷, 容积 单词 音标 释义 助记 herd  n. 兽群, 牧群; v. 放牧 【类比】 herd 动物群(尤指家畜, 也指人) flock 鸟群 swarm 蜂群等昆虫群 drift  n. 漂流; 漂泊; 【词根】drif 驾驶偏移→冲洗, 漂流 【词源】同 drive 驾驶 association  n. 协会, 社团; 联合; 联 想; 来自 associate 联系, 联合, 联想 【词根】as 加强+soci 社团+→联 合 Rome  n. 罗马 (意大利首都); habitat  n. 栖息地, 住处; 【词根】habit 居住→住的惯地方 commercial  adj. 商业的, 贸易的; n. 广告; 来自 commerce 商业 【词根】com 共同+merc 交易 fort  n. 堡垒; v. 设置要塞保卫; 【词源】=strong 强壮→要塞堡垒 male  adj. 男性的, 雄性的; n. 男性; 雄性动物; 自拉丁语 masculus 男的, 雄性的 estimate  n. v. 评估判断, 预测; 【词源】同 esteem 敬重, 评价 【拓展】underestimate 低估 extinct  adj. 灭绝的; 【词根】ex 出+stinct 火焰→灭绝 tissue  n. 动、植物的组织; 薄 纸; 面巾纸; 【词根】tissu 编织|Please turn down the volume of the music.
+BEAT|《托福必考 2000 词》 List 04 请加助教微信 emerge  vi. 出现浮现; 暴露; 【词根】e 出+merge, merg 沉没 challenge  n. v. 挑战; 质疑; 驳斥; 拉丁语=accuse 指责指控 marsh  n. 湿地, 沼泽; 【词源】同 marine 海的 Nile  n. 尼罗河 (非洲东北 部); 【拓展】 Tigris 底格里斯河 Euphrates 幼发拉底河 right-handed  adj. adv. 用右手 (的, 地); 【词根】right 右+handed 手的 archaeologist  n. 考古学家; 来自 archaeology 考古学 【词根】archae 起始古老→考古 学 cue  n. 暗示, 提示
